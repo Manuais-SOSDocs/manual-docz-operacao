@@ -25,7 +25,7 @@ Cada permissão define as ações que o usuário pode realizar dentro do sistema
 
 Acesse abaixo os guias rápidos para cadastrar e editar usuários dentro do sistema:
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><mark style="color:blue;"><strong>➕ Cadastrar novo usuário</strong></mark></td><td><a href="cadastrar-novo-usuario.md">cadastrar-novo-usuario.md</a></td></tr><tr><td align="center"><mark style="color:blue;"><strong>✏️ Editar usuário</strong></mark></td><td><a href="editar-usuario.md">editar-usuario.md</a></td></tr><tr><td align="center"><mark style="color:blue;">🔐 <strong>Permissões de Usuário</strong></mark></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><mark style="color:blue;"><strong>➕ Cadastrar novo usuário</strong></mark></td><td><a href="cadastrar-novo-usuario.md">cadastrar-novo-usuario.md</a></td></tr><tr><td align="center"><mark style="color:blue;"><strong>✏️ Editar usuário</strong></mark></td><td><a href="editar-usuario.md">editar-usuario.md</a></td></tr><tr><td align="center"><mark style="color:blue;">🔐 <strong>Permissões de Usuário</strong></mark></td><td><a href="permissoes-do-usuario-no-sistema-docz.md">permissoes-do-usuario-no-sistema-docz.md</a></td></tr></tbody></table>
 
 
 
