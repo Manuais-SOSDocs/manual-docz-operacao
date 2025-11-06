@@ -5,6 +5,7 @@
   * [O que há de novo no DocZ?](bem-vindo-a-ao-universo-docz/o-que-ha-de-novo-no-docz/README.md)
     * [Novidades da Versão Publicada em 22/07/2025.](bem-vindo-a-ao-universo-docz/o-que-ha-de-novo-no-docz/novidades-da-versao-publicada-em-22-07-2025..md)
     * [Novidades da Versão Publicada em 14/10/2025.](bem-vindo-a-ao-universo-docz/o-que-ha-de-novo-no-docz/novidades-da-versao-publicada-em-14-10-2025..md)
+    * [Novidades da Versão Publicada em 06/11/2025.](bem-vindo-a-ao-universo-docz/o-que-ha-de-novo-no-docz/novidades-da-versao-publicada-em-06-11-2025..md)
     * [Resumo do Trimestre](bem-vindo-a-ao-universo-docz/o-que-ha-de-novo-no-docz/resumo-do-trimestre.md)
   * [FAQ](bem-vindo-a-ao-universo-docz/faq.md)
   * [SUPORTE](bem-vindo-a-ao-universo-docz/suporte.md)
