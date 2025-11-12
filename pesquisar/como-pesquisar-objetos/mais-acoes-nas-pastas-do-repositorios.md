@@ -3,7 +3,7 @@
 No repositório de pastas, você pode gerenciar caixas e documentos de forma prática.\
 Basta clicar com o **botão direito** sobre uma pasta para ver as opções disponíveis, como:
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="350"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="350"><figcaption></figcaption></figure>
 
 <details>
 

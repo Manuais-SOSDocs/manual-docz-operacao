@@ -165,7 +165,7 @@ O filtro **“Mostrar Caixas Não Implantadas”** vem **ativado por padrão**, 
 
 ### **Indexação**
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Este filtro permite que o usuário escolha procurar objetos **indexados** ou **não indexados**. As opções são:
 
@@ -190,6 +190,18 @@ No campo **Metadados**, você pode aplicar diversos filtros para refinar ainda m
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="148">Filtro</th><th width="423">Descrição</th><th>Aplicação do Filtro</th></tr></thead><tbody><tr><td><strong>Identificador SOS</strong></td><td>Número único gerado automaticamente pelo sistema DocZ para cada item (caixa ou documento), garantindo rastreabilidade. A etiqueta correspondente pode ser física (impressa) ou virtual.</td><td>Pesquisa de caixas e documentos.</td></tr><tr><td><strong>Localização</strong></td><td>Indica onde o item está fisicamente armazenado. Facilita a busca e o manuseio rápido, principalmente para o time de operações.</td><td>Pesquisa de caixas e documentos.</td></tr><tr><td><strong>Status</strong></td><td>Mostra a situação atual do item: arquivado, emprestado, em tratamento, expurgado, em trânsito, entre outros.</td><td>Pesquisa de caixas e documentos.</td></tr><tr><td><strong>Nº da Caixa do Cliente</strong></td><td>Número indicado pelo cliente, diferente do gerado pelo sistema SOS.<br><sub>⚠️ O uso deste campo requer configuração prévia informada pelo cliente na implantação.</sub></td><td>Pesquisa apenas de caixas.</td></tr><tr><td><strong>Descrição</strong></td><td>Tipo de descrição configurado pelo cliente durante a implantação. </td><td>Pesquisa de caixas e documentos.</td></tr><tr><td><strong>Departamento</strong></td><td>Setor de origem da caixa ou documento. Deve ser configurado na implantação. Para dúvidas, contate o suporte.</td><td>Pesquisa de caixas e documentos.</td></tr><tr><td><strong>Tipo Objeto</strong></td><td>Identifica o tipo de objeto e suporte custodiado: Caixa 20kg, Caixa Box, Microfilme, Mídia Especial, Mapa, etc. Pode incluir tipo documental em pesquisas de documentos (dossiê, processo, etc).</td><td>Pesquisa de caixas e documentos.</td></tr><tr><td><strong>Nº Concorrente</strong></td><td>Utilizado em migração de dados, permitindo localizar caixas pelo Identificador anterior.</td><td>Pesquisa apenas de caixas.</td></tr><tr><td><strong>Nº Solicitação</strong></td><td>Número gerado pela Ordem de Serviço de solicitações.</td><td>Pesquisa de caixas e documentos.</td></tr><tr><td><strong>Usuário</strong></td><td>Busca pelo nome de quem realizou a última ação na caixa ou documento.</td><td>Pesquisa de caixas e documentos.</td></tr></tbody></table>
+
+***
+
+### ⚙️ Operadores de filtro
+
+Nos campos de metadados (como **Identificador SOS**, **Localização** ou **Identificador Cliente**), o ícone de **engrenagem** permite definir **como o sistema deve interpretar o valor digitado** na pesquisa.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Ao clicar no ícone, são exibidas as seguintes opções:
+
+<table><thead><tr><th width="86">Ícone</th><th width="94">Opção</th><th>Descrição</th><th>Exemplo de Uso</th></tr></thead><tbody><tr><td><div><figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure></div></td><td><strong>Contém</strong></td><td>Retorna todos os registros que contenham o termo informado, mesmo que parcialmente.</td><td>Pesquisar por <code>123</code> trará resultados como <code>A1234</code>, <code>123XYZ</code>, etc.</td></tr><tr><td><div><figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div></td><td><strong>Igual</strong></td><td>Retorna apenas os registros que correspondem exatamente ao valor digitado.</td><td>Pesquisar por <code>123</code> retornará somente o registro <code>123</code>.</td></tr><tr><td><div><figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div></td><td><strong>Diferente</strong></td><td>Retorna todos os registros que <strong>não</strong> sejam iguais ao valor informado.</td><td>Pesquisar por <code>123</code> mostrará todos os resultados exceto o <code>123</code>.</td></tr><tr><td><div><figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure></div></td><td><strong>Vazio</strong></td><td>Retorna os registros em que o campo pesquisado <strong>não possui valor preenchido</strong>.</td><td>Exibe documentos onde o campo está em branco.</td></tr></tbody></table>
 
 
 
