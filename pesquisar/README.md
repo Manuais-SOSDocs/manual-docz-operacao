@@ -45,8 +45,7 @@ A funcionalidade de **Espelhos Personalizados** permite ao usuário gerar impres
 
 #### Acessando a tela
 
-1.  No módulo **Pesquisar**, localize o ícone de **Espelhos Personalizados**. Ele está posicionado acima do bloco que apresenta as pastas do repositório do projeto.\
-
+1.  No módulo **Pesquisar**, localize o ícone de **Espelhos Personalizados**. Ele está posicionado acima do bloco que apresenta as pastas do repositório do projeto.<br>
 
     <figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 2. Clique no ícone para abrir a tela de espelhos personalizados.

@@ -197,7 +197,7 @@ No campo **Metadados**, você pode aplicar diversos filtros para refinar ainda m
 
 Nos campos de metadados (como **Identificador SOS**, **Localização** ou **Identificador Cliente**), o ícone de **engrenagem** permite definir **como o sistema deve interpretar o valor digitado** na pesquisa.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Ao clicar no ícone, são exibidas as seguintes opções:
 

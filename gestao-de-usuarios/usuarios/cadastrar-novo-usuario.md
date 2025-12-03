@@ -25,7 +25,7 @@ Caso ele não seja informado, o e-mail será usado para identificar o usuário e
 {% step %}
 Vá para a aba **Permissões** e selecione as funcionalidades que o usuário poderá acessar, conforme a parametrização do cliente.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Saiba o que cada permissão permite fazer — [acesse aqui](permissoes-do-usuario-no-sistema-docz.md).

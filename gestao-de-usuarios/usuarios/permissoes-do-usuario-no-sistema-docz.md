@@ -159,7 +159,7 @@ Com essa permissão habilitada, o usuário poderá criar solicitações no siste
 
 Na tela de pesquisa, será exibido o ícone do **carrinho** ![](<../../.gitbook/assets/image (99).png>) acima da grade de resultados, permitindo a seleção de documentos para compor a solicitação.
 
-Para conferir o passo a passo de como realizar uma solicitação, [acesse aqui](broken-reference).
+Para conferir o passo a passo de como realizar uma solicitação, [acesse aqui](/broken/pages/j4EyI5DZEqLM1WpsqtLI).
 
 <figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
@@ -171,7 +171,7 @@ Para conferir o passo a passo de como realizar uma solicitação, [acesse aqui](
 
 Permite acesso a aba de Solicitações > implantação, permite criar solicitações de implantação de caixas/documentos.
 
-Para conferir o passo a passo de como solicitar a implantação, [acesse aqui](broken-reference).
+Para conferir o passo a passo de como solicitar a implantação, [acesse aqui](/broken/pages/JzrDHIg5wMeu5tilX720).
 
 <figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
@@ -223,7 +223,7 @@ Essa funcionalidade garante maior controle, rastreabilidade e eficiência no pro
 
 O usuário podera acessar a aba de relacionamentos em detalhes do objeto, Permite remover vínculos ou associações entre documentos.
 
-Para descobrir o passo a passo, [acesse aqui](broken-reference).
+Para descobrir o passo a passo, [acesse aqui](/broken/pages/b9aGrQG1xOVGbHKu0z4u#relacoes-entre-documentos).
 
 </details>
 
@@ -239,7 +239,7 @@ Usuários com a permissão **Indexador** têm acesso à **edição de metadados*
 2. Faça as alterações desejadas.
 3. Clique no ícone de ![](<../../.gitbook/assets/image (107).png>) **disquete** para **salvar**.
 
-🔎 Para saber como acessar essa funcionalidade, [clique aqui](broken-reference) e confira o passo a passo completo.
+🔎 Para saber como acessar essa funcionalidade, [clique aqui](/broken/pages/b9aGrQG1xOVGbHKu0z4u#acessando-os-detalhes-do-documento) e confira o passo a passo completo.
 
 <figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 
@@ -426,7 +426,7 @@ Essa permissão permite que o usuário **visualize imagens digitalizadas** armaz
 4. Dentro da visualização dos detalhes, localize a aba de **Arquivos**.
 
 > ℹ️ **Precisa de ajuda para acessar os detalhes do documento?**\
-> [Clique aqui para visualizar o passo a passo completo.](broken-reference)
+> [Clique aqui para visualizar o passo a passo completo.](/broken/pages/b9aGrQG1xOVGbHKu0z4u#visualizando-os-arquivos)
 
 </details>
 
@@ -452,7 +452,7 @@ Ao habilitar esta permissão, o usuário será capaz de carregar documentos para
 
 No módulo **Pesquisar**, após localizar o objeto desejado, acesse a tela de detalhes do documento. Lá, você encontrará a aba **Adicionar**, onde poderá realizar o upload dos arquivos.
 
-Para saber como fazer o carregamento de arquivos, [**acesse aqui o passo a passo**](broken-reference)**.**
+Para saber como fazer o carregamento de arquivos, [**acesse aqui o passo a passo**](/broken/pages/b9aGrQG1xOVGbHKu0z4u#adicionando-novos-arquivos)**.**
 
 </details>
 
@@ -480,7 +480,7 @@ Usuários com esta permissão habilitada podem adicionar comentários ou anotaç
 
 Para realizar essa ação, vá até a aba **Pesquisar**, selecione o documento desejado e clique em **abrir Documento**. Em seguida, acesse a aba **Comentários** para inserir suas observações.
 
-Para saber mais sobre como utilizar essa funcionalidade, [acesse aqui o passo a passo](broken-reference).
+Para saber mais sobre como utilizar essa funcionalidade, [acesse aqui o passo a passo](/broken/pages/b9aGrQG1xOVGbHKu0z4u#comentarios).
 
 </details>
 
@@ -492,7 +492,7 @@ Usuários com esta permissão habilitada podem remover arquivos (como fotos de D
 
 Para realizar essa ação, acesse o objeto desejado, clique em **abrir documento** e, na aba **Arquivos**, selecione o item que deseja remover. Em seguida, clique no ícone ![](<../../.gitbook/assets/image (123).png>) para excluir da visualização.
 
-Para saber como acessar a aba de arquivos, [**clique aqui**](broken-reference).
+Para saber como acessar a aba de arquivos, [**clique aqui**](/broken/pages/b9aGrQG1xOVGbHKu0z4u#visualizando-os-arquivos).
 
 {% hint style="danger" %}
 Importante: essa ação é registrada no sistema com captura de log para fins de auditoria e rastreabilidade.
@@ -570,7 +570,7 @@ Para realizar a assinatura:
 3. Vá até a aba **Arquivos**;
 4. Selecione o arquivo a ser assinado e clique no ícone ![](<../../.gitbook/assets/image (128).png>) (assinar com certificado digital).
 
-Para descobrir como realizar todo o processo, acesse o passo a passo disponível para ver os detalhes e a assinatura de documentos [**aqui**](broken-reference).
+Para descobrir como realizar todo o processo, acesse o passo a passo disponível para ver os detalhes e a assinatura de documentos [**aqui**](/broken/pages/b9aGrQG1xOVGbHKu0z4u#visualizando-os-arquivos).
 
 </details>
 
@@ -587,7 +587,7 @@ Para aplicar a chancela:
 3. Vá até a aba **Arquivos**;
 4. Selecione o arquivo a ser chancela e clique no ícone ![](<../../.gitbook/assets/image (129).png>).
 
-Para descobrir como realizar todo o processo, acesse o passo a passo disponível para ver os detalhes da aplicação de chancela [**aqui**](broken-reference).
+Para descobrir como realizar todo o processo, acesse o passo a passo disponível para ver os detalhes da aplicação de chancela [**aqui**](/broken/pages/b9aGrQG1xOVGbHKu0z4u#visualizando-os-arquivos).
 
 </details>
 
@@ -604,7 +604,7 @@ Para aplicar a chancela em lote:
 3. Clique na opção para aplicar **Chancela em lote**;
 4. Confirme a operação para validar os documentos em grupo.
 
-Para descobrir como realizar todo o processo, acesse o passo a passo disponível para aplicação de chancela em lote [**aqui**](broken-reference).
+Para descobrir como realizar todo o processo, acesse o passo a passo disponível para aplicação de chancela em lote [**aqui**](/broken/pages/1YBj6yEXZ2oyjdfsuiEx#assinatura-em-lote).
 
 </details>
 
@@ -621,7 +621,7 @@ Para realizar a assinatura em lote:
 3. Clique na opção para **Assinar com certificado pessoal em lote**;
 4. Insira a senha do certificado digital.
 
-Para descobrir como realizar todo o processo, acesse o passo a passo disponível para assinatura em lote [**aqui**](broken-reference).
+Para descobrir como realizar todo o processo, acesse o passo a passo disponível para assinatura em lote [**aqui**](/broken/pages/1YBj6yEXZ2oyjdfsuiEx#assinatura-em-lote).
 
 </details>
 
@@ -639,7 +639,7 @@ Para realizar a assinatura:
 4. Selecione o arquivo a ser assinado e clique no ícone **Assinar com certificado digital**.
 5. Insira a senha do certificado digital.
 
-Para descobrir como realizar todo o processo, acesse o passo a passo disponível para ver os detalhes e a assinatura de documentos [**aqui**](broken-reference).
+Para descobrir como realizar todo o processo, acesse o passo a passo disponível para ver os detalhes e a assinatura de documentos [**aqui**](/broken/pages/b9aGrQG1xOVGbHKu0z4u#visualizando-os-arquivos).
 
 </details>
 
