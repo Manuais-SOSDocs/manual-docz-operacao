@@ -65,6 +65,7 @@
 * [TRANSPORTE](transporte/README.md)
   * [Gestão de transporte](transporte/gestao-de-transporte.md)
   * [Gerenciar veículos](transporte/gerenciar-veiculos.md)
+  * [Responsáveis pelo transporte](transporte/responsaveis-pelo-transporte.md)
 * [GESTÃO DE GUARDA](gestao-de-guarda/README.md)
   * [Tipos de Objeto](gestao-de-guarda/tipos-de-objeto.md)
   * [Gerenciamento do Armazém](gestao-de-guarda/gerenciamento-do-armazem.md)
