@@ -3,6 +3,7 @@
 * [✨ Bem-vindo(a) ao Universo DocZ!](README.md)
   * [COMO ACESSAR?](bem-vindo-a-ao-universo-docz/como-acessar.md)
   * [O que há de novo no DocZ?](bem-vindo-a-ao-universo-docz/o-que-ha-de-novo-no-docz/README.md)
+    * [Repositório - Release notes](bem-vindo-a-ao-universo-docz/o-que-ha-de-novo-no-docz/repositorio-release-notes.md)
     * [Novidades da Versão Publicada em 22/07/2025.](bem-vindo-a-ao-universo-docz/o-que-ha-de-novo-no-docz/novidades-da-versao-publicada-em-22-07-2025..md)
     * [Novidades da Versão Publicada em 14/10/2025.](bem-vindo-a-ao-universo-docz/o-que-ha-de-novo-no-docz/novidades-da-versao-publicada-em-14-10-2025..md)
     * [Novidades da Versão Publicada em 06/11/2025.](bem-vindo-a-ao-universo-docz/o-que-ha-de-novo-no-docz/novidades-da-versao-publicada-em-06-11-2025..md)
