@@ -74,7 +74,7 @@ Para **atender uma Ordem de Serviço**, o usuário deve clicar no **ícone corre
 Em seguida, a OS deve ser **atribuída a um usuário responsável** com **permissão de guarda**.\
 Caso necessário, insira uma **observação** e finalize a ação clicando em **Confirmar**.
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 

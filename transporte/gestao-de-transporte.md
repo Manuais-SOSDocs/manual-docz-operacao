@@ -109,6 +109,4 @@ Ao finalizar o transporte clique em ![](<../.gitbook/assets/image (389).png>)
 
 
 
-
-
-<a href="../painel.md" class="button secondary" data-icon="circle-left">Retornar para anterior</a>
+<a href="./" class="button secondary" data-icon="circle-left">Voltar</a>

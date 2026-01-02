@@ -6,7 +6,9 @@ description: MENU > TRANSPORTE > GERENCIAR VEÍCULOS
 
 Nesta tela, é possível cadastrar novos veículos de transporte e editar os dados dos já existentes.
 
-<figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Texto do seu parágrafo (5) (1).png" alt=""><figcaption></figcaption></figure>
+
+
 
 A parte superior exibe a **lista de veículos cadastrados**, com informações como modelo, placa e capacidade.\
 Nessa grid, estão disponíveis as seguintes ações:
@@ -35,4 +37,4 @@ O veículo será adicionado à lista exibida acima.
 
 
 
-<a href="./" class="button secondary" data-icon="circle-left">Retornar para anterior</a>
+<a href="./" class="button secondary" data-icon="circle-left">Voltar</a>

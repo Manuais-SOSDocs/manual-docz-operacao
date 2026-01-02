@@ -8,7 +8,7 @@ description: >-
 
 Esta tela permite o acompanhamento, o rastreamento e a auditoria das importações de metadados realizadas no sistema, possibilitando a consulta do histórico e do status de cada importação.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
@@ -31,21 +31,21 @@ Os filtros disponíveis são:
 * **Usuário**: filtra as importações realizadas por um usuário específico.
 * **Status da Importação**: filtra as importações conforme o status (Processando, Concluída ou Erro).
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-Após preencher os filtros desejados, clique no botão <img src="../.gitbook/assets/image (6).png" alt="" data-size="line">.
+Após preencher os filtros desejados, clique no botão <img src="../.gitbook/assets/image (6) (1).png" alt="" data-size="line">.
 {% endstep %}
 
 {% step %}
 Abaixo dos filtros, será exibida a **listagem com o histórico completo das importações realizadas**, conforme os critérios informados.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-Caso deseje realizar uma nova importação, clique em <img src="../.gitbook/assets/image (8).png" alt="" data-size="line">.\
+Caso deseje realizar uma nova importação, clique em <img src="../.gitbook/assets/image (8) (1).png" alt="" data-size="line">.\
 Você será direcionado para a tela onde é possível executar essa ação.
 
 Para saber como realizar o procedimento, [**acesse aqui o passo a passo completo**](nova-importacao.md).

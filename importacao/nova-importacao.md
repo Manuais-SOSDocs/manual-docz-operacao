@@ -9,7 +9,7 @@ description: >-
 
 Esta tela permite realizar a importação em massa de metadados no DocZ, com a opção de aplicar automaticamente a classificação dos registros conforme regras previamente configuradas.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 📥 Passo a passo para realizar a importação de metadados
 
@@ -22,7 +22,7 @@ No **menu lateral**, acesse:\
 {% step %}
 No campo **Projeto**, selecione o projeto no qual os metadados serão importados.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -30,7 +30,7 @@ Na **grade à esquerda**, serão exibidas as pastas existentes no repositório d
 
 Selecione a pasta para a qual deseja importar os metadados.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
