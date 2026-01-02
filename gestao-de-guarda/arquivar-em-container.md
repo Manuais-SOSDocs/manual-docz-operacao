@@ -1,6 +1,5 @@
 ---
 description: MENU > GESTÃO DE GUARDA > ARQUIVAR EM CONTAINER
-hidden: true
 ---
 
 # Arquivar em Container

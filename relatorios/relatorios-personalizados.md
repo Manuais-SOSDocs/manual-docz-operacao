@@ -1,6 +1,5 @@
 ---
 description: MENU > RELATÓRIOS > RELATÓRIOS PERSONALIZADOS
-hidden: true
 ---
 
 # Relatórios Personalizados

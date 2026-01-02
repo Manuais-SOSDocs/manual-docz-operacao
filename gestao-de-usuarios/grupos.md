@@ -1,6 +1,5 @@
 ---
 description: MENU > CONFIGURAÇÕES > GRUPOS
-hidden: true
 ---
 
 # Grupos

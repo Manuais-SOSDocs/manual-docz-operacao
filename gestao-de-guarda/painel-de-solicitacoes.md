@@ -1,6 +1,5 @@
 ---
 description: MENU > GESTÃO DE GUARDA > PAINEL DE SOLICITAÇÕES
-hidden: true
 ---
 
 # Painel de Solicitações

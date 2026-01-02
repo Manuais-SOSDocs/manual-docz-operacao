@@ -92,7 +92,7 @@ Permitir o gerenciamento individual dos itens de uma O.S., com ações de atribu
 
 #### 🟦 **Ações Disponíveis**
 
-<table><thead><tr><th width="221">Botão</th><th>Função</th></tr></thead><tbody><tr><td><div><figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure></div></td><td>Cancelar o objeto da O.S.</td></tr><tr><td><div><figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure></div></td><td>Para visualizar o objeto da O.S.</td></tr><tr><td><strong>IMPRIMIR LOCALIZAÇÃO GRID</strong></td><td>Gera O.S. digital com a localização do item.</td></tr><tr><td><strong>IMPRIMIR LOCALIZAÇÃO</strong></td><td>Gera O.S. digital com a localização do item.</td></tr><tr><td><strong>ALTERAR ATRIBUIÇÃO DA O.S.</strong></td><td>Permite designar ou redirecionar a O.S. para um usuário interno responsável pelo atendimento.</td></tr><tr><td><strong>IMPRIMIR O.S.</strong></td><td>Faz o download automático da versão digital da O.S.</td></tr><tr><td><strong>DESTINATÁRIOS O.S.</strong></td><td>Adiciona ou consulta os destinatários da O.S. — pessoas que receberão o token e podem acompanhar o andamento da solicitação.</td></tr><tr><td><strong>ACOMPANHAR TRANSPORTE</strong></td><td>Redireciona para a aba de transporte, onde é possível acompanhar a movimentação dos itens.</td></tr><tr><td><strong>VOLTAR</strong></td><td>Fecha a janela pop-up e retorna à tela anterior.</td></tr></tbody></table>
+<table><thead><tr><th width="221">Botão</th><th>Função</th></tr></thead><tbody><tr><td><div><figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure></div></td><td>Cancelar o objeto da O.S.</td></tr><tr><td><div><figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure></div></td><td>Para visualizar o objeto da O.S.</td></tr><tr><td><strong>IMPRIMIR LOCALIZAÇÃO GRID</strong></td><td>Gera O.S. digital com a localização do item.</td></tr><tr><td><strong>IMPRIMIR LOCALIZAÇÃO</strong></td><td>Gera O.S. digital com a localização do item.</td></tr><tr><td><strong>ALTERAR ATRIBUIÇÃO DA O.S.</strong></td><td>Permite designar ou redirecionar a O.S. para um usuário interno responsável pelo atendimento.</td></tr><tr><td><strong>IMPRIMIR O.S.</strong></td><td>Faz o download automático da versão digital da O.S.</td></tr><tr><td><strong>DESTINATÁRIOS O.S.</strong></td><td>Adiciona ou consulta os destinatários da O.S. — pessoas que receberão o token e podem acompanhar o andamento da solicitação.</td></tr><tr><td><strong>ACOMPANHAR TRANSPORTE</strong></td><td>Redireciona para a aba de transporte, onde é possível acompanhar a movimentação dos itens.</td></tr><tr><td><strong>VOLTAR</strong></td><td>Fecha a janela pop-up e retorna à tela anterior.</td></tr></tbody></table>
 
 </details>
 
@@ -112,13 +112,13 @@ Exibir o **histórico completo de eventos** relacionados à Ordem de Serviço (O
 
 <details>
 
-<summary><img src="../.gitbook/assets/image (12).png" alt="" data-size="line">Atender O.S.</summary>
+<summary><img src="../.gitbook/assets/image (12) (1).png" alt="" data-size="line">Atender O.S.</summary>
 
-Para **atender uma Ordem de Serviço**, o usuário deve clicar no **ícone correspondente** <img src="../.gitbook/assets/image (12).png" alt="" data-size="original">exibido na grade.\
+Para **atender uma Ordem de Serviço**, o usuário deve clicar no **ícone correspondente** <img src="../.gitbook/assets/image (12) (1).png" alt="" data-size="original">exibido na grade.\
 Em seguida, a OS deve ser **atribuída a um usuário responsável** com **permissão de guarda**.\
 Caso necessário, insira uma **observação** e finalize a ação clicando em **Confirmar**.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 

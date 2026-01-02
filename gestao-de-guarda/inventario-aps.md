@@ -1,6 +1,5 @@
 ---
 description: MENU > GESTÃO DE GUARDA > INVENTÁRIO APS
-hidden: true
 ---
 
 # Inventário APS

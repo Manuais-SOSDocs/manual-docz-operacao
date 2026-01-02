@@ -1,6 +1,5 @@
 ---
 description: MENU > GESTÃO DOCUMENTAL > GERENCIAMENTO DE STATUS
-hidden: true
 ---
 
 # Gerenciamento de Status

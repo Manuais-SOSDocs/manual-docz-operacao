@@ -1,6 +1,5 @@
 ---
 description: MENU > GESTÃO DOCUMENTAL > DISTRIBUIR P/ INDEXAÇÃO
-hidden: true
 ---
 
 # Distribuir p/ Indexação

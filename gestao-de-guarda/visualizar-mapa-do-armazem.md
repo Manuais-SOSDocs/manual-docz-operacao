@@ -1,6 +1,5 @@
 ---
 description: MENU > GESTÃO DE GUARDA > VISUALIZAR MAPA DO ARMAZÉM
-hidden: true
 ---
 
 # Visualizar mapa do Armazém

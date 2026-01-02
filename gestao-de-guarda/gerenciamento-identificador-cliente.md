@@ -1,6 +1,5 @@
 ---
 description: MENU > GESTÃO DE GUARDA > GERENCIAMENTO IDENTIFICADOR CLIENTE
-hidden: true
 ---
 
 # Gerenciamento Identificador Cliente

@@ -1,6 +1,5 @@
 ---
 description: MENU > RELATÓRIOS > RELATÓRIOS INDEXAÇÃO POR ETAPA
-hidden: true
 ---
 
 # Relatórios Indexação por Etapa

@@ -1,6 +1,5 @@
 ---
 description: MENU > CONFIGURAÇÕES > USUÁRIOS
-hidden: true
 ---
 
 # Usuários

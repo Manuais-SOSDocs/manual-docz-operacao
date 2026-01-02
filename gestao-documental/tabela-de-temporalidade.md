@@ -1,6 +1,5 @@
 ---
 description: MENU > GESTÃO DOCUMENTAL > TABELA DE TEMPORALIDADE
-hidden: true
 ---
 
 # Tabela de temporalidade

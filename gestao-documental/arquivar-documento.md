@@ -1,6 +1,5 @@
 ---
 description: MENU > GESTÃO DOCUMENTAL > ARQUIVAR DOCUMENTO
-hidden: true
 ---
 
 # Arquivar Documento

@@ -1,6 +1,5 @@
 ---
 description: MENU > GESTÃO DE GUARDA > GERENCIAR ARQUIVAMENTO
-hidden: true
 ---
 
 # Gerenciar Arquivamento

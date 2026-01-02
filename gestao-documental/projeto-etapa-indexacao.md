@@ -1,6 +1,5 @@
 ---
 description: MENU > GESTÃO DOCUMENTAL > PROJETO ETAPA INDEXAÇÃO
-hidden: true
 ---
 
 # Projeto Etapa Indexação

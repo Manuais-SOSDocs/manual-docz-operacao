@@ -1,6 +1,5 @@
 ---
 description: MENU > GESTÃO DE GUARDA > GERENCIAMENTO DO ARMAZÉM
-hidden: true
 ---
 
 # Gerenciamento do Armazém

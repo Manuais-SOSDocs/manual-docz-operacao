@@ -19,13 +19,13 @@ Agora o **CPF não é mais obrigatório**.\
 Caso ele não seja informado, o e-mail será usado para identificar o usuário e garantir que não haja cadastros repetidos.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 Vá para a aba **Permissões** e selecione as funcionalidades que o usuário poderá acessar, conforme a parametrização do cliente.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Saiba o que cada permissão permite fazer — [acesse aqui](permissoes-do-usuario-no-sistema-docz.md).
@@ -40,7 +40,7 @@ Depois de ajustar as **permissões**, vá até a **aba Grupos** para **visualiza
 Sem essa permissão, será possível **apenas visualizar** as informações.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -58,7 +58,7 @@ Após salvar, clique no ícone ![](<../../.gitbook/assets/image (216).png>) ao l
 {% step %}
 Na aba **Projetos**, selecione os projetos desejados, clique em **“+” para adicionar** e depois em **Salvar**.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -68,7 +68,7 @@ No menu lateral, vá em [<kbd>**Configurações > Grupos**</kbd>](../grupos.md).
 {% step %}
 Na aba **Grupos**, selecione o grupo "Clientes" na grid da esquerda.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

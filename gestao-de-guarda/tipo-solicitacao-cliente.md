@@ -1,6 +1,5 @@
 ---
 description: MENU > GESTÃO DE GUARDA > TIPO DE SOLICITAÇÃO CLIENTE
-hidden: true
 ---
 
 # Tipo Solicitação Cliente

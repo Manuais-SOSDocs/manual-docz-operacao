@@ -9,7 +9,7 @@ description: >-
 
 #### ℹ️Diferença entre Chancela e Assinatura com Certificado Digital
 
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th></tr></thead><tbody><tr><td><p><img src="../../../../.gitbook/assets/image (29).png" alt="" data-size="line">  <strong>Aplicar a Chancela:</strong></p><p></p><p>A chancela é a assinatura digital da <strong>SOS Docs</strong>, já embarcada no DocZ. Com as permissões de projeto e usuário ativas, qualquer usuário autorizado pode aplicá-la. A assinatura possui <strong>validade jurídica</strong> e pode ser validada diretamente no ITI: <a href="https://validar.iti.gov.br/">https://validar.iti.gov.br/</a>.<br><br><sub>Além disso, o usuário pode definir nos <strong>parâmetros de projeto</strong> se deve ser aplicada uma <strong>marca d’água</strong> nos arquivos assinados. A marca d’água aparecerá apenas se o parâmetro estiver ativo no projeto.</sub></p></td></tr><tr><td><p><img src="../../../../.gitbook/assets/image (30).png" alt="" data-size="line"> <strong>Aplicar Assinatura Digital:</strong></p><p></p><p>A assinatura com certificado digital é pessoal e possui validade legal. O usuário deve fazer o upload de um certificado digital válido em <strong>"</strong><a href="https://manualsosdocs.gitbook.io/docz-operacao/painel#undefined-2"><strong>Minha Conta</strong></a><strong>"</strong>.</p><p>Ao assinar, o sistema utilizará o certificado enviado pelo usuário, seguindo os padrões do mesmo. Antes de concluir a assinatura, o sistema solicitará:</p><ul><li><strong>Senha do certificado</strong>;</li><li>Se deseja aplicar <strong>marca d’água visível</strong> no arquivo assinado.</li></ul><p></p></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th></tr></thead><tbody><tr><td><p><img src="../../../../.gitbook/assets/image (29) (1).png" alt="" data-size="line">  <strong>Aplicar a Chancela:</strong></p><p></p><p>A chancela é a assinatura digital da <strong>SOS Docs</strong>, já embarcada no DocZ. Com as permissões de projeto e usuário ativas, qualquer usuário autorizado pode aplicá-la. A assinatura possui <strong>validade jurídica</strong> e pode ser validada diretamente no ITI: <a href="https://validar.iti.gov.br/">https://validar.iti.gov.br/</a>.<br><br><sub>Além disso, o usuário pode definir nos <strong>parâmetros de projeto</strong> se deve ser aplicada uma <strong>marca d’água</strong> nos arquivos assinados. A marca d’água aparecerá apenas se o parâmetro estiver ativo no projeto.</sub></p></td></tr><tr><td><p><img src="../../../../.gitbook/assets/image (30) (1).png" alt="" data-size="line"> <strong>Aplicar Assinatura Digital:</strong></p><p></p><p>A assinatura com certificado digital é pessoal e possui validade legal. O usuário deve fazer o upload de um certificado digital válido em <strong>"</strong><a href="https://manualsosdocs.gitbook.io/docz-operacao/painel#undefined-2"><strong>Minha Conta</strong></a><strong>"</strong>.</p><p>Ao assinar, o sistema utilizará o certificado enviado pelo usuário, seguindo os padrões do mesmo. Antes de concluir a assinatura, o sistema solicitará:</p><ul><li><strong>Senha do certificado</strong>;</li><li>Se deseja aplicar <strong>marca d’água visível</strong> no arquivo assinado.</li></ul><p></p></td></tr></tbody></table>
 
 #### ✍️Como assinar documentos no DocZ
 
@@ -33,7 +33,7 @@ O sistema exibirá um pop-up com várias abas, conforme as permissões do seu us
 {% step %}
 No documento desejado, clique no ícone **"Assinar"** <img src="../../../../.gitbook/assets/image (32).png" alt="" data-size="line"> ou **"Aplicar Chancela"** <img src="../../../../.gitbook/assets/image (33).png" alt="" data-size="line"> , localizado abaixo da descrição do arquivo.
 
-<figure><img src="../../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -95,11 +95,11 @@ Após definir os parâmetros do certificado, ao clicar em **Assinar**, será exi
 No **DocZ**, é possível que **vários usuários diferentes** assinem o mesmo arquivo, mesmo após ele já ter sido assinado por outra pessoa.\
 O **ícone de assinatura** permanece disponível até que **todos os responsáveis** realizem sua validação.
 
-Além disso, o botão **“Arquivo Assinado”** <img src="../../../../.gitbook/assets/image (16).png" alt="" data-size="line"> permite **consultar todas as assinaturas aplicadas**, oferecendo **transparência e controle** sobre o histórico de validações do documento.
+Além disso, o botão **“Arquivo Assinado”** <img src="../../../../.gitbook/assets/image (16) (1).png" alt="" data-size="line"> permite **consultar todas as assinaturas aplicadas**, oferecendo **transparência e controle** sobre o histórico de validações do documento.
 
-<figure><img src="../../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 

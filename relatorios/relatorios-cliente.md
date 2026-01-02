@@ -1,6 +1,5 @@
 ---
 description: MENU > RELATÓRIOS > RELATÓRIOS CLIENTE
-hidden: true
 ---
 
 # Relatórios Cliente

@@ -1,6 +1,5 @@
 ---
 description: MENU > GESTÃO DOCUMENTAL > TIPOS DE ARQUIVO DOCUMENTO
-hidden: true
 ---
 
 # Tipos de Arquivo Documento

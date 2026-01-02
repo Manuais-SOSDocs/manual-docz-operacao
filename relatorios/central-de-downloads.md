@@ -1,6 +1,5 @@
 ---
 description: MENU > RELATÓRIOS > CENTRAL DE DOWNLOADS
-hidden: true
 ---
 
 # Central de Downloads

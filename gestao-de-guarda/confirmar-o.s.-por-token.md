@@ -1,6 +1,5 @@
 ---
 description: MENU > GESTÃO DE GUARDA > CONFIRMAR O.S. POR TOKEN
-hidden: true
 ---
 
 # Confirmar O.S. por Token

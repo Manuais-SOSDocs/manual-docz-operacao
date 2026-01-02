@@ -1,6 +1,5 @@
 ---
 description: MENU > GESTÃO DE GUARDA > TIPOS DE OBJETO
-hidden: true
 ---
 
 # Tipos de Objeto

@@ -1,6 +1,5 @@
 ---
 description: MENU > RELATÓRIOS > RELATÓRIOS PADRÃO
-hidden: true
 ---
 
 # Relatórios Padrão

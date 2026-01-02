@@ -1,6 +1,5 @@
 ---
 description: MENU > GESTÃO DE GUARDA > TIPOS DE OBJETO> PESQUISAR OBJETOS LOCALIZAÇÃO
-hidden: true
 ---
 
 # Pesquisar Objetos Localização
