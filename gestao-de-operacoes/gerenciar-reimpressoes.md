@@ -1,6 +1,5 @@
 ---
 description: MENU > GESTÃO DE OPERAÇÕES > GERENCIAR REIMPRESSÕES
-hidden: true
 ---
 
 # Gerenciar Reimpressões

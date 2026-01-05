@@ -1,6 +1,5 @@
 ---
 description: MENU > GESTÃO DE OPERAÇÕES > TRILHA DE AUDITORIA
-hidden: true
 ---
 
 # Trilha de Auditoria
@@ -22,9 +21,7 @@ Cada opção abrirá um conjunto de campos específicos para preenchimento (como
 Quando a trilha é filtrada por **Objeto**, aparecem os seguintes campos para preenchimento:
 
 * **Identificador SOS:** campo para digitar o ID do objeto.
-
-- **Ação (opcional):** lista suspensa com as ações executadas (ex: criar, editar, excluir etc.).
-
+* **Ação (opcional):** lista suspensa com as ações executadas (ex: criar, editar, excluir etc.).
 * **Data Inicial e Data Final(opcional):** para delimitar o período da busca.
 
 <figure><img src="../.gitbook/assets/image (303).png" alt=""><figcaption></figcaption></figure>
