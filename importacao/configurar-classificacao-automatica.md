@@ -51,13 +51,14 @@ Os campos disponíveis são carregados dinamicamente a partir da configuração 
 
 <summary><mark style="color:$info;"><strong>⚙️ Configuração das condições de classificação</strong></mark></summary>
 
-Nesta etapa, o usuário define **as condições que o sistema irá analisar** para decidir qual classificação deve ser aplicada automaticamente durante a importação.
+Nesta etapa, você informa ao sistema **quando** uma classificação deve ser aplicada durante a importação.\
+Funciona como uma regra simples do tipo:
 
-Funciona como uma regra do tipo:
+> _**“Quando o arquivo tiver estas informações, aplicar esta classificação.”**_
 
-> _“Se o metadado tiver estas características, então aplique esta classificação.”_
+Você pode usar **uma ou duas informações** para criar essa regra.
 
-<table data-header-hidden><thead><tr><th width="123">Campo</th><th>Explicação</th></tr></thead><tbody><tr><td><strong>Campo 1 (obrigatório)</strong></td><td><p></p><p>É o <strong>primeiro campo do projeto</strong> que será analisado pelo sistema.</p><ul><li>O usuário escolhe esse campo a partir de uma lista.</li><li>Essa lista é montada automaticamente com base nos <strong>campos cadastrados no projeto</strong>.</li><li>Pelo menos um campo deve ser informado para que a regra funcione.</li></ul><p><em><code>Exemplo: Campo 1 → Tipo Documental</code></em></p></td></tr><tr><td><strong>Valor 1</strong></td><td><p>É o <strong>valor esperado</strong> para o Campo 1.</p><ul><li>O sistema verifica se o valor informado no arquivo de importação corresponde a esse valor.</li><li>Se corresponder, a condição é considerada atendida.</li></ul><p><em><code>Exemplo: Valor 1 → Contrato</code></em></p></td></tr><tr><td><strong>Campo 2 (opcional)</strong></td><td><p>É um <strong>segundo critério</strong>, usado apenas se o usuário quiser tornar a regra mais específica.</p><ul><li>Não é obrigatório.</li><li>Serve para refinar a classificação.</li></ul><p><em><code>Exemplo: Campo 2 → Ano de Produção</code></em></p></td></tr><tr><td><strong>Valor 2</strong></td><td><p>É o valor esperado para o Campo 2.</p><ul><li>A classificação só será aplicada se <strong>as duas condições forem atendidas</strong>.</li><li>Caso o Campo 2 não seja informado, apenas o Campo 1 será considerado.</li></ul><p><em><code>Exemplo: Valor 2 → 2024</code></em></p></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="123">Campo</th><th>Explicação</th></tr></thead><tbody><tr><td><strong>Campo 1 (obrigatório)</strong></td><td><p>Aqui você escolhe <strong>qual informação do arquivo o sistema deve observar primeiro</strong>.</p><ul><li>Esse campo é selecionado a partir de uma lista.</li><li>A lista mostra apenas os <strong>campos que já existem no projeto</strong>.</li><li>Pelo menos um campo precisa ser escolhido para que a regra funcione.</li></ul><p><code>Exemplo: Campo 1 → </code><em><code>Item Documental</code></em></p></td></tr><tr><td><strong>Valor 1</strong><br><strong>(obrigatório)</strong></td><td><p>Depois de escolher o campo, você informa <strong>qual valor esse campo deve ter</strong> para que a regra seja aplicada.</p><ul><li>Durante a importação, o sistema compara o valor do arquivo com o valor informado aqui.</li><li>Se os valores forem iguais, a condição é considerada válida.</li></ul><p><code>Exemplo: Valor 1 → </code><em><code>Contrato</code></em></p><p>👉 Nesse caso, a regra será aplicada sempre que o Tipo Documental for “Contrato”.</p></td></tr><tr><td><strong>Campo 2 (opcional)</strong></td><td><p>Este campo é usado <strong>apenas se o usuário quiser deixar a regra mais específica</strong>.</p><ul><li>Não é obrigatório.</li><li>Serve para adicionar uma segunda condição à regra.</li></ul><p><code>Exemplo: Campo 2 → </code><em><code>Departamento</code></em></p></td></tr><tr><td><strong>Valor 2</strong><br><sup><sub><strong>(obrigatório, caso o "Campo 2" seja preenchido)</strong></sub></sup></td><td><p>Aqui o usuário informa <strong>qual valor o segundo campo deve ter</strong>.</p><ul><li>Quando este campo é utilizado, a classificação só será aplicada se <strong>as duas condições forem atendidas ao mesmo tempo</strong>.</li><li>Se o Campo 2 não for preenchido, o sistema considera apenas o Campo 1.</li></ul><p><code>Exemplo: Valor 2 → </code><em><code>Gestão de contratações</code></em></p></td></tr></tbody></table>
 
 </details>
 
@@ -67,21 +68,14 @@ Funciona como uma regra do tipo:
 
 * Quando **apenas o Campo 1** estiver configurado, a classificação será aplicada sempre que o valor informado para esse campo for identificado durante a importação.
 * Quando **Campo 1 e Campo 2** estiverem configurados, a classificação será aplicada somente quando **ambos os critérios forem atendidos**, tornando a regra mais específica.
+*   Exemplo prático:
 
-</details>
+    * Se o **Item Documental** for **Contrato**\
+      → a classificação será aplicada.
+    * Se o **Item Documental** for **Contrato** **e** o **Departamento** for **Gestão de contratações**\
+      → a classificação selecionada para a regra será aplicada.
 
-<details>
-
-<summary><mark style="color:$info;"><strong>🔄 Campos carregados automaticamente</strong></mark></summary>
-
-Os campos disponíveis para configuração **não são definidos manualmente**.
-
-Eles são carregados automaticamente de acordo com:
-
-* Os campos cadastrados no projeto selecionado;
-* Os campos que estão ativos e válidos no momento da configuração.
-
-Dessa forma, o sistema garante que as regras de classificação sejam criadas apenas com campos realmente existentes no projeto, evitando erros de configuração.
+    Caso contrário, a regra não será utilizada.
 
 </details>
 {% endstep %}
@@ -95,15 +89,14 @@ Selecione a classificação que será aplicada quando as condições forem atend
 
 <summary><mark style="color:$info;"><strong>🗂️ Entenda sobre a seleção da Classificação</strong></mark></summary>
 
-Nesta etapa, o usuário deve **selecionar a classificação que será aplicada automaticamente** aos objetos importados quando as condições configuradas forem atendidas.
+Nesta etapa, o usuário seleciona a **classificação que será aplicada automaticamente** aos objetos importados quando as condições configuradas forem atendidas.
 
-O campo **Classificação** apresenta as opções disponíveis conforme a **estrutura de classificação definida para o projeto**, baseada na Tabela de Temporalidade e nos parâmetros já configurados.
+O campo **Classificação** apresenta as opções disponíveis de acordo com a **estrutura de classificação do cliente**, definida com base na Tabela de Temporalidade.
 
 Ao selecionar uma classificação:
 
-* O sistema entende que **essa será a classificação final** a ser atribuída aos objetos importados;
-* Quando as condições definidas nos campos anteriores forem atendidas, a classificação escolhida será aplicada automaticamente;
-* Os campos vinculados à classificação (como fases, destinação final, grupo, classe, entre outros) poderão ser **preenchidos de forma automática**, conforme a parametrização do projeto.
+* Ela será atribuída automaticamente aos objetos importados quando as condições forem atendidas;
+* Os campos relacionados à classificação, como fases, destinação final, grupo e classe, poderão ser **preenchidos automaticamente**, conforme a parametrização do projeto.
 
 </details>
 {% endstep %}
@@ -125,6 +118,11 @@ Ação concluída, os regras configuradas aparecem na grade abaixo.
 
 <summary><img src="../.gitbook/assets/image (21).png" alt=""> Editar parâmetros existentes</summary>
 
+{% hint style="warning" %}
+Ao editar uma regra, a nova configuração será aplicada **apenas nas próximas importações**.\
+As importações realizadas anteriormente **permanecem com a regra que estava vigente no momento da execução**.
+{% endhint %}
+
 1. Na parte inferior da tela, localize a **grade de Configurações Disponíveis**, onde são exibidas todas as regras de classificação já cadastradas.
 2.  Identifique a regra que deseja alterar e clique no **ícone de edição** correspondente.
 
@@ -144,6 +142,11 @@ Atualização concluída
 <details>
 
 <summary><img src="../.gitbook/assets/image (22).png" alt=""> Excluir regras</summary>
+
+{% hint style="warning" %}
+Ao excluir uma regra, **ela deixa de ser aplicada nas próximas** importações.\
+As **importações realizadas anteriormente permanecem com a regra** que estava vigente no momento da execução.
+{% endhint %}
 
 1. Na grade **Configurações Disponíveis**, localize a regra que deseja excluir.
 2.  Ao lado do ícone de edição, clique no **ícone “X”**, que representa a ação de exclusão.<br>

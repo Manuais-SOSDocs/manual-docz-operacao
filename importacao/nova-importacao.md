@@ -34,7 +34,7 @@ Selecione a pasta para a qual deseja importar os metadados.
 {% endstep %}
 
 {% step %}
-Na **grade à direita**, será exibida a lista e a ordem dos campos que devem ser preenchidos para a importação.
+Na grade à direita, será exibida a lista e a ordem dos campos que devem ser preenchidos para a importação, conforme a pasta selecionada.
 
 Nessa mesma área, o usuário pode **realizar o download do modelo** de importação, disponível nos formatos **Excel ou CSV**.
 
@@ -44,12 +44,16 @@ Nessa mesma área, o usuário pode **realizar o download do modelo** de importa�
 {% step %}
 Após o download do modelo, o usuário deverá definir os seguintes parâmetros de importação, conforme necessidade:
 
-* **Desconsiderar Localização para importação**
-* **Aplicar Classificação Automática**
-* **Data para Importação** (formato dd/mm/aaaa)
+* <mark style="color:$info;">**Desconsiderar Localização para importação**</mark><mark style="color:$info;">:</mark>\ <mark style="color:$info;">Este parâmetro está relacionado aos</mark> <mark style="color:$info;"></mark><mark style="color:$info;">**endereços físicos dos objetos**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">(caixas ou documentos).</mark>
+  * <mark style="color:$info;">Quando</mark> <mark style="color:$info;"></mark><mark style="color:$info;">**não marcado**</mark><mark style="color:$info;">, o preenchimento da coluna</mark> <mark style="color:$info;"></mark>_<mark style="color:$info;">**Localização (C2)**</mark>_ <mark style="color:$info;"></mark><mark style="color:$info;">no arquivo de importação é</mark> <mark style="color:$info;"></mark><mark style="color:$info;">**obrigatório**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">para concluir o processo.</mark>
+  * <mark style="color:$info;">Quando</mark> <mark style="color:$info;"></mark><mark style="color:$info;">**marcado**</mark><mark style="color:$info;">, o sistema desconsidera a informação de localização, não sendo necessário preencher a coluna no arquivo.</mark>
+* <mark style="color:$info;">**Aplicar Classificação Automática**</mark><mark style="color:$info;">:</mark>\ <mark style="color:$info;">Quando marcado, o sistema aplica as regras de classificação automática configuradas.</mark>\ <mark style="color:$info;">Caso não seja marcado,</mark> <mark style="color:$info;"></mark><mark style="color:$info;">**mesmo que existam regras configuradas**</mark><mark style="color:$info;">, a classificação automática</mark> <mark style="color:$info;"></mark><mark style="color:$info;">**não será aplicada**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">durante a importação.</mark>
+* <mark style="color:$info;">**Data para Importação**</mark> <mark style="color:$info;"></mark><mark style="color:$info;">(formato dd/mm/aaaa):</mark>\ <mark style="color:$info;">Permite agendar a data em que a importação será executada, conforme as</mark> [<mark style="color:$info;">regras de processamento do sistema</mark>](nova-importacao.md#regras-de-processamento-da-importacao)<mark style="color:$info;">.</mark>
 
 {% hint style="info" %}
-As importações são iniciadas na data agendada, sempre às **20:00**. Caso a data não seja informada, a importação será executada imediatamente.
+Importações de planilhas com **mais de 10 mil linhas** são iniciadas na data agendada, sempre às **20:00**. Caso nenhuma data seja informada, a importação será executada automaticamente no mesmo dia em que o arquivo for enviado ao sistema.
+
+Quando a planilha possuir **até 10 mil linhas**, ao clicar em <mark style="color:green;">**Agendar Importação**</mark>, o processamento é realizado **imediatamente**, sem necessidade de agendamento prévio.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
