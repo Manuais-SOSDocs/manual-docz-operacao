@@ -4,13 +4,21 @@ description: MENU > GESTÃO DE OPERAÇÕES > TRILHA DE AUDITORIA
 
 # Trilha de Auditoria
 
-Ao acessar a **Trilha de Auditoria**, será exibido um formulário de pesquisa.
+A **Trilha de Auditoria** permite consultar e acompanhar todas as ações realizadas no sistema, garantindo **rastreabilidade, transparência e controle** sobre as operações executadas por usuários, clientes e objetos.
+
+<figure><img src="../.gitbook/assets/image (491).png" alt=""><figcaption></figcaption></figure>
+
+#### 📝 Passo a passo para consulta da Trilha de Auditoria
+
+{% stepper %}
+{% step %}
+Ao acessar a tela, é exibido um **formulário de pesquisa**, que possibilita localizar registros específicos conforme os filtros selecionados.
 
 <figure><img src="../.gitbook/assets/image (302).png" alt=""><figcaption></figcaption></figure>
+{% endstep %}
 
-**Opções de filtro**
-
-Cada opção abrirá um conjunto de campos específicos para preenchimento (como data, ação, identificador, cliente ou usuário, conforme o caso).
+{% step %}
+Cada opção de filtro abre um conjunto de campos específicos para preenchimento, conforme o tipo de consulta desejada, como data, ação, identificador, cliente ou usuário.
 
 <details>
 
@@ -30,7 +38,7 @@ Quando a trilha é filtrada por **Objeto**, aparecem os seguintes campos para pr
 
 <details>
 
-<summary>👤 <strong>Cliente</strong></summary>
+<summary>👤 Cliente</summary>
 
 **Objetivo:** rastrear todas as ações feitas por um cliente específico no sistema.
 
@@ -63,7 +71,7 @@ Ao selecionar **Usuário**, os seguintes campos aparecem:
 
 <details>
 
-<summary>📤 4. Compartilhou Documento</summary>
+<summary>📤 Compartilhou Documento</summary>
 
 **Objetivo:** auditar documentos que foram compartilhados, provavelmente com informações como destinatário, tipo de acesso, etc.
 
@@ -75,17 +83,25 @@ Aqui o foco é nas ações de compartilhamento, com os campos:
 <figure><img src="../.gitbook/assets/image (306).png" alt=""><figcaption></figcaption></figure>
 
 </details>
+{% endstep %}
 
+{% step %}
+Depois de preencher o formulário, clique em  <img src="../.gitbook/assets/image (308).png" alt="" data-size="original"> .&#x20;
+{% endstep %}
 
-
-Depois de preencher o formulário, clique em  <img src="../.gitbook/assets/image (308).png" alt="" data-size="original"> . Os resultados serão exibidos automaticamente na grid abaixo.
-
-{% hint style="info" %}
-A consulta possui limite de até 500 registros. No canto superior direito da grid, é possível ajustar a quantidade de itens exibidos por página.
-{% endhint %}
+{% step %}
+Os resultados serão exibidos automaticamente na grid abaixo.
 
 <figure><img src="../.gitbook/assets/image (307).png" alt=""><figcaption></figcaption></figure>
 
+> A consulta possui limite de até 500 registros. No canto superior direito da grid, é possível ajustar a quantidade de itens exibidos por página.
+{% endstep %}
+{% endstepper %}
+
+{% hint style="success" %}
+Ação concluída.
+{% endhint %}
 
 
-<a href="./" class="button secondary" data-icon="circle-left">Retornar para anterior</a>
+
+<a href="./" class="button secondary" data-icon="circle-left">Voltar</a>
