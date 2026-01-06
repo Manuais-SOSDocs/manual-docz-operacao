@@ -41,7 +41,7 @@ Na tela de Forms, o usuário pode:
 
 <summary>➕ Criar novos formulários de metadados</summary>
 
-
+<figure><img src="../.gitbook/assets/Estamos trabalhando para disponibilizar esse conteúdo o quanto antes. Volte em breve ou entre em contato caso precise de ajuda! (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </details>
 
@@ -51,6 +51,8 @@ Na tela de Forms, o usuário pode:
 
 
 
+<figure><img src="../.gitbook/assets/Estamos trabalhando para disponibilizar esse conteúdo o quanto antes. Volte em breve ou entre em contato caso precise de ajuda! (3).png" alt="" width="375"><figcaption></figcaption></figure>
+
 </details>
 
 <details>
@@ -58,6 +60,8 @@ Na tela de Forms, o usuário pode:
 <summary>🧾Clonagem de Formulários (Forms e Indexação)</summary>
 
 
+
+<figure><img src="../.gitbook/assets/Estamos trabalhando para disponibilizar esse conteúdo o quanto antes. Volte em breve ou entre em contato caso precise de ajuda! (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
 </details>
 
@@ -79,3 +83,5 @@ Os Forms impactam diretamente:
 
 A visualização e manutenção dos Forms dependem das **permissões atribuídas ao usuário**, conforme definido no projeto e nas diretrizes contratuais.
 {% endhint %}
+
+<a href="./#acoes-disponiveis-localizadas-acima-da-grade-projeto" class="button secondary" data-icon="circle-left">Voltar</a>

@@ -48,3 +48,5 @@ Após inserir os dados de todas as caixas desejadas:
 * **Limite de impressão em lote**: O sistema permite incluir até **50 caixas** por operação. Caso tente adicionar mais, uma mensagem de alerta será exibida para orientar o uso adequado da funcionalidade.
 * **Novo layout do espelho**: O layout foi ajustado para garantir que todas as informações da caixa sejam exibidas corretamente em **uma única página**.
 {% endhint %}
+
+<a href="./#acoes-disponiveis-localizadas-acima-da-grade-projeto" class="button secondary" data-icon="circle-left">Voltar</a>

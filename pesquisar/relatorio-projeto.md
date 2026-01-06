@@ -16,3 +16,5 @@ Na tela **Relatório de Projeto**, o usuário pode gerar relatórios a partir da
    📥 O relatório será gerado no formato **.xlsx** (Excel) e o download será realizado automaticamente para o computador do usuário.
 
 <figure><img src="../.gitbook/assets/image (429).png" alt=""><figcaption></figcaption></figure>
+
+<a href="./#acoes-disponiveis-localizadas-acima-da-grade-projeto" class="button secondary" data-icon="circle-left">Voltar</a>

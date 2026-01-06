@@ -20,3 +20,5 @@ Ao acessar a tela de **Avaliação**, o usuário deve seguir os passos abaixo:
 3. Clique em <mark style="color:blue;">**Pesquisar**</mark> para carregar os resultados de acordo com os filtros aplicados.
 
 <figure><img src="../.gitbook/assets/image (421).png" alt=""><figcaption></figcaption></figure>
+
+<a href="./#acoes-disponiveis-localizadas-acima-da-grade-projeto" class="button secondary" data-icon="circle-left">Voltar</a>
