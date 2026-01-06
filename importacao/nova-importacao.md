@@ -9,7 +9,7 @@ description: >-
 
 Esta tela permite realizar a importação em massa de metadados no DocZ, com a opção de aplicar automaticamente a classificação dos registros conforme regras previamente configuradas.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 📥 Passo a passo para realizar a importação de metadados
 
