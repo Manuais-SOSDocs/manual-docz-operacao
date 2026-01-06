@@ -99,6 +99,55 @@ O cliente (ou destinatário final) recebe um **código de validação por e-mail
 
 </details>
 
+<details>
+
+<summary>🔗 Vinculação de Lotes de Avaliação à Ordem de Serviço</summary>
+
+Esta funcionalidade permite que usuários com permissão adequada registrem a ocorrência **“Vincular Lote de Avaliação”** em uma Ordem de Serviço aberta, associando um lote específico à O.S. de forma controlada, rastreável e segura.
+
+Toda vinculação realizada é registrada automaticamente no **Histórico da O.S.**, contendo:
+
+* **Item**: número do lote vinculado;
+* **Ocorrência**: _Vinculação de Lote de Avaliação_;
+* Demais informações padrão de data, usuário e contexto da ocorrência.
+
+**Caminho no sistema:**\
+**Solicitações → Todas as Solicitações →** <img src="../.gitbook/assets/image (225).png" alt="" data-size="original"> **Andamento O.S. → Nova Ocorrência**
+
+### 📝 Como vincular um lote de avaliação à O.S.
+
+1.  Acesse a **Ordem de Serviço** que esteja em andamento.<br>
+
+    <div align="left"><figure><img src="../.gitbook/assets/image (484).png" alt="" width="563"><figcaption></figcaption></figure></div>
+2.  Clique em **Nova Ocorrência**.<br>
+
+    <div align="left"><figure><img src="../.gitbook/assets/image (485).png" alt="" width="563"><figcaption></figcaption></figure></div>
+3.  No campo **Ocorrência**, selecione a opção:**Vincular Lote de Avaliação**.<br>
+
+    <div align="left"><figure><img src="../.gitbook/assets/image (486).png" alt="" width="563"><figcaption></figcaption></figure></div>
+4.  Após a seleção, será exibida uma nova seção logo abaixo, contendo a **lista de lotes disponíveis para avaliação**.<br>
+
+    <div align="left"><figure><img src="../.gitbook/assets/image (487).png" alt="" width="563"><figcaption></figcaption></figure></div>
+5. Selecione o **lote desejado**.
+6.  Finalize o registro da ocorrência preenchendo o campo **Observação** e clicando em **Confirmar**.<br>
+
+    <div align="left"><figure><img src="../.gitbook/assets/image (489).png" alt="" width="563"><figcaption></figcaption></figure></div>
+7.  Após a confirmação, o lote será vinculado à O.S.<br>
+
+    <div align="left"><figure><img src="../.gitbook/assets/image (490).png" alt="" width="563"><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+#### O que o usuário precisa saber sobre a vinculação de lotes
+
+* Cada vínculo gera uma nova ocorrência na O.S.
+* Cada ocorrência permite vincular apenas **um lote**.
+* A O.S. pode ter vários lotes vinculados, desde que **não sejam repetidos**.
+* Apenas lotes do **mesmo projeto da O.S.** ficam disponíveis para seleção.
+* Lotes já vinculados ou não elegíveis **não são exibidos**.
+{% endhint %}
+
+</details>
+
 
 
 <a href="./" class="button secondary" data-icon="circle-left">Voltar</a>
