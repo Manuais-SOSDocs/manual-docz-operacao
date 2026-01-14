@@ -6,6 +6,12 @@ description: Menu > gestão de usuários > Usuários > NOVO ou ✏️ > aba Perm
 
 Cada permissão define as funcionalidades e ações que o usuário pode executar dentro do sistema. Esta tabela tem como objetivo servir de **referência rápida e prática**, auxiliando na **compreensão de cada permissão** disponível e no **ajuste seguro dos perfis de acesso**.
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+#### Administração
+
+***
+
 <details>
 
 <summary>Administrador</summary>
@@ -18,236 +24,7 @@ Acesso total ao sistema. Pode visualizar, editar, excluir e configurar qualquer 
 
 <details>
 
-<summary>Aprova reimpressão</summary>
-
-Com essa permissão habilitada, o usuário passa a ter acesso à funcionalidade no menu: **`Gestão de Operações > Gerenciar Reimpressão`**.
-
-<div align="left"><figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure></div>
-
-Essa funcionalidade permite visualizar e aprovar solicitações de impressão de etiquetas realizadas durante a operação — seja na fase de implantação ou em situações que demandem uma segunda impressão. A permissão oferece mais controle e rastreabilidade sobre o processo de rotulagem de documentos e caixas.
-
-</details>
-
-<details>
-
-<summary>Acesso exclusivo por certificado digital</summary>
-
-Com essa permissão habilitada, o sistema restringe o login exclusivamente por meio de **Certificado Digital**.
-
-</details>
-
-<details>
-
-<summary>Acesso via aplicativo android</summary>
-
-Com essa permissão habilitada, o usuário poderá utilizar o sistema por meio do **aplicativo oficial para dispositivos Android**.
-
-Para acessar o app, vá até a **barra superior** do sistema, clique em **`Outros > Componentes`** e selecione **`Docz Android`**.
-
-{% hint style="danger" %}
-Essa funcionalidade é exclusiva para dispositivos com sistema operacional Android.
-{% endhint %}
-
-<figure><img src="../../.gitbook/assets/image (93).png" alt="" width="563"><figcaption></figcaption></figure>
-
-</details>
-
-<details>
-
-<summary>Guarda</summary>
-
-Essa permissão concede acesso total às funcionalidades relacionadas ao **armazenamento físico e controle da guarda de documentos e caixas** dentro do sistema.
-
-**O que essa permissão habilita:**
-
-Ao ativar essa permissão, o usuário poderá realizar **atividades operacionais e estratégicas ligadas ao controle de guarda física**, incluindo o uso intensivo do painel de Ordens de Serviço (OS).
-
-**Principais funcionalidades disponíveis:**
-
-* 🗃️ **Cadastro, localização e movimentação de caixas/documentos físicos**;
-* 🔎 **Pesquisas avançadas no acervo físico** (por número de caixa, código de barras, cliente, projeto, etc.);
-* 📝 **Interação com o Painel de OS**, tanto para atendimento de demandas internas (projetos em execução) quanto externas (solicitações de clientes);
-* 🔄 **Atualização do status de caixas/documentos conforme fluxo operacional**;
-* 🧩 **Alimentação de projetos em andamento** com novas caixas, conforme planejamento de guarda.
-
-<figure><img src="../../.gitbook/assets/menu guarda docz.png" alt="" width="161"><figcaption></figcaption></figure>
-
-</details>
-
-<details>
-
-<summary>Administrar usuários</summary>
-
-Com essa permissão habilitada, o usuário terá acesso à funcionalidade **`Gestão de usuários`** no menu lateral.
-
-<div align="left"><figure><img src="../../.gitbook/assets/image (94).png" alt="" width="82"><figcaption></figcaption></figure></div>
-
-A partir dessa tela, é possível:
-
-* Criar novos usuários;
-* Editar perfis existentes;
-* Atribuir usuários a grupos.
-
-</details>
-
-<details>
-
-<summary>Alterar documentos em lote</summary>
-
-Com essa permissão habilitada, o usuário poderá editar, excluir ou adicionar metadados em até 500 documentos simultaneamente.
-
-<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
-
-Para acessar a funcionalidade:\
-**Pesquisar > Grade de Pesquisa > selecionar os documentos na checkbox >** ![](<../../.gitbook/assets/image (96).png>) **> Alterar Metadados**
-
-Ao selecionar essa opção, será exibida uma lista com as ações disponíveis para alteração em lote, permitindo otimizar a gestão documental em massa.
-
-</details>
-
-<details>
-
-<summary>Excluir documentos</summary>
-
-Essa permissão permite que o usuário realize a **exclusão lógica** de documentos do ambiente ativo do sistema, ou seja, eles deixam de ser exibidos na visualização padrão, mas permanecem armazenados na base de dados para eventual recuperação.
-
-**Como utilizar:**
-
-1. Acesse a aba **Pesquisa**;
-2. Realize a busca pelo objeto desejado;
-3. Selecione os documentos por meio do checkbox na grade de resultados;
-4. Clique no ícone da lixeira, exibido na parte superior da grade;
-5. A exclusão será confirmada e os documentos serão ocultados da visualização padrão.
-
-<figure><img src="../../.gitbook/assets/excluir documentos docz.png" alt="" width="307"><figcaption></figcaption></figure>
-
-{% hint style="danger" %}
-**Reversão da exclusão (exclusiva para usuários administradores):**
-
-1. Marque a opção **"Visualizar Documentos Excluídos"** no formulário de pesquisa;
-2. Os documentos reaparecerão para consulta e poderão ser reativados conforme necessário.
-{% endhint %}
-
-<figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
-
-</details>
-
-<details>
-
-<summary>Pode ver solicitação</summary>
-
-Com essa permissão habilitada, o usuário tem acesso ao menu **Solicitações**.
-
-Essa funcionalidade permite:
-
-* Visualizar todas as solicitações realizadas;
-* Filtrar por período, status e prioridade;
-* Acessar detalhes completos do pedido;
-* Adicionar ocorrências e destinatários;
-* Cancelar a solicitação, se necessário;
-* Visualizar e baixar a Ordem de Serviço (O.S.) digital.
-
-<figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
-
-</details>
-
-<details>
-
-<summary>Pode realizar solicitação</summary>
-
-Com essa permissão habilitada, o usuário poderá criar solicitações no sistema, como pedidos de empréstimos, digitalizações, entre outros.
-
-Na tela de pesquisa, será exibido o ícone do **carrinho** ![](<../../.gitbook/assets/image (99).png>) acima da grade de resultados, permitindo a seleção de documentos para compor a solicitação.
-
-Para conferir o passo a passo de como realizar uma solicitação, [acesse aqui](/broken/pages/j4EyI5DZEqLM1WpsqtLI).
-
-<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
-
-</details>
-
-<details>
-
-<summary>Pode solicitar implantação</summary>
-
-Permite acesso a aba de Solicitações > implantação, permite criar solicitações de implantação de caixas/documentos.
-
-Para conferir o passo a passo de como solicitar a implantação, [acesse aqui](/broken/pages/JzrDHIg5wMeu5tilX720).
-
-<figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
-
-</details>
-
-<details>
-
-<summary>Avaliar lotes</summary>
-
-Essa permissão permite que o usuário acesse e utilize a funcionalidade **Avaliação** para revisar e validar lotes de documentos ou caixas no sistema.
-
-**Como utilizar:**
-
-1. Acesse o menu **Pesquisar**;
-2. Clique no ícone (**Avaliação)** <img src="../../.gitbook/assets/image (102).png" alt="" data-size="line"> na barra de ações (conforme imagem de referência);
-3. Será aberta a tela de avaliação, onde o usuário poderá verificar as informações dos lotes e confirmar sua conformidade.
-
-<figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
-
-Essa funcionalidade é utilizada para controle de qualidade e verificação dos dados cadastrados antes de sua aprovação.
-
-</details>
-
-<details>
-
-<summary>Gerencia arquivamento</summary>
-
-Funcionalidade destinada à **Operação/Guarda**, utilizada para **gerenciar o arquivamento de documentos nas caixas**.
-
-Ao acessar o sistema, no **menu lateral**, será exibida a opção:\
-&#xNAN;**`Gestão de Guarda > Gerenciamento de Arquivamento`**
-
-Ao clicar nesta opção, o usuário será direcionado para a **tela de arquivamento**, onde é possível:
-
-* Distribuir caixas para arquivamento
-* Atualizar automaticamente o status dos objetos no sistema durante a bipagem dos documentos
-
-Essa funcionalidade garante maior controle, rastreabilidade e eficiência no processo de arquivamento físico.
-
-<div><figure><img src="../../.gitbook/assets/image (105).png" alt="" width="128"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (106).png" alt="" width="563"><figcaption></figcaption></figure></div>
-
-</details>
-
-<details>
-
-<summary>Desfazer relacionamentos</summary>
-
-O usuário podera acessar a aba de relacionamentos em detalhes do objeto, Permite remover vínculos ou associações entre documentos.
-
-Para descobrir o passo a passo, [acesse aqui](/broken/pages/b9aGrQG1xOVGbHKu0z4u#relacoes-entre-documentos).
-
-</details>
-
-<details>
-
-<summary>Indexador</summary>
-
-Usuários com a permissão **Indexador** têm acesso à **edição de metadados** dos arquivos dentro do sistema Docz.
-
-➡️ Para editar os metadados:
-
-1. Acesse a **aba Detalhes do Objeto**.
-2. Faça as alterações desejadas.
-3. Clique no ícone de ![](<../../.gitbook/assets/image (107).png>) **disquete** para **salvar**.
-
-🔎 Para saber como acessar essa funcionalidade, [clique aqui](/broken/pages/b9aGrQG1xOVGbHKu0z4u#acessando-os-detalhes-do-documento) e confira o passo a passo completo.
-
-<figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
-
-</details>
-
-<details>
-
-<summary><strong>Gerenciar projetos usuários</strong></summary>
+<summary>Gerenciar projetos usuários</summary>
 
 Com a permissão **"Gerenciar Projetos Usuários"**, é possível atribuir permissão de acesso a projetos para usuários específicos, através da aba **"Projetos"**.
 
@@ -268,31 +45,58 @@ Com a permissão **"Gerenciar Projetos Usuários"**, é possível atribuir permi
 
 <details>
 
-<summary>Pode criar formulários dos projetos</summary>
+<summary>Gerenciar clientes</summary>
 
-Esta permissão permite ao usuário configurar os formulários utilizados na etapa de **indexação de documentos** dentro de um projeto.
+Essa permissão concede **acesso total às funcionalidades de cadastro e gerenciamento de clientes e contratos** no sistema Docz.
 
-**Acesso ao recurso:**
+Ao habilitá-la, será exibida no menu lateral a opção **Gestão de Clientes**, que permite:
 
-1. No menu lateral, clique em **Projetos**.
-2. Na grade da esquerda, selecione o projeto desejado clicando em ![](<../../.gitbook/assets/image (111).png>).
-3. Depois na grade da direita, canto inferior direito da tela, clique no botão **"Formulários"** (conforme destacado na imagem abaixo).
+* Consultar e editar dados de clientes;
+* Cadastrar novos clientes;
+* Gerenciar contratos vinculados a cada cliente.
 
-\[trocar imagem pelo cliente demo em produção]
+<figure><img src="../../.gitbook/assets/image (119).png" alt="" width="102"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+</details>
 
-**Tela de configuração:**
+<details>
 
-Ao clicar em "Formulários", você será direcionado para a tela de **configuração dos campos de metadados** do formulário. Nessa tela é possível:
+<summary>Visualizar Dados Ocultados pela LGPD</summary>
 
-* Definir o tipo de formulário (ex: Indexação).
-* Escolher a pasta de destino.
-* Configurar etapas e status do objeto.
-* Habilitar campos como: obrigatório, campo fixo, valor padrão, duplo check, OCR, entre outros.
-* Adicionar e personalizar os campos que a equipe de operação deve preencher durante a indexação.
+Usuários com esta permissão habilitada podem visualizar campos sensíveis (metadados) que estão protegidos por regras de privacidade conforme a Lei Geral de Proteção de Dados (LGPD).
 
-<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+Essa permissão é restrita e deve ser concedida apenas a perfis autorizados, em conformidade com as diretrizes de tratamento de dados pessoais da organização.
+
+📌 **Como marcar um campo como “Sensível”**:\
+Caminho: **Pesquisar > Campos > É um dado Pessoal / É um dado Sensível**
+
+<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary><mark style="color:$warning;">Gerenciar Unidades</mark></summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Administrar usuários</summary>
+
+Com essa permissão habilitada, o usuário terá acesso à funcionalidade **`Gestão de usuários`** no menu lateral.
+
+<div align="left"><figure><img src="../../.gitbook/assets/image (94).png" alt="" width="82"><figcaption></figcaption></figure></div>
+
+A partir dessa tela, é possível:
+
+* Criar novos usuários;
+* Editar perfis existentes;
+* Atribuir usuários a grupos.
 
 </details>
 
@@ -326,19 +130,72 @@ Essa funcionalidade é essencial para administradores e gestores de projeto que 
 
 <details>
 
-<summary>Pode gerar relatórios</summary>
+<summary>Visualizar clientes</summary>
 
-Essa permissão concede ao usuário acesso completo à funcionalidade de relatórios no sistema.
+Essa permissão está vinculada à permissão **Gerenciar Clientes**.
 
-**O que essa permissão habilita:**
+Mesmo que o usuário tenha acesso às telas de gestão de clientes, **sem essa permissão habilitada, ele não conseguirá visualizar os clientes cadastrados na base de dados**.
 
-Ao ser ativada, o item **Relatórios** será exibido no menu lateral do sistema, permitindo que o usuário:
+Portanto, é necessário habilitar **Visualizar Clientes** para que o sistema exiba os registros existentes e permita a navegação adequada nas informações.
 
-* 📁 Acesse **Relatórios Padrões**;
-* ✏️ Crie e visualize **Relatórios Personalizados**;
-* 📥 Acesse a **Central de Downloads** para acompanhar os relatórios exportados em segundo plano.
+<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (115).png" alt="" width="100"><figcaption></figcaption></figure>
+</details>
+
+<details>
+
+<summary>Visualizar Painel</summary>
+
+Usuários com esta permissão habilitada têm acesso ao **Painel Inicial** do sistema, onde são exibidas estatísticas, indicadores e gráficos relacionados às atividades e dados do repositório documental.
+
+Ao habilitar essa permissão, a opção **Painel** será exibida no menu lateral do sistema.
+
+<figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+#### Gestão
+
+<details>
+
+<summary>Alterar documentos em lote</summary>
+
+Com essa permissão habilitada, o usuário poderá editar, excluir ou adicionar metadados em até 500 documentos simultaneamente.
+
+<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+
+Para acessar a funcionalidade:\
+**Pesquisar > Grade de Pesquisa > selecionar os documentos na checkbox >** ![](<../../.gitbook/assets/image (96).png>) **> Alterar Metadados**
+
+Ao selecionar essa opção, será exibida uma lista com as ações disponíveis para alteração em lote, permitindo otimizar a gestão documental em massa.
+
+</details>
+
+<details>
+
+<summary>Desfazer relacionamentos</summary>
+
+O usuário podera acessar a aba de relacionamentos em detalhes do objeto, Permite remover vínculos ou associações entre documentos.
+
+Para descobrir o passo a passo, [acesse aqui](../../pesquisar/como-pesquisar-objetos/interagindo-com-os-documentos/).
+
+</details>
+
+<details>
+
+<summary>Indexador</summary>
+
+Usuários com a permissão **Indexador** têm acesso à **edição de metadados** dos arquivos dentro do sistema Docz.
+
+➡️ Para editar os metadados:
+
+1. Acesse a **aba Detalhes do Objeto**.
+2. Faça as alterações desejadas.
+3. Clique no ícone de ![](<../../.gitbook/assets/image (107).png>) **disquete** para **salvar**.
+
+🔎 Para saber como acessar essa funcionalidade, [clique aqui](../../pesquisar/como-pesquisar-objetos/interagindo-com-os-documentos/#acessando-os-detalhes-do-documento) e confira o passo a passo completo.
+
+<figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -366,55 +223,133 @@ Ao ativar essa permissão, a opção **"Gestão Documental"** aparecerá no menu
 
 <details>
 
-<summary>Compartilhar arquivos</summary>
+<summary>Realizar upload</summary>
 
-Essa permissão permite que o usuário compartilhe documentos diretamente pela grade de resultados da pesquisa.
+Ao habilitar esta permissão, o usuário será capaz de carregar documentos para dentro do Docz.
 
-**O que essa permissão habilita:**
+No módulo **Pesquisar**, após localizar o objeto desejado, acesse a tela de detalhes do documento. Lá, você encontrará a aba **Adicionar**, onde poderá realizar o upload dos arquivos.
 
-Ao ser ativada, será exibido um ícone  ![](<../../.gitbook/assets/image (117).png>)  na grade de resultados da pesquisa, permitindo o envio rápido de documentos para outros usuários via e-mail.
+Para saber como fazer o carregamento de arquivos, [**acesse aqui o passo a passo**](../../pesquisar/como-pesquisar-objetos/interagindo-com-os-documentos/#adicionando-novos-arquivos)**.**
 
-<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+</details>
+
+<details>
+
+<summary>Comentar arquivos</summary>
+
+Usuários com esta permissão habilitada podem adicionar comentários ou anotações em documentos, promovendo a colaboração entre equipes.
+
+Para realizar essa ação, vá até a aba **Pesquisar**, selecione o documento desejado e clique em **abrir Documento**. Em seguida, acesse a aba **Comentários** para inserir suas observações.
+
+Para saber mais sobre como utilizar essa funcionalidade, [acesse aqui o passo a passo](../../pesquisar/como-pesquisar-objetos/interagindo-com-os-documentos/#comentarios).
+
+</details>
+
+<details>
+
+<summary>Realizar download</summary>
+
+Usuários com esta permissão habilitada podem realizar o **download de arquivos** diretamente do sistema.
+
+Para isso:
+
+1. Acesse a aba **Pesquisar**;
+2. Na grade de resultados exibida na parte inferior da tela, selecione os itens desejados marcando os **checkboxes**;
+3. Clique no ícone ![](<../../.gitbook/assets/image (130).png>);
+4. O sistema irá gerar um arquivo compactado (**.zip**) com os documentos selecionados, que será baixado automaticamente para o computador.
+
+<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;">Versionar Arquivo</mark></summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Excluir documentos</summary>
+
+Essa permissão permite que o usuário realize a **exclusão lógica** de documentos do ambiente ativo do sistema, ou seja, eles deixam de ser exibidos na visualização padrão, mas permanecem armazenados na base de dados para eventual recuperação.
 
 **Como utilizar:**
 
-1. 🔍 Realize uma pesquisa e localize o objeto (documento) desejado;
-2. ✅ Marque o(s) documento(s) desejado(s) utilizando o **checkbox**;
-3. 📎 Clique no ícone de **compartilhamento** que aparecerá na parte superior da grade;
-4. 💬 Uma janela (pop-up) será exibida para confirmar os itens selecionados;
-5. ✉️ Clique em **Compartilhar Itens** e preencha o formulário com:
-   * O **e-mail do destinatário**;
-   * O **prazo de validade do link de acesso**;
-   * Uma **observação opcional**, que será exibida no corpo do e-mail enviado;
-6. ✅ Finalize clicando em **Compartilhar**.
+1. Acesse a aba **Pesquisa**;
+2. Realize a busca pelo objeto desejado;
+3. Selecione os documentos por meio do checkbox na grade de resultados;
+4. Clique no ícone da lixeira, exibido na parte superior da grade;
+5. A exclusão será confirmada e os documentos serão ocultados da visualização padrão.
 
-**O que o destinatário recebe:**
+<figure><img src="../../.gitbook/assets/excluir documentos docz.png" alt="" width="307"><figcaption></figcaption></figure>
 
-O usuário indicado receberá um e-mail com um **link de acesso ao(s) arquivo(s)**, válido apenas pelo período definido. Após esse prazo, o link expira automaticamente por segurança.
+{% hint style="danger" %}
+**Reversão da exclusão (exclusiva para usuários administradores):**
 
-Essa funcionalidade é ideal para envio controlado e seguro de documentos sem necessidade de baixar arquivos localmente.
+1. Marque a opção **"Visualizar Documentos Excluídos"** no formulário de pesquisa;
+2. Os documentos reaparecerão para consulta e poderão ser reativados conforme necessário.
+{% endhint %}
 
-</details>
-
-<details>
-
-<summary>Gerenciar clientes</summary>
-
-Essa permissão concede **acesso total às funcionalidades de cadastro e gerenciamento de clientes e contratos** no sistema Docz.
-
-Ao habilitá-la, será exibida no menu lateral a opção **Gestão de Clientes**, que permite:
-
-* Consultar e editar dados de clientes;
-* Cadastrar novos clientes;
-* Gerenciar contratos vinculados a cada cliente.
-
-<figure><img src="../../.gitbook/assets/image (119).png" alt="" width="102"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
 <details>
 
-<summary>Ver digitalização</summary>
+<summary>Avaliar lotes</summary>
+
+Essa permissão permite que o usuário acesse e utilize a funcionalidade **Avaliação** para revisar e validar lotes de documentos ou caixas no sistema.
+
+**Como utilizar:**
+
+1. Acesse o menu **Pesquisar**;
+2. Clique no ícone (**Avaliação)** <img src="../../.gitbook/assets/image (102).png" alt="" data-size="line"> na barra de ações (conforme imagem de referência);
+3. Será aberta a tela de avaliação, onde o usuário poderá verificar as informações dos lotes e confirmar sua conformidade.
+
+<figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+
+Essa funcionalidade é utilizada para controle de qualidade e verificação dos dados cadastrados antes de sua aprovação.
+
+</details>
+
+<details>
+
+<summary>Criar formulários dos projetos</summary>
+
+Esta permissão permite ao usuário configurar os formulários utilizados na etapa de **indexação de documentos** dentro de um projeto.
+
+**Acesso ao recurso:**
+
+1. No menu lateral, clique em **Projetos**.
+2. Na grade da esquerda, selecione o projeto desejado clicando em ![](<../../.gitbook/assets/image (111).png>).
+3. Depois na grade da direita, canto inferior direito da tela, clique no botão **"Formulários"** (conforme destacado na imagem abaixo).
+
+\[trocar imagem pelo cliente demo em produção]
+
+<figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+
+**Tela de configuração:**
+
+Ao clicar em "Formulários", você será direcionado para a tela de **configuração dos campos de metadados** do formulário. Nessa tela é possível:
+
+* Definir o tipo de formulário (ex: Indexação).
+* Escolher a pasta de destino.
+* Configurar etapas e status do objeto.
+* Habilitar campos como: obrigatório, campo fixo, valor padrão, duplo check, OCR, entre outros.
+* Adicionar e personalizar os campos que a equipe de operação deve preencher durante a indexação.
+
+<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary>Visualizar digitalização</summary>
 
 Essa permissão permite que o usuário **visualize imagens digitalizadas** armazenadas no sistema Docz.
 
@@ -426,33 +361,7 @@ Essa permissão permite que o usuário **visualize imagens digitalizadas** armaz
 4. Dentro da visualização dos detalhes, localize a aba de **Arquivos**.
 
 > ℹ️ **Precisa de ajuda para acessar os detalhes do documento?**\
-> [Clique aqui para visualizar o passo a passo completo.](/broken/pages/b9aGrQG1xOVGbHKu0z4u#visualizando-os-arquivos)
-
-</details>
-
-<details>
-
-<summary>Visualizar clientes</summary>
-
-Essa permissão está vinculada à permissão **Gerenciar Clientes**.
-
-Mesmo que o usuário tenha acesso às telas de gestão de clientes, **sem essa permissão habilitada, ele não conseguirá visualizar os clientes cadastrados na base de dados**.
-
-Portanto, é necessário habilitar **Visualizar Clientes** para que o sistema exiba os registros existentes e permita a navegação adequada nas informações.
-
-<figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
-
-</details>
-
-<details>
-
-<summary>Realizar upload</summary>
-
-Ao habilitar esta permissão, o usuário será capaz de carregar documentos para dentro do Docz.
-
-No módulo **Pesquisar**, após localizar o objeto desejado, acesse a tela de detalhes do documento. Lá, você encontrará a aba **Adicionar**, onde poderá realizar o upload dos arquivos.
-
-Para saber como fazer o carregamento de arquivos, [**acesse aqui o passo a passo**](/broken/pages/b9aGrQG1xOVGbHKu0z4u#adicionando-novos-arquivos)**.**
+> [Clique aqui para visualizar o passo a passo completo](../../pesquisar/como-pesquisar-objetos/interagindo-com-os-documentos/#visualizando-os-arquivos).
 
 </details>
 
@@ -474,189 +383,17 @@ Importante: o usuário deve estar incluído nos **grupos vinculados aos formulá
 
 <details>
 
-<summary>Comentar arquivos</summary>
-
-Usuários com esta permissão habilitada podem adicionar comentários ou anotações em documentos, promovendo a colaboração entre equipes.
-
-Para realizar essa ação, vá até a aba **Pesquisar**, selecione o documento desejado e clique em **abrir Documento**. Em seguida, acesse a aba **Comentários** para inserir suas observações.
-
-Para saber mais sobre como utilizar essa funcionalidade, [acesse aqui o passo a passo](/broken/pages/b9aGrQG1xOVGbHKu0z4u#comentarios).
-
-</details>
-
-<details>
-
-<summary>Remover arquivos</summary>
+<summary>Excluir arquivos</summary>
 
 Usuários com esta permissão habilitada podem remover arquivos (como fotos de Documento de Conteúdo — DC — ou de caixas físicas/Box 20kg) que foram adicionados dentro de um objeto.
 
 Para realizar essa ação, acesse o objeto desejado, clique em **abrir documento** e, na aba **Arquivos**, selecione o item que deseja remover. Em seguida, clique no ícone ![](<../../.gitbook/assets/image (123).png>) para excluir da visualização.
 
-Para saber como acessar a aba de arquivos, [**clique aqui**](/broken/pages/b9aGrQG1xOVGbHKu0z4u#visualizando-os-arquivos).
+Para saber como acessar a aba de arquivos, [clique aqui](../../pesquisar/como-pesquisar-objetos/interagindo-com-os-documentos/#acessando-os-detalhes-do-documento).
 
 {% hint style="danger" %}
 Importante: essa ação é registrada no sistema com captura de log para fins de auditoria e rastreabilidade.
 {% endhint %}
-
-</details>
-
-<details>
-
-<summary>Pode ver dados ocultados pela LGPD?</summary>
-
-Usuários com esta permissão habilitada podem visualizar campos sensíveis (metadados) que estão protegidos por regras de privacidade conforme a Lei Geral de Proteção de Dados (LGPD).
-
-Essa permissão é restrita e deve ser concedida apenas a perfis autorizados, em conformidade com as diretrizes de tratamento de dados pessoais da organização.
-
-📌 **Como marcar um campo como “Sensível”**:\
-Caminho: **Pesquisar > Campos > É um dado Pessoal / É um dado Sensível**
-
-<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
-
-</details>
-
-<details>
-
-<summary>Pode ver painel?</summary>
-
-Usuários com esta permissão habilitada têm acesso ao **Painel Inicial** do sistema, onde são exibidas estatísticas, indicadores e gráficos relacionados às atividades e dados do repositório documental.
-
-Ao habilitar essa permissão, a opção **Painel** será exibida no menu lateral do sistema.
-
-<figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
-
-</details>
-
-<details>
-
-<summary>Pode utilizar login externo (keycloak)?</summary>
-
-Usuários com esta permissão habilitada podem acessar o sistema utilizando **login externo via Keycloak**, ferramenta de gerenciamento de identidade e autenticação.
-
-Essa opção é utilizada em ambientes que integram o Docz a um provedor de identidade centralizado, permitindo login único (Single Sign-On – SSO).
-
-</details>
-
-<details>
-
-<summary>Pode ver relatórios padrão?</summary>
-
-Usuários com esta permissão habilitada têm acesso aos relatórios padrão do sistema Docz, podendo extrair os dados diretamente pela plataforma.
-
-Para gerar um relatório padrão:
-
-1. No menu lateral, acesse **Relatórios > Relatório Padrão**;
-2. Preencha os filtros e informações necessárias;
-3. Selecione o formato desejado (XLSX ou CSV);
-4. Clique em **Continuar**;
-5. O download do relatório será feito automaticamente para o seu computador.
-
-<figure><img src="../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
-
-</details>
-
-<details>
-
-<summary>Realizar assinatura em arquivos</summary>
-
-Usuários com esta permissão habilitada podem assinar digitalmente documentos, garantindo sua validação e autenticidade. A assinatura pode ser feita tanto com Certificado Pessoal quanto com Chancela.
-
-Para realizar a assinatura:
-
-1. Acesse a aba **Pesquisar**;
-2. Selecione o item desejado e clique em abrir;
-3. Vá até a aba **Arquivos**;
-4. Selecione o arquivo a ser assinado e clique no ícone ![](<../../.gitbook/assets/image (128).png>) (assinar com certificado digital).
-
-Para descobrir como realizar todo o processo, acesse o passo a passo disponível para ver os detalhes e a assinatura de documentos [**aqui**](/broken/pages/b9aGrQG1xOVGbHKu0z4u#visualizando-os-arquivos).
-
-</details>
-
-<details>
-
-<summary>Aplicar chancela no arquivo</summary>
-
-Usuários com esta permissão habilitada podem aplicar **Chancela** digitalmente aos documentos, garantindo sua validação e autenticidade.
-
-Para aplicar a chancela:
-
-1. Acesse a aba **Pesquisar**;
-2. Selecione o item desejado e clique em abrir;
-3. Vá até a aba **Arquivos**;
-4. Selecione o arquivo a ser chancela e clique no ícone ![](<../../.gitbook/assets/image (129).png>).
-
-Para descobrir como realizar todo o processo, acesse o passo a passo disponível para ver os detalhes da aplicação de chancela [**aqui**](/broken/pages/b9aGrQG1xOVGbHKu0z4u#visualizando-os-arquivos).
-
-</details>
-
-<details>
-
-<summary>Realizar chancela em documentos em lote</summary>
-
-Usuários com esta permissão habilitada podem aplicar **chancela digital** em múltiplos documentos simultaneamente, garantindo a validação e autenticidade em lote.
-
-Para aplicar a chancela em lote:
-
-1. Acesse a aba **Pesquisar**;
-2. Selecione os documentos desejados;
-3. Clique na opção para aplicar **Chancela em lote**;
-4. Confirme a operação para validar os documentos em grupo.
-
-Para descobrir como realizar todo o processo, acesse o passo a passo disponível para aplicação de chancela em lote [**aqui**](/broken/pages/1YBj6yEXZ2oyjdfsuiEx#assinatura-em-lote).
-
-</details>
-
-<details>
-
-<summary>Realizar assinatura com certificado pessoal em lote</summary>
-
-Usuários com esta permissão habilitada podem assinar digitalmente múltiplos documentos simultaneamente usando seu **Certificado Pessoal**, garantindo a validade e autenticidade em lote.
-
-Para realizar a assinatura em lote:
-
-1. Acesse a aba **Pesquisar**;
-2. Selecione os documentos desejados;
-3. Clique na opção para **Assinar com certificado pessoal em lote**;
-4. Insira a senha do certificado digital.
-
-Para descobrir como realizar todo o processo, acesse o passo a passo disponível para assinatura em lote [**aqui**](/broken/pages/1YBj6yEXZ2oyjdfsuiEx#assinatura-em-lote).
-
-</details>
-
-<details>
-
-<summary>Realizar assinatura com certificado pessoal em arquivos</summary>
-
-Usuários com esta permissão habilitada podem assinar digitalmente documentos utilizando seu **Certificado Pessoal**, garantindo a validação e autenticidade dos arquivos.
-
-Para realizar a assinatura:
-
-1. Acesse a aba **Pesquisar**;
-2. Selecione o item desejado e acesse seus **Detalhes**;
-3. Vá até a aba **Arquivos**;
-4. Selecione o arquivo a ser assinado e clique no ícone **Assinar com certificado digital**.
-5. Insira a senha do certificado digital.
-
-Para descobrir como realizar todo o processo, acesse o passo a passo disponível para ver os detalhes e a assinatura de documentos [**aqui**](/broken/pages/b9aGrQG1xOVGbHKu0z4u#visualizando-os-arquivos).
-
-</details>
-
-<details>
-
-<summary>Permitir realizar download</summary>
-
-Usuários com esta permissão habilitada podem realizar o **download de arquivos** diretamente do sistema.
-
-Para isso:
-
-1. Acesse a aba **Pesquisar**;
-2. Na grade de resultados exibida na parte inferior da tela, selecione os itens desejados marcando os **checkboxes**;
-3. Clique no ícone ![](<../../.gitbook/assets/image (130).png>);
-4. O sistema irá gerar um arquivo compactado (**.zip**) com os documentos selecionados, que será baixado automaticamente para o computador.
-
-<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -696,9 +433,223 @@ No menu lateral, acesse **Gestão de guarda** > **Gerenciar Arquivamento**, info
 
 </details>
 
+#### Assinaturas
+
 <details>
 
-<summary>Abrir O.S avulsa</summary>
+<summary>Realizar assinatura em arquivos</summary>
+
+Usuários com esta permissão habilitada podem assinar digitalmente documentos, garantindo sua validação e autenticidade. A assinatura pode ser feita tanto com Certificado Pessoal quanto com Chancela.
+
+Para realizar a assinatura:
+
+1. Acesse a aba **Pesquisar**;
+2. Selecione o item desejado e clique em abrir;
+3. Vá até a aba **Arquivos**;
+4. Selecione o arquivo a ser assinado e clique no ícone ![](<../../.gitbook/assets/image (128).png>) (assinar com certificado digital).
+
+Para descobrir como realizar todo o processo, acesse o passo a passo disponível para ver os detalhes e a assinatura de documentos [**aqui**](../../pesquisar/como-pesquisar-objetos/interagindo-com-os-documentos/assinatura-de-documentos/).
+
+</details>
+
+<details>
+
+<summary>Realizar chancela em documentos em lote</summary>
+
+Usuários com esta permissão habilitada podem aplicar **chancela digital** em múltiplos documentos simultaneamente, garantindo a validação e autenticidade em lote.
+
+Para aplicar a chancela em lote:
+
+1. Acesse a aba **Pesquisar**;
+2. Selecione os documentos desejados;
+3. Clique na opção para aplicar **Chancela em lote**;
+4. Confirme a operação para validar os documentos em grupo.
+
+Para descobrir como realizar todo o processo, acesse o passo a passo disponível para aplicação de chancela em lote [**aqui**](../../pesquisar/como-pesquisar-objetos/interagindo-com-os-documentos/assinatura-de-documentos/).
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;">Compartilhar pacotes de difusão - DIP</mark></summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Compartilhar arquivos</summary>
+
+Essa permissão permite que o usuário compartilhe documentos diretamente pela grade de resultados da pesquisa.
+
+**O que essa permissão habilita:**
+
+Ao ser ativada, será exibido um ícone  ![](<../../.gitbook/assets/image (117).png>)  na grade de resultados da pesquisa, permitindo o envio rápido de documentos para outros usuários via e-mail.
+
+<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+
+**Como utilizar:**
+
+1. 🔍 Realize uma pesquisa e localize o objeto (documento) desejado;
+2. ✅ Marque o(s) documento(s) desejado(s) utilizando o **checkbox**;
+3. 📎 Clique no ícone de **compartilhamento** que aparecerá na parte superior da grade;
+4. 💬 Uma janela (pop-up) será exibida para confirmar os itens selecionados;
+5. ✉️ Clique em **Compartilhar Itens** e preencha o formulário com:
+   * O **e-mail do destinatário**;
+   * O **prazo de validade do link de acesso**;
+   * Uma **observação opcional**, que será exibida no corpo do e-mail enviado;
+6. ✅ Finalize clicando em **Compartilhar**.
+
+**O que o destinatário recebe:**
+
+O usuário indicado receberá um e-mail com um **link de acesso ao(s) arquivo(s)**, válido apenas pelo período definido. Após esse prazo, o link expira automaticamente por segurança.
+
+Essa funcionalidade é ideal para envio controlado e seguro de documentos sem necessidade de baixar arquivos localmente.
+
+</details>
+
+<details>
+
+<summary>Aplicar chancela no arquivo</summary>
+
+Usuários com esta permissão habilitada podem aplicar **Chancela** digitalmente aos documentos, garantindo sua validação e autenticidade.
+
+Para aplicar a chancela:
+
+1. Acesse a aba **Pesquisar**;
+2. Selecione o item desejado e clique em abrir;
+3. Vá até a aba **Arquivos**;
+4. Selecione o arquivo a ser chancela e clique no ícone ![](<../../.gitbook/assets/image (129).png>).
+
+Para descobrir como realizar todo o processo, acesse o passo a passo disponível para ver os detalhes da aplicação de chancela [**aqui**](../../pesquisar/como-pesquisar-objetos/interagindo-com-os-documentos/assinatura-de-documentos/).
+
+</details>
+
+<details>
+
+<summary>Realizar assinatura com certificado de usuário em lote</summary>
+
+Usuários com esta permissão habilitada podem assinar digitalmente múltiplos documentos simultaneamente usando seu **Certificado Pessoal**, garantindo a validade e autenticidade em lote.
+
+Para realizar a assinatura em lote:
+
+1. Acesse a aba **Pesquisar**;
+2. Selecione os documentos desejados;
+3. Clique na opção para **Assinar com certificado pessoal em lote**;
+4. Insira a senha do certificado digital.
+
+Para descobrir como realizar todo o processo, acesse o passo a passo disponível para assinatura em lote [**aqui**](../../pesquisar/como-pesquisar-objetos/interagindo-com-os-documentos/assinatura-de-documentos/).
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;">Compartilhar pacotes de preservação - AIP</mark></summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Realizar Assinatura com certificado de usuário em arquivos</summary>
+
+Usuários com esta permissão habilitada podem assinar digitalmente documentos utilizando seu **Certificado Pessoal**, garantindo a validação e autenticidade dos arquivos.
+
+Para realizar a assinatura:
+
+1. Acesse a aba **Pesquisar**;
+2. Selecione o item desejado e acesse seus **Detalhes**;
+3. Vá até a aba **Arquivos**;
+4. Selecione o arquivo a ser assinado e clique no ícone **Assinar com certificado digital**.
+5. Insira a senha do certificado digital.
+
+Para descobrir como realizar todo o processo, acesse o passo a passo disponível para ver os detalhes e a assinatura de documentos [**aqui**](../../pesquisar/como-pesquisar-objetos/interagindo-com-os-documentos/assinatura-de-documentos/).
+
+</details>
+
+#### Relatórios
+
+<details>
+
+<summary>Emitir relatórios</summary>
+
+Essa permissão concede ao usuário acesso completo à funcionalidade de relatórios no sistema.
+
+**O que essa permissão habilita:**
+
+Ao ser ativada, o item **Relatórios** será exibido no menu lateral do sistema, permitindo que o usuário:
+
+* 📁 Acesse **Relatórios Padrões**;
+* ✏️ Crie e visualize **Relatórios Personalizados**;
+* 📥 Acesse a **Central de Downloads** para acompanhar os relatórios exportados em segundo plano.
+
+<figure><img src="../../.gitbook/assets/image (115).png" alt="" width="100"><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;">Emitir relatório de arquivos</mark></summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Visualizar relatórios padrão?</summary>
+
+Usuários com esta permissão habilitada têm acesso aos relatórios padrão do sistema Docz, podendo extrair os dados diretamente pela plataforma.
+
+Para gerar um relatório padrão:
+
+1. No menu lateral, acesse **Relatórios > Relatório Padrão**;
+2. Preencha os filtros e informações necessárias;
+3. Selecione o formato desejado (XLSX ou CSV);
+4. Clique em **Continuar**;
+5. O download do relatório será feito automaticamente para o seu computador.
+
+<figure><img src="../../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;">Pode ver relatórios de ações de usuários?</mark></summary>
+
+
+
+</details>
+
+#### Guarda
+
+<details>
+
+<summary>Guarda</summary>
+
+Essa permissão concede acesso total às funcionalidades relacionadas ao **armazenamento físico e controle da guarda de documentos e caixas** dentro do sistema.
+
+**O que essa permissão habilita:**
+
+Ao ativar essa permissão, o usuário poderá realizar **atividades operacionais e estratégicas ligadas ao controle de guarda física**, incluindo o uso intensivo do painel de Ordens de Serviço (OS).
+
+**Principais funcionalidades disponíveis:**
+
+* 🗃️ **Cadastro, localização e movimentação de caixas/documentos físicos**;
+* 🔎 **Pesquisas avançadas no acervo físico** (por número de caixa, código de barras, cliente, projeto, etc.);
+* 📝 **Interação com o Painel de OS**, tanto para atendimento de demandas internas (projetos em execução) quanto externas (solicitações de clientes);
+* 🔄 **Atualização do status de caixas/documentos conforme fluxo operacional**;
+* 🧩 **Alimentação de projetos em andamento** com novas caixas, conforme planejamento de guarda.
+
+<figure><img src="../../.gitbook/assets/menu guarda docz.png" alt="" width="161"><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary>Emitir O.S avulsa</summary>
 
 Usuários com esta permissão habilitada podem **gerar uma Ordem de Serviço fora do fluxo padrão**, utilizada quando **um item (caixa ou documento) não é localizado via pesquisa no sistema**.
 
@@ -720,7 +671,7 @@ A solicitação será processada para avaliação e resposta pela equipe respons
 
 <details>
 
-<summary>Compartilhar Pacotes de Difusão - DIP</summary>
+<summary><mark style="color:yellow;">Emitir Ficha de Transporte de Documentos</mark></summary>
 
 
 
@@ -728,9 +679,177 @@ A solicitação será processada para avaliação e resposta pela equipe respons
 
 <details>
 
-<summary>Pode Emitir Relatório de Arquivos</summary>
+<summary><mark style="color:yellow;">Gerenciar armazém</mark></summary>
 
 
 
 </details>
 
+<details>
+
+<summary><mark style="color:yellow;">Gerenciar transportes</mark></summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Gerencia arquivamento</summary>
+
+Funcionalidade destinada à **Operação/Guarda**, utilizada para **gerenciar o arquivamento de documentos nas caixas**.
+
+Ao acessar o sistema, no **menu lateral**, será exibida a opção:\
+&#xNAN;**`Gestão de Guarda > Gerenciamento de Arquivamento`**
+
+Ao clicar nesta opção, o usuário será direcionado para a **tela de arquivamento**, onde é possível:
+
+* Distribuir caixas para arquivamento
+* Atualizar automaticamente o status dos objetos no sistema durante a bipagem dos documentos
+
+Essa funcionalidade garante maior controle, rastreabilidade e eficiência no processo de arquivamento físico.
+
+<div><figure><img src="../../.gitbook/assets/image (105).png" alt="" width="128"><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (106).png" alt="" width="563"><figcaption></figcaption></figure></div>
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;">Importar Objetos</mark></summary>
+
+
+
+</details>
+
+<details>
+
+<summary><mark style="color:yellow;">Navegar por Fotolabel</mark></summary>
+
+[#navegar-por-fotolabel](../../pesquisar/como-pesquisar-objetos/mais-acoes-nas-pastas-do-repositorios.md#navegar-por-fotolabel "mention")
+
+</details>
+
+<details>
+
+<summary>Aprova reimpressão</summary>
+
+Com essa permissão habilitada, o usuário passa a ter acesso à funcionalidade no menu: **`Gestão de Operações > Gerenciar Reimpressão`**.
+
+[`Acesse aqui o passo a passo.`](../../gestao-de-operacoes/gerenciar-reimpressoes.md)
+
+<div align="left"><figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure></div>
+
+Essa funcionalidade permite visualizar e aprovar solicitações de impressão de etiquetas realizadas durante a operação — seja na fase de implantação ou em situações que demandem uma segunda impressão. A permissão oferece mais controle e rastreabilidade sobre o processo de rotulagem de documentos e caixas.
+
+</details>
+
+#### Solicitação
+
+<details>
+
+<summary>Visualizar solicitação</summary>
+
+Com essa permissão habilitada, o usuário tem acesso ao menu **Solicitações**.
+
+Essa funcionalidade permite:
+
+* Visualizar todas as solicitações realizadas;
+* Filtrar por período, status e prioridade;
+* Acessar detalhes completos do pedido;
+* Adicionar ocorrências e destinatários;
+* Cancelar a solicitação, se necessário;
+* Visualizar e baixar a Ordem de Serviço (O.S.) digital.
+
+<figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary>Realizar solicitação de implantação</summary>
+
+Permite acesso a aba de Solicitações > implantação, permite criar solicitações de implantação de caixas/documentos.
+
+Para conferir o passo a passo de como solicitar a implantação, [acesse aqui](../../solicitacoes/solicitar-implantacao.md).
+
+<figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary>Realizar solicitação</summary>
+
+Com essa permissão habilitada, o usuário poderá criar solicitações no sistema, como pedidos de empréstimos, digitalizações, entre outros.
+
+Na tela de pesquisa, será exibido o ícone do **carrinho** ![](<../../.gitbook/assets/image (99).png>) acima da grade de resultados, permitindo a seleção de documentos para compor a solicitação.
+
+Para conferir o passo a passo de como realizar uma solicitação, [acesse aqui](../../pesquisar/como-fazer-solicitacoes-de-objeto.md).
+
+<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+#### Componentes e Integrações
+
+<mark style="color:$info;">**Aplicativo Android**</mark>
+
+<details>
+
+<summary>Acesso via aplicativo android</summary>
+
+Com essa permissão habilitada, o usuário poderá utilizar o sistema por meio do **aplicativo oficial para dispositivos Android**.
+
+Para acessar o app, vá até a **barra superior** do sistema, clique em **`Outros > Componentes`** e selecione **`Docz Android`**.
+
+{% hint style="danger" %}
+Essa funcionalidade é exclusiva para dispositivos com sistema operacional Android.
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (93).png" alt="" width="563"><figcaption></figcaption></figure>
+
+</details>
+
+<mark style="color:$info;">**EtiPress**</mark>
+
+<details>
+
+<summary><mark style="color:yellow;">Imprimir etiqueta de usuário</mark></summary>
+
+
+
+</details>
+
+<mark style="color:$info;">**DocZ**</mark>
+
+<details>
+
+<summary>Realizar login externo (keycloak)</summary>
+
+Usuários com esta permissão habilitada podem acessar o sistema utilizando **login externo via Keycloak**, ferramenta de gerenciamento de identidade e autenticação.
+
+Essa opção é utilizada em ambientes que integram o Docz a um provedor de identidade centralizado, permitindo login único (Single Sign-On – SSO).
+
+</details>
+
+<details>
+
+<summary>Acessar exclusivo por certificado digital</summary>
+
+Com essa permissão habilitada, o sistema restringe o login exclusivamente por meio de **Certificado Digital**.
+
+</details>
+
+<mark style="color:$info;">**SmartDocs**</mark>
+
+<details>
+
+<summary><mark style="color:yellow;">Realizar vinculação com SmartDocs</mark></summary>
+
+[smartdocs.md](../../smartdocs.md "mention")
+
+</details>
+
+
+
+<a href="./" class="button secondary" data-icon="circle-left">Voltar</a>

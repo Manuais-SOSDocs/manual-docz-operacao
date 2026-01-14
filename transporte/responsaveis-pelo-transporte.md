@@ -17,7 +17,7 @@ No **menu lateral**, acesse:\
 {% step %}
 Na tela **Responsáveis pelo Transporte**, clique no botão **Novo Colaborador**.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

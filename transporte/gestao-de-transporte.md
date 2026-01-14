@@ -19,6 +19,10 @@ Localizado no canto inferior direito da grid de transportes.
 {% step %}
 Preencha os dados básicos na pop-up que se abrirá
 
+{% hint style="info" %}
+**🚚 Seleção de Responsáveis pelo Transporte (Motorista/Ajudante):**&#x4F; campo de seleção agora exibe apenas os colaboradores cadastrados no CRUD “Responsáveis pelo Transporte”, conforme função (Motorista/Ajudante).
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/image (289).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
@@ -42,6 +46,10 @@ Se houver, selecione no campo “Ajudante”.
 Escolha as ordens de serviço que farão parte do transporte.
 
 **Clique em**  ![](<../.gitbook/assets/image (385).png>)  para adicionar as O.S. aos **Itens do Transporte**.
+
+{% hint style="info" %}
+**Vinculação de Ficha de Transporte à Ordem de Serviço:** Visando manter o histórico logístico organizado, é possível vincular Fichas de Transporte previamente cadastradas a Ordens de Serviço (O.S), assegurando rastreabilidade completa e controle detalhado por cliente.
+{% endhint %}
 {% endstep %}
 
 {% step %}
