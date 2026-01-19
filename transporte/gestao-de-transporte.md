@@ -20,7 +20,7 @@ Localizado no canto inferior direito da grid de transportes.
 Preencha os dados básicos na pop-up que se abrirá
 
 {% hint style="info" %}
-**🚚 Seleção de Responsáveis pelo Transporte (Motorista/Ajudante):**&#x4F; campo de seleção agora exibe apenas os colaboradores cadastrados no CRUD “Responsáveis pelo Transporte”, conforme função (Motorista/Ajudante).
+**🚚 Seleção de Responsáveis pelo Transporte (Motorista/Ajudante):** O campo de seleção agora exibe apenas os colaboradores cadastrados no CRUD “Responsáveis pelo Transporte”, conforme função (Motorista/Ajudante).
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (289).png" alt=""><figcaption></figcaption></figure>
@@ -46,10 +46,6 @@ Se houver, selecione no campo “Ajudante”.
 Escolha as ordens de serviço que farão parte do transporte.
 
 **Clique em**  ![](<../.gitbook/assets/image (385).png>)  para adicionar as O.S. aos **Itens do Transporte**.
-
-{% hint style="info" %}
-**Vinculação de Ficha de Transporte à Ordem de Serviço:** Visando manter o histórico logístico organizado, é possível vincular Fichas de Transporte previamente cadastradas a Ordens de Serviço (O.S), assegurando rastreabilidade completa e controle detalhado por cliente.
-{% endhint %}
 {% endstep %}
 
 {% step %}
@@ -91,19 +87,23 @@ Clique em  ![](<../.gitbook/assets/image (392).png>)
 {% step %}
 Na coluna dos itens adicionados ao transporte, poderá atualizar o status da entrega:
 
-<kbd>❌ Excluir – Remove o item da lista.</kbd>
-
-<kbd>✅ Atender – Registra que o item foi entregue/recebido.</kbd>
-
-<kbd>📍 Cheguei – Informa que o entregador chegou ao destino.</kbd>
-
-<kbd>🕒 Atrasado – Registra atraso no atendimento.</kbd>
-
-<kbd>🚫 Cancelar – Cancela o item da rota de transporte.</kbd>
+* ❌ Excluir – Remove o item da lista.
+* ✅ Atender – Registra que o transporte iniciou a rota de entrega.
+* 📍 Cheguei – Informa que o entregador chegou ao destino.
+* 🕒 Atrasado – Registra atraso no atendimento.
+* 🚫 Cancelar – Cancela o item da rota de transporte.
 {% endstep %}
 
 {% step %}
 Caso seja necessário, na parte inferior da tela, há um **campo para Observações**, onde é possível registrar informações adicionais ou ocorrências durante o transporte.
+
+<details>
+
+<summary>entenda o que são as OCORRÊNCIAS</summary>
+
+
+
+</details>
 {% endstep %}
 
 {% step %}

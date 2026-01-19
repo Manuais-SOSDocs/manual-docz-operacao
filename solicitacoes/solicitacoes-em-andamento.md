@@ -148,6 +148,14 @@ Toda vinculação realizada é registrada automaticamente no **Histórico da O.S
 
 </details>
 
+<details>
+
+<summary><mark style="color:orange;">🔗 Vinculação de Ficha de transporte à Ordem de Serviço</mark></summary>
+
+
+
+</details>
+
 
 
 <a href="./" class="button secondary" data-icon="circle-left">Voltar</a>
