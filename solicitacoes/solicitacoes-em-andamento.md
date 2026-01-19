@@ -152,7 +152,35 @@ Toda vinculação realizada é registrada automaticamente no **Histórico da O.S
 
 <summary><mark style="color:orange;">🔗 Vinculação de Ficha de transporte à Ordem de Serviço</mark></summary>
 
+1.  Acesse a **Ordem de Serviço** que esteja em andamento.<br>
 
+    <div align="left"><figure><img src="../.gitbook/assets/image (484).png" alt="" width="563"><figcaption></figcaption></figure></div>
+2.  Clique em **Nova Ocorrência**.<br>
+
+    <div align="left"><figure><img src="../.gitbook/assets/image (485).png" alt="" width="563"><figcaption></figcaption></figure></div>
+3.  No campo **Ocorrência**, selecione a opção:<mark style="color:orange;">**Vincular Lote de Avaliação**</mark><mark style="color:orange;">.</mark><br>
+
+    <div align="left"><figure><img src="../.gitbook/assets/image (486).png" alt="" width="563"><figcaption></figcaption></figure></div>
+4.  Após a seleção, será exibida uma nova seção logo abaixo, contendo a **lista de lotes disponíveis para avaliação**.<br>
+
+    <div align="left"><figure><img src="../.gitbook/assets/image (487).png" alt="" width="563"><figcaption></figcaption></figure></div>
+5. Selecione o **lote desejado**.
+6.  Finalize o registro da ocorrência preenchendo o campo **Observação** e clicando em **Confirmar**.<br>
+
+    <div align="left"><figure><img src="../.gitbook/assets/image (489).png" alt="" width="563"><figcaption></figcaption></figure></div>
+7.  Após a confirmação, o lote será vinculado à O.S.<br>
+
+    <div align="left"><figure><img src="../.gitbook/assets/image (490).png" alt="" width="563"><figcaption></figcaption></figure></div>
+
+{% hint style="info" %}
+#### O que o usuário precisa saber sobre a vinculação de lotes
+
+* Cada vínculo gera uma nova ocorrência na O.S.
+* Cada ocorrência permite vincular apenas **um lote**.
+* A O.S. pode ter vários lotes vinculados, desde que **não sejam repetidos**.
+* Apenas lotes do **mesmo projeto da O.S.** ficam disponíveis para seleção.
+* Lotes já vinculados ou não elegíveis **não são exibidos**.
+{% endhint %}
 
 </details>
 
