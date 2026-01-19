@@ -4,9 +4,9 @@ description: MENU > GESTÃO DOCUMENTAL > CALCULAR PRAZO DE GUARDA
 
 # Calcular Prazo de Guarda
 
-<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
-
 A funcionalidade **Calcular Prazo de Guarda** permite gerar listagens de documentos com seus respectivos prazos, conforme a Tabela de Temporalidade configurada para o projeto.
+
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 #### 📘 **Passo a passo – Calcular Prazo de Guarda**
 
@@ -24,7 +24,9 @@ No campo **Classificação**, selecione a opção **Classificação** configurad
 {% endstep %}
 
 {% step %}
-No campo **Ano de Produção**, selecione o **ano inicial** desejado.
+No campo _Ano de Produção_, selecione o campo correspondente ao ano de criação/produção do objeto, que será utilizado como base para o cálculo do prazo de guarda.
+
+Exemplos de metadados: _`Ano inicial`_  ou  _`Ano de produção`_
 
 <figure><img src="../.gitbook/assets/image (479).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
