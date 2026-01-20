@@ -27,6 +27,19 @@ Em **Projeto**, selecione um ou mais projetos vinculados ao cliente.
 
 {% step %}
 No campo **Tipo**, escolha o tipo de relatório que deseja gerar.
+
+|                                                         |                                                                                                           |                                                                    |
+| ------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **Relatório – Caixas**                                  | Apresenta todas as caixas cadastradas no sistema, com informações de identificação, status e localização. | Para controle físico, localização e conferência de caixas.         |
+| **Relatório – Documentos**                              | Lista os documentos cadastrados, com seus respectivos metadados e vínculos.                               | Para consulta geral, inventário e conferência documental.          |
+| **Relatório – Expurgo / Saída Definitiva**              | Exibe documentos e caixas que passaram por eliminação ou saída definitiva.                                | Para auditoria, comprovação legal e controle de descarte.          |
+| **Relatório Estatístico – Solicitação**                 | Apresenta dados estatísticos sobre solicitações realizadas no sistema.                                    | Para análise de demanda, uso do acervo e atendimento aos usuários. |
+| **Relatório Estatístico – Tipo de Objeto**              | Agrupa os registros por tipo de objeto (documento, caixa, etc.).                                          | Para entender a composição e volume do acervo.                     |
+| **Relatório Estatístico – Status do Objeto**            | Mostra a distribuição dos objetos por status (ativo, arquivado, eliminado, etc.).                         | Para controle operacional e acompanhamento do acervo.              |
+| **Relatório Estatístico – Status de Gestão Documental** | Exibe estatísticas conforme as fases da gestão documental.                                                | Para análise arquivística e planejamento da gestão documental.     |
+| **Relatório Estatístico – Tipo de Objeto e Status**     | Combina tipo de objeto e status em uma visão cruzada.                                                     | Para análises detalhadas e gerenciais do acervo.                   |
+| **Relatório – Dinâmico**                                | Permite personalização de filtros e campos conforme a necessidade do usuário.                             | Para relatórios sob demanda e análises específicas.                |
+| **Relatório – Relacionamento entre Objetos**            | Mostra o vínculo entre documentos, caixas e demais objetos.                                               | Para rastreabilidade e entendimento da estrutura documental.       |
 {% endstep %}
 
 {% step %}
@@ -37,6 +50,16 @@ Se desejar incluir itens ainda não implantados, marque a opção **Gerar Relat�
 Em **Data Pesquisa**, selecione o tipo de data a ser considerada na filtragem.
 
 <figure><img src="../.gitbook/assets/image (298).png" alt=""><figcaption></figcaption></figure>
+
+|                                   |                                                               |                                                                            |
+| --------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **Data Criação**                  | Data em que o registro foi criado no sistema DocZ.            | Para identificar quando documentos, caixas ou objetos foram cadastrados.   |
+| **Data Atualização**              | Data da última alteração realizada no registro.               | Para auditoria, controle de mudanças e acompanhamento de ajustes recentes. |
+| **Data Distribuição**             | Data em que o objeto foi distribuído ou encaminhado no fluxo. | Para monitorar movimentações e prazos de distribuição.                     |
+| **Data Indexação Inicial**        | Data em que o documento iniciou o processo de indexação.      | Para análise de produtividade e início do tratamento documental.           |
+| **Data Indexação Final**          | Data de conclusão da indexação do documento.                  | Para verificar finalização do tratamento documental.                       |
+| **Data Catalogação Complementar** | Data em que foi realizada a catalogação complementar.         | Para controle de enriquecimento e padronização de metadados.               |
+| **Data Implantação**              | Data em que o registro foi implantado ou ativado no sistema.  | Para relatórios de implantação, migração ou entrada oficial em produção.   |
 {% endstep %}
 
 {% step %}
