@@ -22,7 +22,7 @@ Clique no campo “Tipo Relatório” e selecione a opção desejada (ex: _Relat
 {% endstep %}
 
 {% step %}
-Preencha os campos DataInicial e DataFinal conforme o intervalo de interesse.
+Preencha os campos Data Inicial e Data Final **conforme o intervalo de interesse**.
 
 <figure><img src="../.gitbook/assets/image (272).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
