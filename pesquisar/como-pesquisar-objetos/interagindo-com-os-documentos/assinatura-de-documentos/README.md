@@ -114,6 +114,23 @@ Para ativar essa funcionalidade, é necessário entre em contato com o responsá
 
 </details>
 
+<details>
+
+<summary>Assinatura com utilização de automação</summary>
+
+O DocZ permite a configuração do certificado digital para assinatura e aplicação de carimbo de tempo de forma totalmente automatizada.
+
+Nesse modelo, é definido um fluxo operacional no qual, ao atingir uma etapa previamente configurada (por exemplo, “Pronto para Assinatura”), o sistema executa automaticamente a assinatura digital e a aplicação do carimbo de tempo nos arquivos, sem necessidade de intervenção manual do usuário.
+
+<mark style="color:$warning;">⚠️</mark> <mark style="color:$warning;"></mark><mark style="color:$warning;">**Observações importantes para este modelo:**</mark>
+
+* O certificado digital é embarcado diretamente na aplicação.
+* O certificado não é gerenciado por usuários finais ou administradores funcionais.
+* Nenhum usuário possui acesso à senha do certificado ou permissão para trocá-lo.
+* O embarque, configuração e eventual substituição do certificado são realizados exclusivamente pelo time de Suporte N3 (Desenvolvedores), garantindo maior segurança, rastreabilidade e conformidade técnica.
+
+</details>
+
 
 
 <a href="../" class="button secondary" data-icon="circle-left">Voltar</a>
