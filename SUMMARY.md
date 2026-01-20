@@ -98,6 +98,7 @@
   * [Gerenciar Reimpressões](gestao-de-operacoes/gerenciar-reimpressoes.md)
 * [RELATÓRIOS](relatorios/README.md)
   * [Relatórios Padrão](relatorios/relatorios-padrao.md)
+  * [Relatórios de Ações de Usuários](relatorios/relatorios-de-acoes-de-usuarios.md)
   * [Relatórios Personalizados](relatorios/relatorios-personalizados.md)
   * [Central de Downloads](relatorios/central-de-downloads.md)
   * [Relatórios Indexação por Etapa](relatorios/relatorios-indexacao-por-etapa.md)
