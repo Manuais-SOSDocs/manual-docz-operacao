@@ -19,3 +19,5 @@ description: >-
 | 22/12/2025         | DocZ v:2025.12.22.19.1.5.13.1 | 🔗 [Ver detalhes](novidades-da-versao-publicada-em-22-12-2025..md)    |
 | 13/01/2026         | Docz v:2026.01.13.19.1.5.14.1 | 🔗 [Ver detalhes](novidades-da-versao-publicada-em-13-01-2026..md)    |
 | 02/02/2026         | DocZ v:2026.02.02.17.1.5.15.2 | 🔗 [Ver detalhes](../novidades-da-versao-publicada-em-02-02-2026..md) |
+
+<a href="../" class="button secondary" data-icon="circle-left">Voltar</a>
