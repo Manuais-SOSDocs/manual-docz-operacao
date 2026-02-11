@@ -1,5 +1,6 @@
 ---
 description: 'Versão: DocZ v:2026.01.13.19.1.5.14.1'
+hidden: true
 icon: bullhorn
 ---
 

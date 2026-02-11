@@ -1,5 +1,4 @@
 ---
-hidden: true
 icon: house-lock
 ---
 
@@ -70,6 +69,66 @@ Clique botão azul **Entrar** 👉 ![](https://manualsosdocs.gitbook.io/~gitbook
 {% hint style="success" %}
 Você será levado para o painel inicial da sua instituição
 {% endhint %}
+
+<details>
+
+<summary>Boas Práticas de Segurança da Informação</summary>
+
+
+
+* **Princípio do menor privilégio**\
+  Cada usuário deve possuir **apenas os acessos estritamente necessários** para o desempenho de suas atividades.
+* **Responsabilidade individual**\
+  As credenciais de acesso (login e senha) são **pessoais e intransferíveis**, sendo vedado o compartilhamento.
+* **Classificação da informação**\
+  Os documentos devem ser armazenados e acessados conforme seu **nível de sensibilidade** (ex.: público, interno, restrito ou confidencial).
+* **Ambiente seguro**\
+  O acesso ao DocZ deve ocorrer, preferencialmente, em **equipamentos institucionais**, atualizados e protegidos por antivírus e mecanismos de segurança.
+* **Conscientização dos usuários**\
+  Recomenda-se a realização periódica de **treinamentos e comunicados** sobre segurança da informação e uso adequado do sistema
+
+</details>
+
+<details>
+
+<summary>Controles de Acesso</summary>
+
+
+
+* **Perfis e grupos de usuários**\
+  O DocZ deve ser configurado com **perfis de acesso bem definidos**, organizados por função, área ou projeto.
+* **Segregação de ambientes e informações**
+  * Espaços, pastas ou projetos devem possuir **permissões específicas**.
+  * Conteúdos sensíveis devem ser restritos apenas aos usuários autorizados.
+* **Gestão do ciclo de vida do usuário**
+  * Criação de acessos mediante solicitação formal.
+  * **Revisão periódica** dos acessos concedidos.
+  * **Revogação imediata** de permissões em casos de desligamento, mudança de função ou término de projeto.
+* **Rastreabilidade e auditoria**\
+  Sempre que possível, utilizar recursos do sistema para **registro de logs**, histórico de ações e identificação de responsáveis por alterações.
+
+</details>
+
+<details>
+
+<summary>Recomendações Operacionais</summary>
+
+
+
+* **Padronização de uso**\
+  Seguir os manuais, fluxos e orientações oficiais do DocZ para criação, edição, versionamento e exclusão de documentos.
+* **Versionamento controlado**\
+  Evitar duplicidades e sobrescritas indevidas, garantindo que versões oficiais estejam claramente identificadas.
+* **Cuidado com exportações e downloads**\
+  A extração de documentos do sistema deve ocorrer **apenas quando necessária**, respeitando as normas internas de segurança e sigilo.
+* **Backups e continuidade**\
+  Verificar se as rotinas de backup do DocZ estão ativas e alinhadas às políticas institucionais de continuidade do negócio.
+* **Comunicação de incidentes**\
+  Qualquer suspeita de acesso indevido, perda de informação ou falha de segurança deve ser **comunicada imediatamente** à equipe responsável.
+
+</details>
+
+
 
 
 
