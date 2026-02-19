@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: false
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
-  metadata:
-    visible: true
----
-
 # ✨ Bem-vindo(a) ao Universo DocZ!
 
 <figure><img src=".gitbook/assets/Cópia de © 2025 SOS Docs  Todos os direitos reservados..gif" alt=""><figcaption></figcaption></figure>
