@@ -117,7 +117,13 @@ Na tela de visualização de documentos, o sistema apresenta automaticamente os 
 
 <summary>🗂️ Adicionando Novos Arquivos</summary>
 
-O sistema DocZ aceita **qualquer formato de arquivo para armazenamento**, porém **apenas arquivos PDF e de imagem** poderão ser visualizados diretamente no sistema.
+#### Formatos de arquivo suportados no sistema
+
+O sistema aceita o armazenamento de arquivos em diferentes formatos. Entretanto, as funcionalidades disponíveis (visualização, reprodução, download e assinatura) podem variar de acordo com o tipo de arquivo.
+
+A tabela abaixo apresenta o comportamento esperado para cada formato suportado:
+
+<table><thead><tr><th width="102">Formato</th><th width="121">Tipo</th><th width="328.75">Comportamento no Sistema</th><th width="126.265625">Assinatura</th></tr></thead><tbody><tr><td><strong>PDF</strong></td><td>Documento</td><td>Visualização direta no sistema e download</td><td>Permitida</td></tr><tr><td><strong>TIFF</strong></td><td>Imagem</td><td>Visualização no visualizador do sistema e download</td><td>Não permite assinatura</td></tr><tr><td><strong>WAV</strong></td><td>Áudio</td><td>Reprodução no visualizador do sistema e download</td><td>Não permite assinatura</td></tr><tr><td><strong>MP4</strong></td><td>Vídeo</td><td>Reprodução no visualizador do sistema e download</td><td>Não permite assinatura</td></tr><tr><td><strong>ZIP</strong></td><td>Arquivo compactado</td><td>O sistema realiza a extração automática dos arquivos após o upload. Os arquivos podem ser baixados</td><td>Não permite assinatura</td></tr><tr><td><strong>XLSX</strong></td><td>Planilha</td><td>Download automático para a máquina do usuário</td><td>Não permite assinatura</td></tr><tr><td><strong>CSV</strong></td><td><p>Planilha/</p><p>Dados</p></td><td>Download automático para a máquina do usuário</td><td>Não permite assinatura</td></tr><tr><td><strong>DOCX</strong></td><td>Documento</td><td>Download automático para a máquina do usuário</td><td>Não permite assinatura</td></tr></tbody></table>
 
 {% hint style="warning" %}
 O usuário deve possuir permissão de “Adicionar Arquivos” para realizar esta ação.
