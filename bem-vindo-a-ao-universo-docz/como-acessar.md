@@ -125,6 +125,41 @@ Os usuários devem utilizar o sistema exclusivamente para as finalidades autoriz
 
 </details>
 
+<details>
+
+<summary><strong>Limitações, Restrições de Uso e Compatibilidades</strong></summary>
+
+Para garantir o correto funcionamento da plataforma DocZ, é importante que os usuários estejam cientes das **limitações técnicas, restrições de uso e ambientes compatíveis** com o sistema.
+
+<mark style="color:blue;">**Limitações técnicas**</mark>
+
+O DocZ é disponibilizado na modalidade **Software como Serviço (SaaS)** e requer **conexão com a internet** para funcionamento.\
+O acesso ao sistema é realizado exclusivamente por **navegador web**, sem necessidade de instalação local.
+
+Algumas funcionalidades podem depender de **integrações com serviços externos** ou da infraestrutura do ambiente do cliente.\
+O armazenamento e a proteção dos dados são gerenciados pela infraestrutura da plataforma.
+
+***
+
+<mark style="color:blue;">**Restrições de uso**</mark>
+
+Para garantir a segurança da plataforma, devem ser observadas as seguintes restrições:
+
+* acesso permitido apenas a **usuários autenticados e autorizados**;
+* **proibição de compartilhamento de credenciais** de acesso;
+* utilização do sistema conforme os **níveis de permissão definidos**;
+* uso da plataforma apenas para **finalidades autorizadas**, em conformidade com os termos de uso.
+
+***
+
+<mark style="color:blue;">**Compatibilidades**</mark>
+
+O DocZ é acessado por meio de navegadores modernos.
+
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><p><strong>Navegadores suportados</strong></p><ul><li>Google Chrome</li><li>Microsoft Edge</li><li>Mozilla Firefox</li></ul><p>Recomenda-se o uso de <strong>versões atualizadas</strong>.</p></td></tr><tr><td><p><strong>Sistemas operacionais</strong></p><ul><li>Windows</li><li>macOS</li><li>Linux (compatível com navegadores suportados)<br></li></ul></td></tr><tr><td><p><strong>Certificados digitais</strong></p><p>Quando aplicável, o sistema suporta autenticação ou assinatura com <strong>certificados digitais compatíveis com a ICP-Brasil</strong>.</p></td></tr></tbody></table>
+
+</details>
 
 
-<a href="../" class="button secondary" data-icon="circle-left">Retornar para anterior</a>
+
+<a href="../" class="button secondary" data-icon="circle-left">Voltar</a>
