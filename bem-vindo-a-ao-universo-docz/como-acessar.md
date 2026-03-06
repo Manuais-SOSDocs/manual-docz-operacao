@@ -70,65 +70,60 @@ Clique botão azul **Entrar** 👉 ![](https://manualsosdocs.gitbook.io/~gitbook
 Você será levado para o painel inicial da sua instituição
 {% endhint %}
 
+***
+
+## Recomendações de Uso e Segurança
+
+Para garantir a segurança das informações e o uso adequado do sistema, recomenda-se que os usuários sigam as boas práticas de utilização da plataforma.
+
 <details>
 
-<summary>Boas Práticas de Segurança da Informação</summary>
+<summary><strong>Boas práticas de uso</strong></summary>
 
+O acesso ao DocZ deve ser realizado por meio de **credenciais individuais**, sendo proibido o compartilhamento de usuários ou senhas entre pessoas.
 
+Recomenda-se que:
 
-* **Princípio do menor privilégio**\
-  Cada usuário deve possuir **apenas os acessos estritamente necessários** para o desempenho de suas atividades.
-* **Responsabilidade individual**\
-  As credenciais de acesso (login e senha) são **pessoais e intransferíveis**, sendo vedado o compartilhamento.
-* **Classificação da informação**\
-  Os documentos devem ser armazenados e acessados conforme seu **nível de sensibilidade** (ex.: público, interno, restrito ou confidencial).
-* **Ambiente seguro**\
-  O acesso ao DocZ deve ocorrer, preferencialmente, em **equipamentos institucionais**, atualizados e protegidos por antivírus e mecanismos de segurança.
-* **Conscientização dos usuários**\
-  Recomenda-se a realização periódica de **treinamentos e comunicados** sobre segurança da informação e uso adequado do sistema
+* cada usuário utilize apenas sua própria conta de acesso;
+* as permissões sejam atribuídas conforme a função desempenhada;
+* acessos de usuários que não utilizam mais o sistema sejam desativados;
+* as funcionalidades do sistema sejam utilizadas apenas para fins relacionados às atividades da organização.
+
+Essas medidas contribuem para manter o controle de acesso e a rastreabilidade das operações realizadas na plataforma.
 
 </details>
 
 <details>
 
-<summary>Controles de Acesso</summary>
+<summary><strong>Atualização de senha</strong></summary>
 
+Por motivos de segurança, as senhas de acesso ao sistema possuem **prazo de validade de 90 dias**, sendo necessária a sua atualização periódica.
 
+Além disso, recomenda-se que o usuário altere sua senha sempre que houver suspeita de uso indevido ou comprometimento das credenciais.
 
-* **Perfis e grupos de usuários**\
-  O DocZ deve ser configurado com **perfis de acesso bem definidos**, organizados por função, área ou projeto.
-* **Segregação de ambientes e informações**
-  * Espaços, pastas ou projetos devem possuir **permissões específicas**.
-  * Conteúdos sensíveis devem ser restritos apenas aos usuários autorizados.
-* **Gestão do ciclo de vida do usuário**
-  * Criação de acessos mediante solicitação formal.
-  * **Revisão periódica** dos acessos concedidos.
-  * **Revogação imediata** de permissões em casos de desligamento, mudança de função ou término de projeto.
-* **Rastreabilidade e auditoria**\
-  Sempre que possível, utilizar recursos do sistema para **registro de logs**, histórico de ações e identificação de responsáveis por alterações.
+A senha é pessoal e intransferível, devendo ser mantida sob sigilo.
 
 </details>
 
 <details>
 
-<summary>Recomendações Operacionais</summary>
+<summary><strong>Termo de uso e proteção de dados (LGPD)</strong></summary>
 
+O uso do sistema DocZ está condicionado à aceitação do **Termo de Uso e da Política de Privacidade da plataforma**, que estabelecem as responsabilidades dos usuários quanto à utilização adequada do sistema e à proteção das informações armazenadas.
 
+O tratamento de dados pessoais no DocZ segue as diretrizes da **Lei Geral de Proteção de Dados (LGPD)** e das políticas internas de proteção de dados do Grupo SOS Docs, garantindo a confidencialidade, integridade e uso adequado das informações. termo de uso docz - publicado
 
-* **Padronização de uso**\
-  Seguir os manuais, fluxos e orientações oficiais do DocZ para criação, edição, versionamento e exclusão de documentos.
-* **Versionamento controlado**\
-  Evitar duplicidades e sobrescritas indevidas, garantindo que versões oficiais estejam claramente identificadas.
-* **Cuidado com exportações e downloads**\
-  A extração de documentos do sistema deve ocorrer **apenas quando necessária**, respeitando as normas internas de segurança e sigilo.
-* **Backups e continuidade**\
-  Verificar se as rotinas de backup do DocZ estão ativas e alinhadas às políticas institucionais de continuidade do negócio.
-* **Comunicação de incidentes**\
-  Qualquer suspeita de acesso indevido, perda de informação ou falha de segurança deve ser **comunicada imediatamente** à equipe responsável.
+<figure><img src="../.gitbook/assets/termo de uso docz 1.png" alt=""><figcaption></figcaption></figure>
+
+{% file src="../.gitbook/assets/termo de uso docz - publicado.pdf" %}
+
+Ao acessar o sistema, o usuário será apresentado a uma mensagem solicitando a **leitura e aceitação dos Termos de Uso e da Política de Privacidade**, confirmando sua ciência sobre o uso da plataforma e o tratamento de dados realizado no sistema.
+
+Caso o termo seja atualizado, o sistema solicitará novamente a **leitura e aceitação do documento**, garantindo que todos os usuários estejam cientes das condições vigentes de utilização da plataforma.
+
+Os usuários devem utilizar o sistema exclusivamente para as finalidades autorizadas e em conformidade com as políticas de segurança e privacidade da organização.
 
 </details>
-
-
 
 
 
