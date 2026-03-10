@@ -6,7 +6,7 @@ description: Menu > gestão de usuários > Usuários > NOVO ou ✏️ > aba Perm
 
 Cada permissão define as funcionalidades e ações que o usuário pode executar dentro do sistema. Esta tabela tem como objetivo servir de **referência rápida e prática**, auxiliando na **compreensão de cada permissão** disponível e no **ajuste seguro dos perfis de acesso**.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 #### Administração
 
