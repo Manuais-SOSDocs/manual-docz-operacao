@@ -16,9 +16,9 @@ Na grid “Selecione o Projeto”, clique no ícone  ![](<../.gitbook/assets/ima
 {% endstep %}
 
 {% step %}
-Na grid abaixo, preencha o formulário com as especificações do projeto.
+Na grid abaixo, preencha o [formulário ](como-cadastrar-e-editar-projetos..md#explorando-o-formulario)com as especificações do projeto.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (203).png" alt="" width="497"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
