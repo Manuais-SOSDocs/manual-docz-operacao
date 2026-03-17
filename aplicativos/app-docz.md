@@ -50,7 +50,7 @@ A lista apresentada é definida com base em dois critérios:
 
 Esse mecanismo garante o **isolamento de dados entre clientes (multi-tenant)** e restringe o acesso apenas aos projetos autorizados.&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Após selecionar o projeto, o usuário é direcionado para o **Menu Principal do aplicativo**.
 
@@ -62,7 +62,7 @@ Após selecionar o projeto, o usuário é direcionado para o **Menu Principal do
 
 O **Menu Principal** concentra as principais funcionalidades operacionais do aplicativo.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Menu Lateral de Navegação**
 
