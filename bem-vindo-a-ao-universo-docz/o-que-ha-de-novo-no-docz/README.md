@@ -10,7 +10,7 @@ Este é o seu espaço para acompanhar tudo o que está mudando — e melhorando 
 
 <sub><kbd>#TimeDocZ<kbd></sub> <sub><kbd>#OrgulhoDeSerSOSDocs<kbd></sub> <sub><kbd>#TecnologiaProdutos<kbd></sub> <sub><kbd>#GEDs<kbd></sub>
 
-<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><mark style="color:blue;"><strong>🚀 Últimas atualizações</strong></mark></td><td></td><td><a href="novidades-da-versao-publicada-em-12-03-2026..md">novidades-da-versao-publicada-em-12-03-2026..md</a></td></tr><tr><td align="center"><mark style="color:blue;"><strong>🧾 Repositório - Release notes</strong></mark></td><td></td><td><a href="repositorio-release-notes/">repositorio-release-notes</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><mark style="color:blue;"><strong>🚀 Últimas atualizações</strong></mark></td><td></td><td><a href="novidades-da-versao-publicada-em-31-03-2026..md">novidades-da-versao-publicada-em-31-03-2026..md</a></td></tr><tr><td align="center"><mark style="color:blue;"><strong>🧾 Repositório - Release notes</strong></mark></td><td></td><td><a href="repositorio-release-notes/">repositorio-release-notes</a></td></tr></tbody></table>
 
 
 
