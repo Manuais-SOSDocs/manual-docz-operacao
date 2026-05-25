@@ -22,11 +22,9 @@ Quer saber mais? **Entre em contato com o Grupo SOSDocs** e solicite uma **apres
 
 ***
 
-
-
 <details>
 
-<summary>Para quem utiliza o DocZ e o Smartdocs.</summary>
+<summary><strong>Para quem utiliza o DocZ e o Smartdocs.</strong></summary>
 
 👥 Integração e Criação Automática de Usuários via SSO
 
@@ -41,4 +39,4 @@ O SmartDocs oferece **integração direta com o DocZ**, permitindo que usuários
 
 
 
-<a href="painel.md" class="button secondary" data-icon="house">VOLTE PARA O PAINEL</a>
+<a href="painel.md" class="button secondary" data-icon="circle-left">Voltar</a>
