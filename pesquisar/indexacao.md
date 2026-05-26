@@ -5,7 +5,7 @@ icon: file-lines
 
 # Indexação
 
-A tela de Indexação é utilizada para associar informações (metadados) aos documentos digitais ou físicos armazenados no sistema.
+A funcionalidade de Indexação é utilizada para associar informações (metadados) aos documentos digitais ou físicos armazenados no sistema.
 
 **Fluxo de uso:**
 
@@ -31,5 +31,11 @@ A tela de Indexação é utilizada para associar informações (metadados) aos d
 * Se a **indexação for distribuída em lote**, ao clicar em **Salvar/Confirmar**, o sistema encaminha automaticamente o usuário para o próximo formulário e documento da fila, até a conclusão do lote.
 * Os **campos do formulário** a serem preenchidos podem variar de acordo com as **configurações definidas em cada projeto**.
 {% endhint %}
+
+### 🤖 Indexação por IA (Docfy + DocZ)
+
+
+
+
 
 <a href="./#acoes-disponiveis-localizadas-acima-da-grade-projeto" class="button secondary" data-icon="circle-left">Voltar</a>
