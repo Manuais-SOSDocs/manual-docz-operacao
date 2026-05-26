@@ -3,6 +3,24 @@ description: >-
   Missão: Aprender a identificar o que é – e o que não é – um documento
   arquivístico.
 icon: wpexplorer
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Nível 1 – Exploradora de Documentos
@@ -20,7 +38,7 @@ Um documento é **qualquer informação registrada**, seja no papel, no computad
 
 Aqui está o grande segredo que todo explorador de documentos precisa saber:
 
-<table data-full-width="false"><thead><tr><th width="370.2000732421875">Documento Arquivístico</th><th width="373.199951171875">Documento Não Arquivístico</th></tr></thead><tbody><tr><td>É aquele que está ligado <strong>às atividades da instituição</strong>. Ele tem valor de prova, faz parte de um processo, serve para tomada de decisão, controle, comprovação ou registro.</td><td>É um documento que <strong>não está vinculado às funções da instituição</strong>. Pode ser algo pessoal, de apoio, promocional ou apenas informativo. Não possui valor legal ou probatório.</td></tr><tr><td><p><strong>💡 Exemplos de documentos:</strong></p><ul><li>Um ofício enviado entre setores</li></ul><ul><li>A ficha de matrícula de um aluno</li><li>Um laudo técnico</li><li>Um termo de posse</li></ul></td><td><p><strong>💡 Exemplos de documentos:</strong></p><ul><li>Um panfleto de propaganda</li><li>Uma cópia sem assinatura</li><li>Uma revista recebida pelo correio</li><li>Um bilhete informal</li></ul></td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="370.2000732421875">Documento Arquivístico</th><th width="373.199951171875">Documento Não Arquivístico</th></tr></thead><tbody><tr><td>É aquele que está ligado <strong>às atividades da instituição</strong>. Ele tem valor de prova, faz parte de um processo, serve para tomada de decisão, controle, comprovação ou registro.</td><td>É um documento que <strong>não está vinculado às funções da instituição</strong>. Pode ser algo pessoal, de apoio, promocional ou apenas informativo. Não possui valor legal ou probatório.</td></tr><tr><td><p><strong>💡 Exemplos de documentos:</strong></p><ul><li>Um ofício enviado entre setores</li><li>A ficha de matrícula de um aluno</li><li>Um laudo técnico</li><li>Um termo de posse</li></ul></td><td><p><strong>💡 Exemplos de documentos:</strong></p><ul><li>Um panfleto de propaganda</li><li>Uma cópia sem assinatura</li><li>Uma revista recebida pelo correio</li><li>Um bilhete informal</li></ul></td></tr></tbody></table>
 
 ## <mark style="color:blue;">Por que isso importa?</mark> 💬
 

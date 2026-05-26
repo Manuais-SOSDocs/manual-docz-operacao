@@ -19,11 +19,23 @@ Após clicar no ícone <img src="../.gitbook/assets/image (276).png" alt="" data
 
 ### Detalhes – Ações disponíveis na parte superior:
 
-<figure><img src="../.gitbook/assets/image (466).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (511).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
-<summary><img src="../.gitbook/assets/image (280).png" alt="" data-size="line"> SLA Projeto</summary>
+<summary><img src="../.gitbook/assets/image (512).png" alt=""> <strong>Configuração de Classificação</strong></summary>
+
+A configuração de classificação permite definir regras automáticas de preenchimento de metadados documentais no projeto.
+
+Por meio dessa configuração, são selecionados os campos que serão preenchidos automaticamente com as informações vinculadas à classificação documental, como classificação, fases documentais, destinação final, temporalidade, sigilo, grupos e demais metadados relacionados.
+
+<figure><img src="../.gitbook/assets/image (513).png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary><img src="../.gitbook/assets/image (280).png" alt="" data-size="line"> <strong>SLA Projeto</strong></summary>
 
 A tela de **SLA (Service Level Agreement)** é responsável pelo gerenciamento das regras que determinam os prazos de execução para diferentes tipos de solicitações no sistema **DocZ**.\
 Por meio dessa interface, o usuário pode **cadastrar, visualizar, editar e filtrar** SLAs conforme as necessidades operacionais e contratuais.
@@ -55,7 +67,7 @@ Também estão disponíveis ações para **inativar** regras conforme a necessid
 
 <details>
 
-<summary><img src="../.gitbook/assets/image (281).png" alt="" data-size="line"> Permissão de Acesso</summary>
+<summary><img src="../.gitbook/assets/image (281).png" alt="" data-size="line"> <strong>Permissão de Acesso</strong></summary>
 
 A tela **“Demonstração”** permite gerenciar quais usuários têm permissão para acessar e visualizar um projeto específico. A interface é dividida em **duas seções interativas principais**:
 
@@ -100,7 +112,7 @@ Exibe todos os usuários que já possuem acesso ao projeto, permitindo **visuali
 
 <details>
 
-<summary><img src="../.gitbook/assets/image (282).png" alt="" data-size="line"> Regras</summary>
+<summary><img src="../.gitbook/assets/image (282).png" alt="" data-size="line"> <strong>Regras</strong></summary>
 
 Esta tela permite ao administrador **definir regras detalhadas** para grupos e usuários em relação a um recurso ou projeto. A interface é dividida em **seções.**
 
@@ -108,7 +120,7 @@ Esta tela permite ao administrador **definir regras detalhadas** para grupos e u
 
 #### 1. Bloco Expansível
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><p><img src="../.gitbook/assets/image (457).png" alt=""></p><ul><li><strong>Função:</strong> Adicionar um grupo inteiro de usuários às regras de permissão.</li><li><strong>Interação:</strong> Ao clicar no bloco, ele se expande mostrando a lista de grupos disponíveis.</li><li><p><strong>Como adicionar:</strong></p><ol><li>Selecione o grupo desejado.</li><li>Clique no botão azul <strong>“+”</strong> para movê-lo para a tabela <strong>“Selecionados”</strong>.</li><li>Para finalizar a ação, clique no <strong>ícone</strong> <img src="../.gitbook/assets/image (455).png" alt="" data-size="line"> localizado ao lado do título <strong>“Selecionados”</strong> na tabela de visualização.<br></li></ol></li></ul></td><td></td></tr><tr><td><div><figure><img src="../.gitbook/assets/image (459).png" alt="" width="264"><figcaption></figcaption></figure></div><ul><li><strong>Função:</strong> Adicionar usuários individuais às regras de permissão.</li></ul><ul><li><strong>Interação:</strong> Funciona de forma semelhante ao bloco de grupos, expandindo-se ao ser clicado.</li><li><p><strong>Como adicionar:</strong></p><ol><li>Localize o usuário desejado na lista.</li><li>Clique no botão azul <strong>“+”</strong> para incluí-lo na tabela <strong>“Selecionados”</strong>.</li><li>Para finalizar a ação, clique no <strong>ícone</strong> <img src="../.gitbook/assets/image (455).png" alt="" data-size="line"> localizado ao lado do título <strong>“Selecionados”</strong> na tabela de visualização.<br></li></ol></li></ul></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><p><img src="../.gitbook/assets/image (457).png" alt=""></p><ul><li><strong>Função:</strong> Adicionar um grupo inteiro de usuários às regras de permissão.</li><li><strong>Interação:</strong> Ao clicar no bloco, ele se expande mostrando a lista de grupos disponíveis.</li><li><p><strong>Como adicionar:</strong></p><ol><li>Selecione o grupo desejado.</li><li>Clique no botão azul <strong>“+”</strong> para movê-lo para a tabela <strong>“Selecionados”</strong>.</li><li>Para finalizar a ação, clique no <strong>ícone</strong> <img src="../.gitbook/assets/image (455).png" alt="" data-size="line"> localizado ao lado do título <strong>“Selecionados”</strong> na tabela de visualização.<br></li></ol></li></ul></td><td></td></tr><tr><td><div><figure><img src="../.gitbook/assets/image (459).png" alt="" width="264"><figcaption></figcaption></figure></div><ul><li><strong>Função:</strong> Adicionar usuários individuais às regras de permissão.</li><li><strong>Interação:</strong> Funciona de forma semelhante ao bloco de grupos, expandindo-se ao ser clicado.</li><li><p><strong>Como adicionar:</strong></p><ol><li>Localize o usuário desejado na lista.</li><li>Clique no botão azul <strong>“+”</strong> para incluí-lo na tabela <strong>“Selecionados”</strong>.</li><li>Para finalizar a ação, clique no <strong>ícone</strong> <img src="../.gitbook/assets/image (455).png" alt="" data-size="line"> localizado ao lado do título <strong>“Selecionados”</strong> na tabela de visualização.<br></li></ol></li></ul></td><td></td></tr></tbody></table>
 
 #### **2. Tabela "Selecionados"**
 
@@ -124,7 +136,7 @@ Exibe todos os grupos e usuários adicionados, permitindo **visualização e con
 
 <details>
 
-<summary><img src="../.gitbook/assets/image (283).png" alt="" data-size="line"> Editar Projeto</summary>
+<summary><img src="../.gitbook/assets/image (283).png" alt="" data-size="line"> <strong>Editar Projeto</strong></summary>
 
 Esta tela permite que usuários com as devidas permissões **visualizem e editem projetos existentes**.
 
@@ -138,7 +150,7 @@ Para aprender como cadastrar e editar um projeto, [**clique aqui**](como-cadastr
 
 <details>
 
-<summary><img src="../.gitbook/assets/image (287).png" alt="" data-size="line"> Excluir Projeto</summary>
+<summary><img src="../.gitbook/assets/image (287).png" alt="" data-size="line"> <strong>Excluir Projeto</strong></summary>
 
 Ao clicar no ícone **“X”** para excluir um projeto, o sistema **não realiza a exclusão imediata**.\
 Por motivos de segurança e controle, **apenas o Administrador do sistema** possui permissão para concluir essa ação.
@@ -157,7 +169,7 @@ Dessa forma, a exclusão só será efetivada **após a aprovação e execução 
 
 <details>
 
-<summary><mark style="color:red;">Formulários</mark></summary>
+<summary><mark style="color:red;"><strong>Formulários</strong></mark></summary>
 
 O botão **“Formulários”** direciona o usuário para a página de **Formulários de Indexação**, onde são definidos os metadados do projeto.
 
@@ -199,14 +211,14 @@ Ao clicar sobre o **título do formulário**, o sistema exibirá, no painel dire
 Realize as alterações necessárias e clique em <img src="../.gitbook/assets/image (89).png" alt="" data-size="line"> para confirmar.
 
 {% hint style="info" %}
-**Dica:** Durante a edição, será exibido um **ícone de regras (**<img src="../.gitbook/assets/image (87).png" alt="" data-size="line">**)** ao lado do título. A partir dele, é possível definir as **regras de acesso** e controle de uso do formulário, garantindo maior segurança e personalização.
+**Dica:** Durante a edição, será exibido um **ícone de regras (**<img src="../.gitbook/assets/image (87).png" alt="" data-size="original">**)** ao lado do título. A partir dele, é possível definir as **regras de acesso** e controle de uso do formulário, garantindo maior segurança e personalização.
 {% endhint %}
 
 </details>
 
 <details>
 
-<summary><mark style="color:blue;">Abrir</mark></summary>
+<summary><mark style="color:blue;"><strong>Abrir</strong></mark></summary>
 
 Ao clicar em **Abrir**, o usuário é direcionado automaticamente para o módulo **Pesquisar**, onde poderá realizar a busca por objetos vinculados ao projeto selecionado.
 
