@@ -126,6 +126,25 @@ Durante o processo de validação, são analisados aspectos como:
 
 A utilização da solução da Lacuna Software garante a conformidade do processo de validação com os padrões e requisitos aplicáveis às assinaturas digitais.
 
+<figure><img src="../../../../.gitbook/assets/image (523).png" alt=""><figcaption></figcaption></figure>
+
+#### Relatório de Conformidade
+
+O botão **Relatório de Conformidade** permite visualizar os detalhes técnicos da validação da assinatura digital do documento.
+
+Ao selecionar essa opção, o sistema exibe informações relacionadas à verificação da assinatura, incluindo:
+
+* status da validação da assinatura;
+* data e hora da validação;
+* versão do validador utilizado;
+* fonte de verificação;
+* informações do arquivo validado;
+* resumo criptográfico (hash SHA256);
+* quantidade de assinaturas identificadas;
+* dados de integridade e conformidade do documento.
+
+Quando o relatório estiver aberto, o botão será alterado para **Ocultar Relatório de Conformidade**, permitindo recolher as informações exibidas na tela.
+
 #### Validação do Certificado Digital
 
 Para a validação e utilização do certificado digital no navegador, é necessário instalar a extensão **Web PKI**.\
