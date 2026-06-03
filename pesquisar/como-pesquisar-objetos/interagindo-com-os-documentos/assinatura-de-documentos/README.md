@@ -111,6 +111,16 @@ Além disso, o botão **“Arquivo Assinado”** <img src="../../../../.gitbook/
 
 <summary>Validações de Assinatura Digital</summary>
 
+O sistema agora realiza a **validação do CPF** do certificado digital utilizado na assinatura, verificando se ele **corresponde ao CPF cadastrado** para o usuário logado.
+
+Essa verificação é **opcional** e pode ser **configurada por cliente**. Para ativar essa funcionalidade, é necessário entre em contato com o responsável pelo projeto ou acione o suporte do Grupo SOSDcos .
+
+</details>
+
+<details>
+
+<summary>Validações de assinatura pela Lacuna Software</summary>
+
 A validação das assinaturas digitais dos documentos é realizada por meio de uma solução externa fornecida pela **Lacuna Software**, responsável pela verificação da integridade do documento, autenticidade da assinatura e situação do certificado digital utilizado no momento da assinatura.
 
 <figure><img src="../../../../.gitbook/assets/image (521).png" alt=""><figcaption></figcaption></figure>
@@ -149,10 +159,10 @@ Quando o relatório estiver aberto, o botão será alterado para **Ocultar Relat
 
 Para a validação e utilização do certificado digital no navegador, é necessário instalar a extensão **Web PKI**.\
 \
-A extensão pode ser obtida na Chrome Web Store através do link abaixo:\
-\
-Web PKI - Chrome Web Store - [https://chromewebstore.google.com/detail/web-pki/dcngeagmmhegagicpcmpinaoklddcgon?hl=pt-BR\&utm\_source=chatgpt.com](https://chromewebstore.google.com/detail/web-pki/dcngeagmmhegagicpcmpinaoklddcgon?hl=pt-BR\&utm_source=chatgpt.com)\
-\
+A extensão pode ser obtida na Chrome Web Store através do link abaixo:
+
+> Web PKI - Chrome Web Store - [https://chromewebstore.google.com/detail/web-pki/dcngeagmmhegagicpcmpinaoklddcgon?hl=pt-BR\&utm\_source=chatgpt.com](https://chromewebstore.google.com/detail/web-pki/dcngeagmmhegagicpcmpinaoklddcgon?hl=pt-BR\&utm_source=chatgpt.com)
+
 O Web PKI permite a utilização de certificados digitais diretamente em páginas web, possibilitando operações como validação de certificados e assinaturas digitais sem a necessidade de Java.
 
 {% hint style="info" %}
