@@ -13,7 +13,7 @@ description: >-
 Ambos os cenários são indicados para assinaturas de pequenos volumes, ou seja, uma funcionalidade voltada ao uso operacional do dia a dia, e não para grandes volumes, uma vez que dependem de ações manuais do usuário.
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th></tr></thead><tbody><tr><td><p><img src="../../../../.gitbook/assets/image (29) (1).png" alt="" data-size="line">  <strong>Aplicar a Chancela:</strong></p><p></p><p>A chancela é a assinatura digital da <strong>SOS Docs</strong>, já embarcada no DocZ. Com as permissões de projeto e usuário ativas, qualquer usuário autorizado pode aplicá-la. A assinatura possui <strong>validade jurídica</strong> e pode ser validada diretamente no ITI: <a href="https://validar.iti.gov.br/">https://validar.iti.gov.br/</a>.<br><br><sub>Além disso, o usuário pode definir nos <strong>parâmetros de projeto</strong> se deve ser aplicada uma <strong>marca d’água</strong> nos arquivos assinados. A marca d’água aparecerá apenas se o parâmetro estiver ativo no projeto.</sub></p></td></tr><tr><td><p><img src="../../../../.gitbook/assets/image (30) (1).png" alt="" data-size="line"> <strong>Aplicar Assinatura Digital:</strong></p><p></p><p>A assinatura com certificado digital é pessoal e possui validade legal. O usuário deve fazer o upload de um certificado digital válido em <strong>"</strong><a href="https://manualsosdocs.gitbook.io/docz-operacao/painel#undefined-2"><strong>Minha Conta</strong></a><strong>"</strong>.</p><p>Ao assinar, o sistema utilizará o certificado enviado pelo usuário, seguindo os padrões do mesmo. Antes de concluir a assinatura, o sistema solicitará:</p><ul><li><strong>Senha do certificado</strong>;</li><li>Se deseja aplicar <strong>marca d’água visível</strong> no arquivo assinado.</li></ul><p></p></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th></tr></thead><tbody><tr><td><p><img src="../../../../.gitbook/assets/image (29) (1).png" alt="" data-size="line">  <strong>Aplicar a Chancela:</strong></p><p></p><p>A chancela é a assinatura digital da <strong>SOS Docs</strong>, já embarcada no DocZ. Com as permissões de projeto e usuário ativas, qualquer usuário autorizado pode aplicá-la. A assinatura possui <strong>validade jurídica</strong> e pode ser validada diretamente no ITI: <a href="https://validar.iti.gov.br/">https://validar.iti.gov.br/</a>.<br><br><sub>Além disso, o usuário pode definir nos <strong>parâmetros de projeto</strong> se deve ser aplicada uma <strong>marca d’água</strong> nos arquivos assinados. A marca d’água aparecerá apenas se o parâmetro estiver ativo no projeto.</sub></p></td></tr><tr><td><p><img src="../../../../.gitbook/assets/image (30) (1).png" alt="" data-size="line"> <strong>Aplicar Assinatura Digital:</strong></p><p></p><p>A assinatura com certificado digital é pessoal e possui validade legal. O usuário deve fazer o upload de um certificado digital válido em <strong>"</strong><a href="https://manualsosdocs.gitbook.io/docz-operacao/painel#undefined-2"><strong>Minha Conta</strong></a><strong>"</strong>.</p><p>Ao assinar, o sistema utilizará o certificado enviado pelo usuário, seguindo os padrões do mesmo. Antes de concluir a assinatura, o sistema solicitará:</p><p></p><ul><li><strong>Senha do certificado</strong>;</li><li>Se deseja aplicar <strong>marca d’água visível</strong> no arquivo assinado.</li></ul></td></tr></tbody></table>
 
 #### ✍️Como assinar documentos no DocZ
 
@@ -111,10 +111,32 @@ Além disso, o botão **“Arquivo Assinado”** <img src="../../../../.gitbook/
 
 <summary>Validações de Assinatura Digital</summary>
 
-O sistema agora realiza a **validação do CPF** do certificado digital utilizado na assinatura, verificando se ele **corresponde ao CPF cadastrado** para o usuário logado.
+A validação das assinaturas digitais dos documentos é realizada por meio de uma solução externa fornecida pela **Lacuna Software**, responsável pela verificação da integridade do documento, autenticidade da assinatura e situação do certificado digital utilizado no momento da assinatura.
 
-Essa verificação é **opcional** e pode ser **configurada por cliente**.\
-Para ativar essa funcionalidade, é necessário entre em contato com o responsável pelo projeto ou acione o suporte do Grupo SOSDcos .
+Durante o processo de validação, são analisados aspectos como:
+
+* Integridade do documento assinado;
+* Autenticidade da assinatura digital;
+* Validade do certificado digital utilizado;
+* Cadeia de certificação e informações associadas à assinatura.
+
+A utilização da solução da Lacuna Software garante a conformidade do processo de validação com os padrões e requisitos aplicáveis às assinaturas digitais.
+
+#### Validação do Certificado Digital
+
+Para a validação e utilização do certificado digital no navegador, é necessário instalar a extensão **Web PKI**.\
+\
+A extensão pode ser obtida na Chrome Web Store através do link abaixo:\
+\
+Web PKI - Chrome Web Store - [https://chromewebstore.google.com/detail/web-pki/dcngeagmmhegagicpcmpinaoklddcgon?hl=pt-BR\&utm\_source=chatgpt.com](https://chromewebstore.google.com/detail/web-pki/dcngeagmmhegagicpcmpinaoklddcgon?hl=pt-BR\&utm_source=chatgpt.com)\
+\
+O Web PKI permite a utilização de certificados digitais diretamente em páginas web, possibilitando operações como validação de certificados e assinaturas digitais sem a necessidade de Java.
+
+{% hint style="info" %}
+Após a instalação da extensão, reinicie o navegador caso solicitado e retorne ao sistema para prosseguir com a validação do certificado digital.
+{% endhint %}
+
+<figure><img src="../../../../.gitbook/assets/image (521).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
