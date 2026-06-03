@@ -113,12 +113,16 @@ Além disso, o botão **“Arquivo Assinado”** <img src="../../../../.gitbook/
 
 A validação das assinaturas digitais dos documentos é realizada por meio de uma solução externa fornecida pela **Lacuna Software**, responsável pela verificação da integridade do documento, autenticidade da assinatura e situação do certificado digital utilizado no momento da assinatura.
 
+<figure><img src="../../../../.gitbook/assets/image (521).png" alt=""><figcaption></figcaption></figure>
+
 Durante o processo de validação, são analisados aspectos como:
 
 * Integridade do documento assinado;
 * Autenticidade da assinatura digital;
 * Validade do certificado digital utilizado;
 * Cadeia de certificação e informações associadas à assinatura.
+
+<figure><img src="../../../../.gitbook/assets/image (522).png" alt=""><figcaption></figcaption></figure>
 
 A utilização da solução da Lacuna Software garante a conformidade do processo de validação com os padrões e requisitos aplicáveis às assinaturas digitais.
 
@@ -135,8 +139,6 @@ O Web PKI permite a utilização de certificados digitais diretamente em página
 {% hint style="info" %}
 Após a instalação da extensão, reinicie o navegador caso solicitado e retorne ao sistema para prosseguir com a validação do certificado digital.
 {% endhint %}
-
-<figure><img src="../../../../.gitbook/assets/image (521).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
