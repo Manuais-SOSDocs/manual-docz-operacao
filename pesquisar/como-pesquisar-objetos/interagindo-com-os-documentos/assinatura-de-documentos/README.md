@@ -131,14 +131,18 @@ Durante o processo de validação, são analisados aspectos como:
 * Cadeia de certificação associada à assinatura;
 * Informações de conformidade da assinatura digital.
 
+#### Passo a passo para validar assinaturas digitais
+
+1. Após selecionar o objeto desejado, clique no ícone **Histórico de Assinaturas**.
+2. O sistema abrirá uma janela pop-up contendo o histórico das assinaturas realizadas no arquivo.
+3. Na parte inferior direita da janela, clique no botão **Validar Assinaturas**.
+4. O sistema realizará a verificação das assinaturas digitais do documento.
+
 <figure><img src="../../../../.gitbook/assets/image (521).png" alt=""><figcaption></figcaption></figure>
 
-Durante o processo de validação, são analisados aspectos como:
-
-* Integridade do documento assinado;
-* Autenticidade da assinatura digital;
-* Validade do certificado digital utilizado;
-* Cadeia de certificação e informações associadas à assinatura.
+* Após a conclusão da validação, será exibida uma mensagem de sucesso informando que as assinaturas foram devidamente validadas.
+* Na coluna **Validação da Assinatura**, o status da assinatura será apresentado como **Válida**, quando a assinatura estiver em conformidade.
+* Para visualizar os detalhes técnicos da validação, clique no botão **Visualizar Relatório de Conformidade**.
 
 <figure><img src="../../../../.gitbook/assets/image (522).png" alt=""><figcaption></figcaption></figure>
 
