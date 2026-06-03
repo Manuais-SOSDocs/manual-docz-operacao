@@ -121,7 +121,15 @@ Essa verificação é **opcional** e pode ser **configurada por cliente**. Para 
 
 <summary>Validações de assinatura pela Lacuna Software</summary>
 
-A validação das assinaturas digitais dos documentos é realizada por meio de uma solução externa fornecida pela **Lacuna Software**, responsável pela verificação da integridade do documento, autenticidade da assinatura e situação do certificado digital utilizado no momento da assinatura.
+A validação das assinaturas digitais dos documentos é realizada por meio da solução **Lacuna Software**, utilizando a versão **2.22.3**. Esta solução é responsável pela verificação da integridade do documento, autenticidade da assinatura e validade do certificado digital utilizado no processo de assinatura.
+
+Durante o processo de validação, são analisados aspectos como:
+
+* Integridade do documento assinado;
+* Autenticidade da assinatura digital;
+* Validade do certificado digital utilizado;
+* Cadeia de certificação associada à assinatura;
+* Informações de conformidade da assinatura digital.
 
 <figure><img src="../../../../.gitbook/assets/image (521).png" alt=""><figcaption></figcaption></figure>
 
