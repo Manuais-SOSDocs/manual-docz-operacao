@@ -167,7 +167,7 @@ Ao selecionar essa opção, o sistema exibe informações relacionadas à verifi
 
 Quando o relatório estiver aberto, o botão será alterado para **Ocultar Relatório de Conformidade**, permitindo recolher as informações exibidas na tela.
 
-#### Validação do Certificado Digital
+#### Web PKI
 
 Para a validação e utilização do certificado digital no navegador, é necessário instalar a extensão **Web PKI**.\
 \
