@@ -23,6 +23,11 @@ description: >-
 | 26/02/2026         | DocZ v:2026.02.26.17.1.5.15.5  | 🔗 [Ver detalhes](novidades-da-versao-publicada-em-26-02-2026..md)    |
 | 05/03/2026         | Docz v:2026.03.04.18.1.5.15.7  | 🔗 [Ver detalhes](novidades-da-versao-publicada-em-26-02-2026..md)    |
 | 26/03/2026         | Docz v:2026.03.26.18.1.5.16.1r | 🔗 [Ver detalhes](novidades-da-versao-publicada-em-26-03-2026..md)    |
-| 31/03/2026         | Docz v:2026.03.31.17.1.5.17.1  | 🔗 [Ver detalhes](../novidades-da-versao-publicada-em-31-03-2026..md) |
+| 31/03/2026         | Docz v:2026.03.31.17.1.5.17.1  | 🔗 [Ver detalhes](novidades-da-versao-publicada-em-31-03-2026..md)    |
+| 15/04/2026         | Docz v:2026.04.15.20.1.5.17.2  | 🔗 [Ver detalhes](novidades-da-versao-publicada-em-15-04-2026..md)    |
+| 05/05/2026         | Docz v:2026.05.04.16.1.5.17.3  | 🔗 [Ver detalhes](novidades-da-versao-publicada-em-05-05-2026..md)    |
+| 13/05/2026         | Docz v:2026.05.13.22.1.5.17.4  | 🔗 [Ver detalhes](novidades-da-versao-publicada-em-13-05-2026..md)    |
+| 19/05/2026         | Docz v:2026.05.19.17.1.5.17.5  | 🔗 [Ver detalhes](novidades-da-versao-publicada-em-19-05-2026..md)    |
+| 28/05/2026         | Docz v:2026.05.28.18.1.5.17.6  | 🔗 [Ver detalhes](../novidades-da-versao-publicada-em-28-05-2026..md) |
 
 <a href="../" class="button secondary" data-icon="circle-left">Voltar</a>

@@ -79,4 +79,4 @@ Ficou com dúvidas ou quer saber mais? Fale com o time de [Suporte](https://sosd
 
 
 
-<a href="./" class="button secondary" data-icon="circle-left">Retornar para anterior</a>
+<a href="../" class="button secondary" data-icon="circle-left">Retornar para anterior</a>
