@@ -14,7 +14,7 @@ Essas regras permitem:
 * Aplicar a classificação automaticamente no momento da importação, sem necessidade de ação manual.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -26,7 +26,7 @@ Essas regras permitem:
 {% step %}
 Comece Configurando as Regras
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

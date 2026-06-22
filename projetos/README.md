@@ -141,7 +141,7 @@ Exibe todos os grupos e usuários adicionados, permitindo **visualização e con
 Esta tela permite que usuários com as devidas permissões **visualizem e editem projetos existentes**.
 
 {% hint style="info" %}
-Para aprender como cadastrar e editar um projeto, [**clique aqui**](como-cadastrar-e-editar-projetos..md).
+Para aprender como cadastrar e editar um projeto, [**clique aqui**](/broken/pages/T2lFblRnmenjnUYBbjyM).
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (464).png" alt=""><figcaption></figcaption></figure>
@@ -165,75 +165,14 @@ Dessa forma, a exclusão só será efetivada **após a aprovação e execução 
 
 ### Detalhes – Ações disponíveis na parte inferior:
 
-<figure><img src="../.gitbook/assets/image (467).png" alt="" width="525"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (524).png" alt=""><figcaption></figcaption></figure>
 
-<details>
-
-<summary><mark style="color:red;"><strong>Formulários</strong></mark></summary>
-
-O botão **“Formulários”** direciona o usuário para a página de **Formulários de Indexação**, onde são definidos os metadados do projeto.
-
-Nesta seção, é possível **criar, editar e gerenciar formulários** utilizados para a **indexação de documentos**, configurando os campos (metadados) que serão preenchidos durante o cadastro de objetos no sistema.
-
-Cada formulário representa um **modelo de informações estruturadas**, que auxilia o sistema na **localização, classificação e recuperação eficiente** dos documentos, garantindo **organização e rastreabilidade** no processo de gestão.
-
-{% hint style="info" %}
-**⚙️ Indexação de Arquivos com Campos Fixos**
-
-Agora é possível **configurar metadados fixos por projeto**, permitindo que determinados campos sejam **preenchidos diretamente na configuração do projeto**.\
-Esses metadados permanecem padronizados para todos os formulários vinculados, garantindo **uniformidade e rastreabilidade** nas indexações.
-
-Além disso, os dados configurados como fixos passam a integrar o **relatório analítico de arquivos**, ampliando a **visão gerencial** sobre o acervo e facilitando o controle das informações indexadas.
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/image (468).png" alt=""><figcaption></figcaption></figure>
-
-#### **Ações disponíveis:**
-
-**1. Criar novo formulário** <img src="../.gitbook/assets/image (90).png" alt="" data-size="original">
-
-Ao clicar no ícone **“Novo Formulário”** <img src="../.gitbook/assets/image (85).png" alt="" data-size="line">, localizado na parte superior da tela, o sistema abrirá automaticamente o **painel de criação** no lado direito.
-
-Nesta etapa, todos os campos aparecerão **em branco**, prontos para serem preenchidos conforme os **parâmetros e necessidades do projeto**. Após inserir as informações desejadas, basta salvar para concluir o registro do novo formulário.
-
-Realize a criação e clique em <img src="../.gitbook/assets/image (88).png" alt="" data-size="line"> para confirmar.
-
-***
-
-**2. Editar formulário existente ✏️**
-
-Para editar um formulário já cadastrado, selecione o item desejado na **lista lateral esquerda**.
-
-Ao clicar sobre o **título do formulário**, o sistema exibirá, no painel direito, o **formulário preenchido com os dados originais**. O título da tela será atualizado automaticamente para:
-
-<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
-
-Realize as alterações necessárias e clique em <img src="../.gitbook/assets/image (89).png" alt="" data-size="line"> para confirmar.
-
-{% hint style="info" %}
-**Dica:** Durante a edição, será exibido um **ícone de regras (**<img src="../.gitbook/assets/image (87).png" alt="" data-size="original">**)** ao lado do título. A partir dele, é possível definir as **regras de acesso** e controle de uso do formulário, garantindo maior segurança e personalização.
-{% endhint %}
-
-</details>
-
-<details>
-
-<summary><mark style="color:blue;"><strong>Abrir</strong></mark></summary>
-
-Ao clicar em **Abrir**, o usuário é direcionado automaticamente para o módulo **Pesquisar**, onde poderá realizar a busca por objetos vinculados ao projeto selecionado.
-
-{% hint style="info" %}
-Para aprender como efetuar buscas por objetos no sistema, [**clique aqui**](../pesquisar/como-pesquisar-objetos/)
-{% endhint %}
-
-</details>
-
-
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><img src="../.gitbook/assets/image (525).png" alt="" data-size="original"></td><td><a href="embarque-de-metadados.md">embarque-de-metadados.md</a></td></tr><tr><td align="center"><img src="../.gitbook/assets/image (526).png" alt="" data-size="original"></td><td><a href="espelho-de-caixa.md">espelho-de-caixa.md</a></td></tr><tr><td align="center"><img src="../.gitbook/assets/image (527).png" alt="" data-size="original"></td><td><a href="formularios.md">formularios.md</a></td></tr><tr><td align="center"><img src="../.gitbook/assets/image (528).png" alt="" data-size="original"></td><td><a href="../pesquisar/">pesquisar</a></td></tr></tbody></table>
 
 ### 📌 **Mais possibilidades:**
 
-<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>Como criar um projeto?</strong></td><td><a href="como-cadastrar-e-editar-projetos..md#como-criar-um-novo-projeto">#como-criar-um-novo-projeto</a></td></tr><tr><td align="center"><strong>Como editar projetos no DocZ?</strong></td><td><a href="como-cadastrar-e-editar-projetos..md#como-editar-um-projeto">#como-editar-um-projeto</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>Criar</strong><br><strong>projeto</strong></td><td><a href="como-cadastrar-e-editar-projetos..md#como-criar-um-novo-projeto">#como-criar-um-novo-projeto</a></td></tr><tr><td align="center"><strong>Editar</strong><br><strong>projetos</strong></td><td><a href="como-cadastrar-e-editar-projetos..md#como-editar-um-projeto">#como-editar-um-projeto</a></td></tr><tr><td align="center"><strong>Configurações</strong><br><strong>do projeto</strong></td><td><a href="como-cadastrar-e-editar-projetos..md#explorando-o-formulario">#explorando-o-formulario</a></td></tr></tbody></table>
 
 
 
-<a href="../painel.md" class="button secondary" data-icon="circle-left">Retornar para anterior</a>
+<a href="../painel.md" class="button secondary" data-icon="circle-left">Voltar</a>

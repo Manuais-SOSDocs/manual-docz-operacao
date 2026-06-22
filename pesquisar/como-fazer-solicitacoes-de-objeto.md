@@ -150,7 +150,7 @@ Toda solicitação realizada gera automaticamente o envio de um **e-mail** para 
   * 📄 **PDF da Ordem de Serviço**
   * 🔐 **Código único e intransferível**
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Cada usuário recebe **um código individual**, que garante a **validação segura da entrega**:
 

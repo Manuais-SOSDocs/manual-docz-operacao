@@ -101,7 +101,7 @@ O **ícone de assinatura** permanece disponível até que **todos os responsáve
 
 Além disso, o botão **“Arquivo Assinado”** <img src="../../../../.gitbook/assets/image (16) (1).png" alt="" data-size="line"> permite **consultar todas as assinaturas aplicadas**, oferecendo **transparência e controle** sobre o histórico de validações do documento.
 
-<figure><img src="../../../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
