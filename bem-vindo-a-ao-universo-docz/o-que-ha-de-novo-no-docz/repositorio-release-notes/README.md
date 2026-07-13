@@ -28,6 +28,7 @@ description: >-
 | 05/05/2026         | Docz v:2026.05.04.16.1.5.17.3  | 🔗 [Ver detalhes](novidades-da-versao-publicada-em-05-05-2026..md)    |
 | 13/05/2026         | Docz v:2026.05.13.22.1.5.17.4  | 🔗 [Ver detalhes](novidades-da-versao-publicada-em-13-05-2026..md)    |
 | 19/05/2026         | Docz v:2026.05.19.17.1.5.17.5  | 🔗 [Ver detalhes](novidades-da-versao-publicada-em-19-05-2026..md)    |
-| 28/05/2026         | Docz v:2026.05.28.18.1.5.17.6  | 🔗 [Ver detalhes](../novidades-da-versao-publicada-em-28-05-2026..md) |
+| 28/05/2026         | Docz v:2026.05.28.18.1.5.17.6  | 🔗 [Ver detalhes](novidades-da-versao-publicada-em-28-05-2026..md)    |
+| 07/07/2026         | Docz v:2026.07.07.18.1.5.17.8  | 🔗 [Ver detalhes](../novidades-da-versao-publicada-em-07-07-2026..md) |
 
 <a href="../" class="button secondary" data-icon="circle-left">Voltar</a>
