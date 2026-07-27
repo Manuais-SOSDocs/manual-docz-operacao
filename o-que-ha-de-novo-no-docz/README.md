@@ -1,7 +1,29 @@
 ---
 icon: newspaper
 cover: ../.gitbook/assets/2761b3b0-c4a2-4ca5-b2e0-67ccc088471d.png
-coverY: 0
+coverY: -94.78519551595052
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+    mask: none
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # O que há de novo no DocZ?
