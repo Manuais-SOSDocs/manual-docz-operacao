@@ -26,7 +26,7 @@
     * [Novidades da Versão Publicada em 19/05/2026.](o-que-ha-de-novo-no-docz/repositorio-release-notes/novidades-da-versao-publicada-em-19-05-2026..md)
     * [Novidades da Versão Publicada em 28/05/2026.](o-que-ha-de-novo-no-docz/repositorio-release-notes/novidades-da-versao-publicada-em-28-05-2026..md)
     * [Novidades da Versão Publicada em 07/07/2026.](o-que-ha-de-novo-no-docz/repositorio-release-notes/novidades-da-versao-publicada-em-07-07-2026..md)
-    * [Resumo](o-que-ha-de-novo-no-docz/repositorio-release-notes/resumo.md)
+    * [Resumo 2025](o-que-ha-de-novo-no-docz/repositorio-release-notes/resumo-2025.md)
   * [Novidades da Versão Publicada em 14/07/2026.](o-que-ha-de-novo-no-docz/novidades-da-versao-publicada-em-14-07-2026..md)
 * [Sobre o DocZ](sobre-o-docz.md)
 * [PAINEL](painel.md)

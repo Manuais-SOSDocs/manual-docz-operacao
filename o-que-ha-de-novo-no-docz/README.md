@@ -8,9 +8,19 @@ Este é o seu espaço para acompanhar tudo o que está mudando — e melhorando 
 
 👀 Fique por dentro. Evoluímos o sistema continuamente para evoluir junto com você. 💡
 
-<sub><kbd>#TimeDocZ<kbd></sub> <sub><kbd>#OrgulhoDeSerSOSDocs<kbd></sub> <sub><kbd>#TecnologiaProdutos<kbd></sub> <sub><kbd>#GEDs<kbd></sub>
+<kbd>#TimeDocZ</kbd> <kbd>#OrgulhoDeSerSOSDocs</kbd> <kbd>#TecnologiaProdutos</kbd> <kbd>#GEDs</kbd>
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><img src="../.gitbook/assets/Capa cards operação 6566.png" alt=""></td><td></td><td><a href="novidades-da-versao-publicada-em-14-07-2026..md">novidades-da-versao-publicada-em-14-07-2026..md</a></td></tr><tr><td align="center">🗃️ <mark style="color:blue;"><strong>Repositório</strong></mark></td><td></td><td><a href="repositorio-release-notes/">repositorio-release-notes</a></td></tr><tr><td align="center">📃<mark style="color:blue;"><strong>Resumo 2025</strong></mark></td><td></td><td><a href="repositorio-release-notes/resumo.md">resumo.md</a></td></tr></tbody></table>
+{% content-ref url="novidades-da-versao-publicada-em-14-07-2026..md" %}
+[novidades-da-versao-publicada-em-14-07-2026..md](novidades-da-versao-publicada-em-14-07-2026..md)
+{% endcontent-ref %}
+
+{% content-ref url="repositorio-release-notes/" %}
+[repositorio-release-notes](repositorio-release-notes/)
+{% endcontent-ref %}
+
+{% content-ref url="repositorio-release-notes/resumo-2025.md" %}
+[resumo-2025.md](repositorio-release-notes/resumo-2025.md)
+{% endcontent-ref %}
 
 
 

@@ -1,11 +1,12 @@
 ---
+description: 2º Semestre de 2025
 hidden: true
-icon: list-tree
+icon: star
 ---
 
-# Resumo
+# Resumo 2025
 
-### 🔑 Viramos a chave da evolução.
+## 🔑 Viramos a chave da evolução.
 
 Virar a chave da evolução não é apenas lançar versões.
 
