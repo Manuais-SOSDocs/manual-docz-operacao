@@ -1,5 +1,7 @@
 ---
 icon: newspaper
+cover: ../.gitbook/assets/2761b3b0-c4a2-4ca5-b2e0-67ccc088471d.png
+coverY: 0
 ---
 
 # O que há de novo no DocZ?
