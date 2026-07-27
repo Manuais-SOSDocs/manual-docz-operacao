@@ -3,6 +3,7 @@ description: >-
   Página dedicada ao histórico de versões do sistema DocZ. Aqui você encontra o
   registro das atualizações, melhorias e correções implementadas em cada versão,
   com links diretos para as respectivas notas
+icon: database
 ---
 
 # Repositório - Release notes
@@ -18,7 +19,7 @@ description: >-
 | 09/12/2025         | DocZ v:2025.12.09.18.1.5.12.1  | 🔗 [Ver detalhes](novidades-da-versao-publicada-em-09-12-2025..md)    |
 | 22/12/2025         | DocZ v:2025.12.22.19.1.5.13.1  | 🔗 [Ver detalhes](novidades-da-versao-publicada-em-22-12-2025..md)    |
 | 13/01/2026         | Docz v:2026.01.13.19.1.5.14.1  | 🔗 [Ver detalhes](novidades-da-versao-publicada-em-13-01-2026..md)    |
-| 02/02/2026         | DocZ v:2026.02.02.17.1.5.15.2  | 🔗 [Ver detalhes](../novidades-da-versao-publicada-em-02-02-2026..md) |
+| 02/02/2026         | DocZ v:2026.02.02.17.1.5.15.2  | 🔗 [Ver detalhes](novidades-da-versao-publicada-em-02-02-2026..md)    |
 | 11/02/2026         | DocZ v:2026.02.11.19.1.5.15.3  | 🔗 [Ver detalhes](novidades-da-versao-publicada-em-11-02-2026..md)    |
 | 26/02/2026         | DocZ v:2026.02.26.17.1.5.15.5  | 🔗 [Ver detalhes](novidades-da-versao-publicada-em-26-02-2026..md)    |
 | 05/03/2026         | Docz v:2026.03.04.18.1.5.15.7  | 🔗 [Ver detalhes](novidades-da-versao-publicada-em-26-02-2026..md)    |

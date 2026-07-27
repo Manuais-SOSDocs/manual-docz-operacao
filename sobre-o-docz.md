@@ -1,10 +1,26 @@
 ---
-icon: house-lock
+icon: thumbtack-angle
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
-# COMO ACESSAR?
-
-#### 📌 O que é o DocZ? <a href="#o-que-e-o-docz" id="o-que-e-o-docz"></a>
+# Sobre o DocZ
 
 O **DocZ** é um sistema inteligente de gestão documental que integra o controle físico e digital dos documentos. Ele organiza, rastreia e protege os arquivos em todas as etapas — do armazenamento à digitalização — garantindo agilidade, segurança e conformidade com as normas de gestão da informação.
 
@@ -14,9 +30,11 @@ O **DocZ** é um sistema inteligente de gestão documental que integra o control
 
 ***
 
-### 🚪 Como acessar o DocZ <a href="#como-acessar-o-docz" id="como-acessar-o-docz"></a>
+## 🚪 Como acessar o DocZ <a href="#como-acessar-o-docz" id="como-acessar-o-docz"></a>
 
-**Primeiro acesso**
+<details>
+
+<summary><strong>Primeiro acesso</strong></summary>
 
 🚫 O sistema **DocZ não permite autocadastro**. Para começar a usar, é necessário solicitar a criação do seu usuário.
 
@@ -30,9 +48,13 @@ O **DocZ** é um sistema inteligente de gestão documental que integra o control
 **Importante:** Troque essa senha no primeiro login para manter sua conta segura!
 {% endhint %}
 
-#### **📌Passo a passo para entrar no sistema**
+</details>
 
-<figure><img src="../.gitbook/assets/© 2025 SOS Docs  Todos os direitos reservados. (1280 x 500 px) (2).gif" alt=""><figcaption></figcaption></figure>
+<details>
+
+<summary><strong>Passo a passo para entrar no sistema</strong></summary>
+
+<figure><img src=".gitbook/assets/© 2025 SOS Docs  Todos os direitos reservados. (1280 x 500 px) (2).gif" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
@@ -70,9 +92,11 @@ Clique botão azul **Entrar** 👉 ![](https://manualsosdocs.gitbook.io/~gitbook
 Você será levado para o painel inicial da sua instituição
 {% endhint %}
 
+</details>
+
 ***
 
-## Recomendações de Uso e Segurança
+## 🛡️Recomendações de Uso e Segurança
 
 Para garantir a segurança das informações e o uso adequado do sistema, recomenda-se que os usuários sigam as boas práticas de utilização da plataforma.
 
@@ -113,9 +137,9 @@ O uso do sistema DocZ está condicionado à aceitação do **Termo de Uso e da P
 
 O tratamento de dados pessoais no DocZ segue as diretrizes da **Lei Geral de Proteção de Dados (LGPD)** e das políticas internas de proteção de dados do Grupo SOS Docs, garantindo a confidencialidade, integridade e uso adequado das informações. termo de uso docz - publicado
 
-<figure><img src="../.gitbook/assets/termo de uso docz 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/termo de uso docz 1.png" alt=""><figcaption></figcaption></figure>
 
-{% file src="../.gitbook/assets/termo de uso docz - publicado.pdf" %}
+{% file src=".gitbook/assets/termo de uso docz - publicado.pdf" %}
 
 Ao acessar o sistema, o usuário será apresentado a uma mensagem solicitando a **leitura e aceitação dos Termos de Uso e da Política de Privacidade**, confirmando sua ciência sobre o uso da plataforma e o tratamento de dados realizado no sistema.
 
@@ -160,6 +184,54 @@ O DocZ é acessado por meio de navegadores modernos.
 
 </details>
 
+***
+
+## 🏅 Certificação SBIS <a href="#certificacao-sbis" id="certificacao-sbis"></a>
+
+{% columns %}
+{% column width="41.66666666666667%" %}
+O sistema DocZ v2026.06, da empresa SOS Docs, recebeu a Certificação SBIS Edição 2021 v5.2 na modalidade de Segurança da Informação (S-RES), no estágio de maturidade Estágio 1 – NGS2.
+
+A certificação atesta que o sistema foi avaliado conforme os requisitos estabelecidos pela Sociedade Brasileira de Informática em Saúde (SBIS) para a modalidade Segurança da Informação (S-RES).
+{% endcolumn %}
+
+{% column width="58.33333333333333%" %}
+![](https://manualsosdocs.gitbook.io/adm-docz/~gitbook/image?url=https%3A%2F%2F2165951091-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FH2zBMzYHjbRsfnTeRGr3%252Fuploads%252FL3B7tJcuXMjA07XXtVqk%252FSelo_194.png%3Falt%3Dmedia%26token%3D137b6ab2-1e54-4621-939a-3329ce938d8c\&width=768\&dpr=3\&quality=100\&sign=a9b6da7a\&sv=2)
+
+**Certificação:** SBIS Edição 2021 v5.2\
+**Sistema Certificado:** DocZ v2026.06\
+**Modalidade:** Segurança da Informação (S-RES)\
+**Estágio de Maturidade:** Estágio 1 – NGS2\
+**Número do** **Certificado:** nº 194
+{% endcolumn %}
+{% endcolumns %}
+
+> A validade da certificação pode ser consultada na relação oficial de sistemas certificados disponibilizada pela SBIS.
+>
+> [https://sbis.org.br/certificacoes/certificacao-software/sistemas-certificados/](https://sbis.org.br/certificacoes/certificacao-software/sistemas-certificados/)
+
+<details>
+
+<summary><strong>O que é a SBIS?</strong></summary>
+
+A **Sociedade Brasileira de Informática em Saúde (SBIS)** é uma entidade científica sem fins lucrativos fundada em 1986, dedicada ao desenvolvimento e à promoção da tecnologia da informação aplicada à saúde no Brasil.
+
+Entre suas atividades, a SBIS incentiva a pesquisa, o desenvolvimento tecnológico, a disseminação de boas práticas e a certificação de sistemas, contribuindo para a melhoria da qualidade, da segurança e da confiabilidade das soluções utilizadas no setor de saúde.
+
+> Fonte: [https://sbis.org.br/sbis/sobre/](https://sbis.org.br/sbis/sobre/)
+
+</details>
+
+<details>
+
+<summary><strong>O que foi alcançado com a certificação?</strong></summary>
+
+Com a certificação **S-RES – Segurança da Informação**, o DocZ demonstrou conformidade com requisitos voltados à proteção das informações armazenadas e processadas pelo sistema, incluindo aspectos relacionados à confidencialidade, integridade, rastreabilidade, controle de acesso e registro de operações.
+
+A certificação obtida reforça o compromisso do sistema DocZ com boas práticas de governança da informação, gestão documental e segurança dos dados, proporcionando maior confiabilidade para organizações que utilizam a plataforma em seus processos de negócio.
+
+</details>
 
 
-<a href="../" class="button secondary" data-icon="circle-left">Voltar</a>
+
+<a href="./" class="button secondary" data-icon="circle-left">Voltar</a>

@@ -10,7 +10,7 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
   metadata:
     visible: true
   tags:
@@ -21,7 +21,7 @@ layout:
 
 # ✨ Bem-vindo(a) ao Universo DocZ!
 
-<figure><img src=".gitbook/assets/Cópia de © 2025 SOS Docs  Todos os direitos reservados..gif" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/ChatGPT Image 27_07_2026, 14_33_55.png" alt=""><figcaption></figcaption></figure>
 
 ## ✨ Bem-vindo(a) ao Universo DocZ!
 
@@ -29,7 +29,7 @@ Este espaço foi criado para te ajudar a usar o sistema de forma prática e segu
 
 📚 Consulte este conteúdo sempre que tiver dúvidas ou quiser explorar melhor o sistema. Nosso objetivo é tornar sua rotina mais simples e sua atuação mais estratégica na gestão documental!
 
-<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><mark style="color:blue;"><strong>RELEASE NOTES</strong></mark></td><td><a href=".gitbook/assets/Cópia de capa cards operação (22).png">Cópia de capa cards operação (22).png</a></td><td><a href="bem-vindo-a-ao-universo-docz/o-que-ha-de-novo-no-docz/">o-que-ha-de-novo-no-docz</a></td></tr><tr><td align="center"><mark style="color:blue;"><strong>COMO ACESSAR?</strong></mark></td><td><a href=".gitbook/assets/Cópia de capa cards operação (21).png">Cópia de capa cards operação (21).png</a></td><td><a href="bem-vindo-a-ao-universo-docz/como-acessar.md">como-acessar.md</a></td></tr><tr><td align="center"><mark style="color:blue;"><strong>COMECE AQUI!!</strong></mark></td><td><a href=".gitbook/assets/Capa cards operação (16).png">Capa cards operação (16).png</a></td><td><a href="painel.md">painel.md</a></td></tr><tr><td align="center"><mark style="color:blue;"><strong>APP DOCZ</strong></mark></td><td><a href=".gitbook/assets/Capa cards operação (17).png">Capa cards operação (17).png</a></td><td><a href="aplicativos/app-docz.md">app-docz.md</a></td></tr><tr><td align="center"><mark style="color:blue;"><strong>FAQ</strong></mark></td><td><a href=".gitbook/assets/Capa cards operação (18).png">Capa cards operação (18).png</a></td><td><a href="bem-vindo-a-ao-universo-docz/faq.md">faq.md</a></td></tr><tr><td align="center"><mark style="color:blue;"><strong>PRECISA DE AJUDA?</strong></mark></td><td><a href=".gitbook/assets/Cópia de capa cards operação (17).png">Cópia de capa cards operação (17).png</a></td><td><a href="/broken/pages/dyZtehegbXJ0cB4Oim8b">Broken link</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><mark style="color:blue;"><strong>RELEASE NOTES</strong></mark></td><td><a href=".gitbook/assets/Cópia de capa cards operação (22).png">Cópia de capa cards operação (22).png</a></td><td><a href="o-que-ha-de-novo-no-docz/">o-que-ha-de-novo-no-docz</a></td></tr><tr><td align="center"><mark style="color:blue;"><strong>COMO ACESSAR?</strong></mark></td><td><a href=".gitbook/assets/Cópia de capa cards operação (21).png">Cópia de capa cards operação (21).png</a></td><td><a href="sobre-o-docz.md">sobre-o-docz.md</a></td></tr><tr><td align="center"><mark style="color:blue;"><strong>COMECE AQUI!!</strong></mark></td><td><a href=".gitbook/assets/Capa cards operação (16).png">Capa cards operação (16).png</a></td><td><a href="painel.md">painel.md</a></td></tr><tr><td align="center"><mark style="color:blue;"><strong>APP DOCZ</strong></mark></td><td><a href=".gitbook/assets/Capa cards operação (17).png">Capa cards operação (17).png</a></td><td><a href="aplicativos/app-docz.md">app-docz.md</a></td></tr><tr><td align="center"><mark style="color:blue;"><strong>FAQ</strong></mark></td><td><a href=".gitbook/assets/Capa cards operação (18).png">Capa cards operação (18).png</a></td><td><a href="bem-vindo-a-ao-universo-docz/faq.md">faq.md</a></td></tr><tr><td align="center"><mark style="color:blue;"><strong>PRECISA DE AJUDA?</strong></mark></td><td><a href=".gitbook/assets/Cópia de capa cards operação (17).png">Cópia de capa cards operação (17).png</a></td><td><a href="/broken/pages/dyZtehegbXJ0cB4Oim8b">Broken link</a></td></tr><tr><td align="center"></td><td><a href=".gitbook/assets/Capa cards operação (21).png">Capa cards operação (21).png</a></td><td></td></tr></tbody></table>
 
 
 
