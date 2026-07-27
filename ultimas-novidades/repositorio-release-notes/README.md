@@ -3,6 +3,7 @@ description: >-
   Página dedicada ao histórico de versões do sistema DocZ. Aqui você encontra o
   registro das atualizações, melhorias e correções implementadas em cada versão,
   com links diretos para as respectivas notas
+hidden: true
 icon: database
 ---
 

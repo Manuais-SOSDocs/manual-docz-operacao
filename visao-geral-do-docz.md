@@ -20,13 +20,35 @@ layout:
     visible: true
 ---
 
-# Sobre o DocZ
+# Visão Geral do DocZ
 
 O **DocZ** é um sistema inteligente de gestão documental que integra o controle físico e digital dos documentos. Ele organiza, rastreia e protege os arquivos em todas as etapas — do armazenamento à digitalização — garantindo agilidade, segurança e conformidade com as normas de gestão da informação.
 
 #### 🎯 Para que serve? <a href="#para-que-serve" id="para-que-serve"></a>
 
 <table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>📂 Indexar e localizar documentos com precisão</td></tr><tr><td>📬 Solicitar serviços como guarda, retirada e digitalização</td></tr><tr><td>🧾 Gerenciar Ordens de Serviço com registro digital</td></tr><tr><td>📷 Visualizar imagens e fotos de objetos</td></tr><tr><td>📊 Gerar relatórios de acompanhamento</td></tr><tr><td>🔄 Compartilhar objetos com controle de acesso</td></tr><tr><td>🏷️ Identificar materiais com etiquetas inteligentes</td></tr></tbody></table>
+
+#### Estrutura do DocZ
+
+O DocZ foi desenvolvido para apoiar a gestão arquivística de documentos, organizando as informações em uma estrutura hierárquica que favorece a organização do acervo, a rastreabilidade dos documentos e o controle de todo o seu ciclo de vida.
+
+Compreender essa estrutura é fundamental para a correta configuração do sistema, pois cada nível possui responsabilidades específicas e influencia diretamente a organização das informações e a aplicação das regras de gestão documental.
+
+A estrutura do DocZ é composta pelos seguintes níveis:
+
+<pre><code>Cliente
+<strong>  ↓
+</strong>Projeto
+  ↓
+Pastas
+  ↓
+Objetos Documentais
+(Caixas e Documentos)
+</code></pre>
+
+Cada um desses níveis é descrito a seguir.
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h4>🏢Cliente</h4><p>O <strong>Cliente</strong> representa a instituição, órgão ou entidade responsável pelos documentos cadastrados no DocZ. É o nível mais alto da estrutura do sistema, onde são definidas as configurações gerais de gestão documental, como a <strong>Tabela de Temporalidade</strong>, compartilhada por todos os Projetos vinculados.</p><p><strong>Regras importantes:</strong></p><ul><li>Um Cliente pode possuir vários Projetos.</li><li>Cada Cliente possui uma única Tabela de Temporalidade.</li><li>Todos os Projetos compartilham as regras de classificação e temporalidade do Cliente.</li></ul></td></tr><tr><td><h4>🗃️Projeto</h4><p>O <strong>Projeto</strong> organiza o acervo documental dentro de um Cliente, permitindo separar documentos por áreas, departamentos, unidades ou outros critérios definidos pela instituição.</p><p>Cada Projeto possui estrutura própria de pastas, formulários de indexação, usuários, permissões e demais configurações operacionais.</p><p><strong>Regras importantes:</strong></p><ul><li>Um Cliente pode possuir vários Projetos.</li><li>Cada Projeto possui um Código de Guarda exclusivo.</li><li>As configurações podem ser definidas individualmente para cada Projeto.</li></ul></td></tr><tr><td><h4>📁Pastas</h4><p>As <strong>Pastas</strong> organizam hierarquicamente o acervo dentro de cada Projeto. Sua estrutura pode representar áreas, assuntos, processos, classes documentais ou qualquer outro modelo adotado pela instituição.</p><p>Também é nesse nível que podem ser aplicadas regras de acesso para controlar a visualização e o gerenciamento dos documentos.</p></td></tr><tr><td><h4>📄Objetos Documentais</h4><p>Os <strong>Objetos Documentais</strong> correspondem aos documentos, caixas e demais registros gerenciados pelo sistema.</p><p>Cada objeto recebe um <strong>Número da Etiqueta</strong> exclusivo, garantindo sua identificação e rastreabilidade. Todas as operações realizadas sobre esses objetos são registradas na <strong>Trilha de Auditoria</strong>, assegurando o histórico completo das ações executadas.</p></td></tr></tbody></table>
 
 ***
 
