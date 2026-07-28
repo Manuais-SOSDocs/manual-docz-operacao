@@ -6,9 +6,9 @@ layout:
   description:
     visible: false
   tableOfContents:
-    visible: true
+    visible: false
   outline:
-    visible: true
+    visible: false
   pagination:
     visible: false
   metadata:
@@ -16,7 +16,7 @@ layout:
   tags:
     visible: true
   actions:
-    visible: true
+    visible: false
 ---
 
 # ✨ Bem-vindo(a) ao Universo DocZ!
@@ -70,8 +70,4 @@ Este espaço foi criado para te ajudar a usar o sistema de forma prática e segu
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}
-
-
-
-
 
