@@ -2,6 +2,7 @@
 description: >-
   Missão: identificar o papel da classificação como ponto chave para organização
   e estratégia
+hidden: true
 icon: chess
 ---
 

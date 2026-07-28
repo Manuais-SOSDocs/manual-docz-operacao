@@ -11,8 +11,8 @@ icon: files
 Comece seu treinamento gamificado e descubra conhecimentos essenciais sobre **Gestão Documental**.\
 🎓 Conclua sua jornada e desbloqueie seu certificado oficial!
 
-{% content-ref url="voce-foi-convocado-a-para-proteger-a-memoria-institucional/" %}
-[voce-foi-convocado-a-para-proteger-a-memoria-institucional](voce-foi-convocado-a-para-proteger-a-memoria-institucional/)
+{% content-ref url="../../docz-learning/missao-guardioes-da-informacao/" %}
+[missao-guardioes-da-informacao](../../docz-learning/missao-guardioes-da-informacao/)
 {% endcontent-ref %}
 
 

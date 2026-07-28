@@ -42,6 +42,12 @@ Este espaço foi criado para te ajudar a usar o sistema de forma prática e segu
 {% content-ref url="visao-geral-do-docz.md" %}
 [visao-geral-do-docz.md](visao-geral-do-docz.md)
 {% endcontent-ref %}
+
+<figure><img src=".gitbook/assets/ChatGPT Image 28_07_2026, 11_14_52.png" alt=""><figcaption></figcaption></figure>
+
+{% content-ref url="https://app.gitbook.com/s/jN82lf9J2JvpduBsGL1I/aplicativos" %}
+[Aplicativos](https://app.gitbook.com/s/jN82lf9J2JvpduBsGL1I/aplicativos)
+{% endcontent-ref %}
 {% endcolumn %}
 
 {% column width="50%" %}
@@ -59,34 +65,11 @@ Este espaço foi criado para te ajudar a usar o sistema de forma prática e segu
 {% endcolumn %}
 {% endcolumns %}
 
-{% columns %}
-{% column width="50%" %}
-<figure><img src=".gitbook/assets/ChatGPT Image 28_07_2026, 10_26_27.png" alt=""><figcaption></figcaption></figure>
 
-<p align="center"><a href="ultimas-novidades/" class="button primary" data-icon="newspaper">Confira as últimas novidades!</a></p>
 
-<figure><img src=".gitbook/assets/ChatGPT Image 28_07_2026, 10_29_46.png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-
-{% column width="50%" %}
-<figure><img src=".gitbook/assets/ChatGPT Image 28_07_2026, 10_25_05.png" alt=""><figcaption></figcaption></figure>
-
-<p align="center"><a href="https://app.gitbook.com/s/jN82lf9J2JvpduBsGL1I/menu-docz" class="button primary" data-icon="house">Primeiros passos no sistema</a></p>
-
-<figure><img src=".gitbook/assets/ChatGPT Image 28_07_2026, 10_34_17.png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-{% endcolumns %}
+{% content-ref url="https://app.gitbook.com/s/jN82lf9J2JvpduBsGL1I/base-de-conhecimento" %}
+[Base de conhecimento](https://app.gitbook.com/s/jN82lf9J2JvpduBsGL1I/base-de-conhecimento)
+{% endcontent-ref %}
 
 
 
-
-
-
-
-### 📢 **Participe da Missão: Guardiões da Informação**
-
-Descubra os principais **conceitos da Arquivologia** e as **boas práticas em digitalização** jogando o nosso game.
-
-<figure><img src=".gitbook/assets/Guardiões da Informação.png" alt=""><figcaption></figcaption></figure>
-
-<p align="center"><a href="menu-docz/gestao-documental/voce-foi-convocado-a-para-proteger-a-memoria-institucional/" class="button primary" data-icon="rocket-launch">    Comece agora a sua missão!    </a></p>

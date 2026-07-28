@@ -2,6 +2,7 @@
 description: >-
   Missão: Aprender como avaliar documentos e decidir seu destino final com base
   em critérios técnicos.
+hidden: true
 icon: scale-balanced
 ---
 

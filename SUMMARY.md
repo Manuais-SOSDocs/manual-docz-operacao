@@ -78,15 +78,6 @@
     * [Permissões do Usuário no Sistema DocZ](menu-docz/gestao-de-usuarios/usuarios/permissoes-do-usuario-no-sistema-docz.md)
   * [Grupos](menu-docz/gestao-de-usuarios/grupos.md)
 * [GESTÃO DOCUMENTAL](menu-docz/gestao-documental/README.md)
-  * [Você foi convocado(a) para proteger a memória institucional!](menu-docz/gestao-documental/voce-foi-convocado-a-para-proteger-a-memoria-institucional/README.md)
-    * [Nível 1 – Exploradora de Documentos](menu-docz/gestao-documental/voce-foi-convocado-a-para-proteger-a-memoria-institucional/nivel-1-exploradora-de-documentos.md)
-    * [Nível 2 – Protetora da Memória](menu-docz/gestao-documental/voce-foi-convocado-a-para-proteger-a-memoria-institucional/nivel-2-protetora-da-memoria.md)
-    * [Nível 3 – Justiceiro das decisões finais](menu-docz/gestao-documental/voce-foi-convocado-a-para-proteger-a-memoria-institucional/nivel-3-justiceiro-das-decisoes-finais.md)
-    * [Nível 4 – Mestre dos Princípios Arquivísticos](menu-docz/gestao-documental/voce-foi-convocado-a-para-proteger-a-memoria-institucional/nivel-4-mestre-dos-principios-arquivisticos.md)
-    * [Nível 5 – Estrategista da Informação](menu-docz/gestao-documental/voce-foi-convocado-a-para-proteger-a-memoria-institucional/nivel-5-estrategista-da-informacao.md)
-    * [Nível 6 – Guardiã digital](menu-docz/gestao-documental/voce-foi-convocado-a-para-proteger-a-memoria-institucional/nivel-6-guardia-digital.md)
-    * [O desafio final!](menu-docz/gestao-documental/voce-foi-convocado-a-para-proteger-a-memoria-institucional/o-desafio-final.md)
-    * [Parabéns, Guardiã da Informação!](menu-docz/gestao-documental/voce-foi-convocado-a-para-proteger-a-memoria-institucional/parabens-guardia-da-informacao.md)
   * [Gerenciamento de Status](menu-docz/gestao-documental/gerenciamento-de-status.md)
   * [Arquivar Documento](menu-docz/gestao-documental/arquivar-documento.md)
   * [Distribuir p/ Indexação](menu-docz/gestao-documental/distribuir-p-indexacao.md)
@@ -126,3 +117,18 @@
 
 * [App DocZ](aplicativos/app-docz.md)
 * [EtiqPress](aplicativos/etiqpress.md)
+
+## Base de conhecimento
+
+***
+
+* [DocZ Learning](docz-learning/README.md)
+  * [Missão: Guardiões da informação](docz-learning/missao-guardioes-da-informacao/README.md)
+    * [Nível 1 – Exploradora de Documentos](docz-learning/missao-guardioes-da-informacao/nivel-1-exploradora-de-documentos.md)
+    * [Nível 2 – Protetora da Memória](docz-learning/missao-guardioes-da-informacao/nivel-2-protetora-da-memoria.md)
+    * [Nível 3 – Justiceiro das decisões finais](docz-learning/missao-guardioes-da-informacao/nivel-3-justiceiro-das-decisoes-finais.md)
+    * [Nível 4 – Mestre dos Princípios Arquivísticos](docz-learning/missao-guardioes-da-informacao/nivel-4-mestre-dos-principios-arquivisticos.md)
+    * [Nível 5 – Estrategista da Informação](docz-learning/missao-guardioes-da-informacao/nivel-5-estrategista-da-informacao.md)
+    * [Nível 6 – Guardiã digital](docz-learning/missao-guardioes-da-informacao/nivel-6-guardia-digital.md)
+    * [O desafio final!](docz-learning/missao-guardioes-da-informacao/o-desafio-final.md)
+    * [Parabéns, Guardiã da Informação!](docz-learning/missao-guardioes-da-informacao/parabens-guardia-da-informacao.md)

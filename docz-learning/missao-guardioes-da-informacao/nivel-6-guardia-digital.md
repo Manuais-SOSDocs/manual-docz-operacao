@@ -3,6 +3,7 @@ description: >-
   Missão: Você percorreu um longo caminho, jovem Guardiã! Agora é hora de
   encarar o último nível: transformar o papel em informação digital com
   autenticidade, confiabilidade e valor jurídico.
+hidden: true
 icon: scanner-image
 ---
 

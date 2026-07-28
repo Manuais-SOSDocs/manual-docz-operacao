@@ -2,6 +2,7 @@
 description: >-
   Missão: Domine as regras que guiam toda a atuação arquivística com sabedoria e
   estratégia.
+hidden: true
 icon: scroll-old
 ---
 

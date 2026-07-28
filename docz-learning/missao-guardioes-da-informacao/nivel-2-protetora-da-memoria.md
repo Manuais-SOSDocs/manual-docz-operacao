@@ -2,6 +2,7 @@
 description: >-
   Missão: Entender o que é Gestão Documental e por que ela é tão importante para
   a organização.
+hidden: true
 icon: shield-exclamation
 ---
 

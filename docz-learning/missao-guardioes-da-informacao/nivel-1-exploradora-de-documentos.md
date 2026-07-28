@@ -2,6 +2,7 @@
 description: >-
   Missão: Aprender a identificar o que é – e o que não é – um documento
   arquivístico.
+hidden: true
 icon: wpexplorer
 layout:
   width: default
