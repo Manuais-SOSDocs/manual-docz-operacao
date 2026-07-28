@@ -29,7 +29,57 @@ Este espaço foi criado para te ajudar a usar o sistema de forma prática e segu
 
 📚 Consulte este conteúdo sempre que tiver dúvidas ou quiser explorar melhor o sistema. Nosso objetivo é tornar sua rotina mais simples e sua atuação mais estratégica na gestão documental!
 
-<table data-view="cards"><thead><tr><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><a href="ultimas-novidades/">ultimas-novidades</a></td><td><a href=".gitbook/assets/Capa cards operação (21).png">Capa cards operação (21).png</a></td><td><a href="ultimas-novidades/">ultimas-novidades</a></td></tr><tr><td><a href="visao-geral-do-docz.md">visao-geral-do-docz.md</a></td><td><a href=".gitbook/assets/Capa cards operação (23).png">Capa cards operação (23).png</a></td><td><a href="visao-geral-do-docz.md">visao-geral-do-docz.md</a></td></tr><tr><td></td><td><a href=".gitbook/assets/Capa cards operação (16).png">Capa cards operação (16).png</a></td><td><a href="painel.md">painel.md</a></td></tr><tr><td></td><td><a href=".gitbook/assets/Capa cards operação (17).png">Capa cards operação (17).png</a></td><td><a href="aplicativos/app-docz.md">app-docz.md</a></td></tr><tr><td></td><td><a href=".gitbook/assets/Capa cards operação (18).png">Capa cards operação (18).png</a></td><td><a href="bem-vindo-a-ao-universo-docz/faq.md">faq.md</a></td></tr><tr><td></td><td><a href=".gitbook/assets/Cópia de capa cards operação (17).png">Cópia de capa cards operação (17).png</a></td><td><a href="/broken/pages/dyZtehegbXJ0cB4Oim8b">Broken link</a></td></tr></tbody></table>
+{% columns %}
+{% column width="50%" %}
+<figure><img src=".gitbook/assets/ChatGPT Image 28_07_2026, 10_26_27.png" alt=""><figcaption></figcaption></figure>
+
+{% content-ref url="ultimas-novidades/" %}
+[ultimas-novidades](ultimas-novidades/)
+{% endcontent-ref %}
+
+<figure><img src=".gitbook/assets/ChatGPT Image 28_07_2026, 10_29_46.png" alt=""><figcaption></figcaption></figure>
+
+{% content-ref url="visao-geral-do-docz.md" %}
+[visao-geral-do-docz.md](visao-geral-do-docz.md)
+{% endcontent-ref %}
+{% endcolumn %}
+
+{% column width="50%" %}
+<figure><img src=".gitbook/assets/ChatGPT Image 28_07_2026, 10_25_05.png" alt=""><figcaption></figcaption></figure>
+
+{% content-ref url="https://app.gitbook.com/s/jN82lf9J2JvpduBsGL1I/menu-docz" %}
+[Menu DocZ](https://app.gitbook.com/s/jN82lf9J2JvpduBsGL1I/menu-docz)
+{% endcontent-ref %}
+
+<figure><img src=".gitbook/assets/ChatGPT Image 28_07_2026, 10_34_17.png" alt=""><figcaption></figcaption></figure>
+
+{% content-ref url="bem-vindo-a-ao-universo-docz/faq.md" %}
+[faq.md](bem-vindo-a-ao-universo-docz/faq.md)
+{% endcontent-ref %}
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column width="50%" %}
+<figure><img src=".gitbook/assets/ChatGPT Image 28_07_2026, 10_26_27.png" alt=""><figcaption></figcaption></figure>
+
+<p align="center"><a href="ultimas-novidades/" class="button primary" data-icon="newspaper">Confira as últimas novidades!</a></p>
+
+<figure><img src=".gitbook/assets/ChatGPT Image 28_07_2026, 10_29_46.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column width="50%" %}
+<figure><img src=".gitbook/assets/ChatGPT Image 28_07_2026, 10_25_05.png" alt=""><figcaption></figcaption></figure>
+
+<p align="center"><a href="https://app.gitbook.com/s/jN82lf9J2JvpduBsGL1I/menu-docz" class="button primary" data-icon="house">Primeiros passos no sistema</a></p>
+
+<figure><img src=".gitbook/assets/ChatGPT Image 28_07_2026, 10_34_17.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
+
+
+
+
 
 
 
@@ -39,4 +89,4 @@ Descubra os principais **conceitos da Arquivologia** e as **boas práticas em di
 
 <figure><img src=".gitbook/assets/Guardiões da Informação.png" alt=""><figcaption></figcaption></figure>
 
-<p align="center"><a href="gestao-documental/voce-foi-convocado-a-para-proteger-a-memoria-institucional/" class="button primary" data-icon="rocket-launch">    Comece agora a sua missão!    </a></p>
+<p align="center"><a href="menu-docz/gestao-documental/voce-foi-convocado-a-para-proteger-a-memoria-institucional/" class="button primary" data-icon="rocket-launch">    Comece agora a sua missão!    </a></p>
