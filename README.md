@@ -62,14 +62,16 @@ Este espaço foi criado para te ajudar a usar o sistema de forma prática e segu
 {% content-ref url="bem-vindo-a-ao-universo-docz/faq.md" %}
 [faq.md](bem-vindo-a-ao-universo-docz/faq.md)
 {% endcontent-ref %}
-{% endcolumn %}
-{% endcolumns %}
 
-
+<figure><img src=".gitbook/assets/ChatGPT Image 28_07_2026, 13_55_57.png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="https://app.gitbook.com/s/jN82lf9J2JvpduBsGL1I/base-de-conhecimento" %}
 [Base de conhecimento](https://app.gitbook.com/s/jN82lf9J2JvpduBsGL1I/base-de-conhecimento)
 {% endcontent-ref %}
+{% endcolumn %}
+{% endcolumns %}
+
+
 
 
 
