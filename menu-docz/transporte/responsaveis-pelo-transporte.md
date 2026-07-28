@@ -2,7 +2,7 @@
 
 Esta tela permite **gerenciar os colaboradores responsáveis pelo transporte**, como motoristas e ajudantes, garantindo controle centralizado, padronização das informações e uso correto desses dados nas operações de transporte.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ➕ Cadastrar novo colaborador
 
@@ -17,7 +17,7 @@ No **menu lateral**, acesse:\
 {% step %}
 Na tela **Responsáveis pelo Transporte**, clique no botão **Novo Colaborador**.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -75,7 +75,7 @@ Ação concluída
 
 ### 🔧 Mais ações disponíveis
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 

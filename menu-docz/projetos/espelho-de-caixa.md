@@ -72,7 +72,7 @@ Selecione um dos modelos disponíveis.
 
 Os modelos definem apenas a estrutura visual do espelho.
 
-<div><figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Modelo 01</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Modelo 02</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Modelo 03</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Modelo 01</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Modelo 02</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Modelo 03</p></figcaption></figure></div>
 
 **Logo (Opcional)**
 

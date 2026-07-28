@@ -20,6 +20,8 @@ Cada permissão define as funcionalidades e ações que o usuário pode executar
 
 Acesso total ao sistema. Pode visualizar, editar, excluir e configurar qualquer funcionalidade e dados.
 
+<figure><img src="../../../.gitbook/assets/image (615).png" alt=""><figcaption></figcaption></figure>
+
 </details>
 
 <details>
@@ -27,6 +29,8 @@ Acesso total ao sistema. Pode visualizar, editar, excluir e configurar qualquer 
 <summary>Administrar usuários</summary>
 
 Com essa permissão habilitada, o usuário terá acesso à funcionalidade **`Gestão de usuários`** no menu lateral.
+
+<figure><img src="../../../.gitbook/assets/image (614).png" alt=""><figcaption></figcaption></figure>
 
 A partir dessa tela, é possível:
 
@@ -50,6 +54,10 @@ Com a permissão **"Gerenciar Projetos Usuários"**, é possível atribuir permi
 4. Na pop-up que será exibida, acesse a aba **"Projetos"**.
 5. Selecione o projeto desejado e clique no ícone **"+"**.
 6. Clique em **Salvar** para confirmar.
+
+<figure><img src="../../../.gitbook/assets/image (612).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (613).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -77,6 +85,8 @@ Esses botões só aparecem para usuários com a permissão **"Pode Gerenciar Pro
 
 Essa funcionalidade é essencial para administradores e gestores de projeto que precisam configurar ou revisar os parâmetros de funcionamento de cada projeto.
 
+<figure><img src="../../../.gitbook/assets/image (611).png" alt=""><figcaption></figcaption></figure>
+
 </details>
 
 <details>
@@ -91,6 +101,8 @@ Ao habilitá-la, será exibida no menu lateral a opção **Gestão de Clientes**
 * Cadastrar novos clientes;
 * Gerenciar contratos vinculados a cada cliente.
 
+<figure><img src="../../../.gitbook/assets/image (610).png" alt=""><figcaption></figcaption></figure>
+
 </details>
 
 <details>
@@ -102,6 +114,8 @@ Essa permissão está vinculada à permissão **Gerenciar Clientes**.
 Mesmo que o usuário tenha acesso às telas de gestão de clientes, **sem essa permissão habilitada, ele não conseguirá visualizar os clientes cadastrados na base de dados**.
 
 Portanto, é necessário habilitar **Visualizar Clientes** para que o sistema exiba os registros existentes e permita a navegação adequada nas informações.
+
+<figure><img src="../../../.gitbook/assets/image (609).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -116,6 +130,10 @@ Essa permissão é restrita e deve ser concedida apenas a perfis autorizados, em
 📌 **Como marcar um campo como “Sensível”**:\
 Caminho: **Pesquisar > Campos > É um dado Pessoal / É um dado Sensível**
 
+<figure><img src="../../../.gitbook/assets/image (607).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (608).png" alt=""><figcaption></figcaption></figure>
+
 </details>
 
 <details>
@@ -125,6 +143,8 @@ Caminho: **Pesquisar > Campos > É um dado Pessoal / É um dado Sensível**
 Usuários com esta permissão habilitada têm acesso ao **Painel Inicial** do sistema, onde são exibidas estatísticas, indicadores e gráficos relacionados às atividades e dados do repositório documental.
 
 Ao habilitar essa permissão, a opção **Painel** será exibida no menu lateral do sistema.
+
+<figure><img src="../../../.gitbook/assets/image (606).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -148,8 +168,10 @@ Acesse o passo a passo disponível aqui.
 
 Com essa permissão habilitada, o usuário poderá editar, excluir ou adicionar metadados em até 500 documentos simultaneamente.
 
+<figure><img src="../../../.gitbook/assets/image (604).png" alt=""><figcaption></figcaption></figure>
+
 Para acessar a funcionalidade:\
-**Pesquisar > Grade de Pesquisa > selecionar os documentos na checkbox >**  **> Alterar Metadados**
+**Pesquisar > Grade de Pesquisa > selecionar os documentos na checkbox >** ![](<../../../.gitbook/assets/image (605).png>) **> Alterar Metadados**
 
 Ao selecionar essa opção, será exibida uma lista com as ações disponíveis para alteração em lote, permitindo otimizar a gestão documental em massa.
 
@@ -169,11 +191,15 @@ Essa permissão permite que o usuário realize a **exclusão lógica** de docume
 4. Clique no ícone da lixeira, exibido na parte superior da grade;
 5. A exclusão será confirmada e os documentos serão ocultados da visualização padrão.
 
+<figure><img src="../../../.gitbook/assets/image (602).png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="danger" %}
 **Reversão da exclusão (exclusiva para usuários administradores):**
 
 1. Marque a opção **"Visualizar Documentos Excluídos"** no formulário de pesquisa;
 2. Os documentos reaparecerão para consulta e poderão ser reativados conforme necessário.
+
+![](<../../../.gitbook/assets/image (603).png>)
 {% endhint %}
 
 </details>
@@ -187,7 +213,7 @@ Permite acessar e executar as ações relacionadas à funcionalidade de **Avalia
 Usuários com essa permissão podem analisar documentos submetidos ao fluxo de avaliação, aprovar ou reprovar registros e controlar a liberação dos documentos para composição de lotes, conforme as regras definidas no projeto.
 
 {% hint style="info" icon="link-horizontal" %}
-Acesse o passo a passo disponível aqui.
+[Acesse o passo a passo disponível aqui.](../../pesquisar/avaliacao.md)
 {% endhint %}
 
 </details>
@@ -198,7 +224,7 @@ Acesse o passo a passo disponível aqui.
 
 O usuário podera acessar a aba de relacionamentos em detalhes do objeto, Permite remover vínculos ou associações entre documentos.
 
-Para descobrir o passo a passo, acesse aqui.
+Para descobrir o passo a passo, [acesse aqui.](../../pesquisar/como-pesquisar-objetos/view-object/aba-relacionamentos.md)
 
 </details>
 
@@ -212,9 +238,11 @@ Usuários com a permissão **Indexador** têm acesso à **edição de metadados*
 
 1. Acesse a **aba Detalhes do Objeto**.
 2. Faça as alterações desejadas.
-3. Clique no ícone de  **disquete** para **salvar**.
+3. Clique no ícone de ![](<../../../.gitbook/assets/image (600).png>) **disquete** para **salvar**.
 
-🔎 Para saber como acessar essa funcionalidade, clique aqui e confira o passo a passo completo.
+🔎 Para saber como acessar essa funcionalidade, [clique aqui e confira o passo a passo completo](../../pesquisar/como-pesquisar-objetos/view-object/aba-detalhes.md).
+
+<figure><img src="../../../.gitbook/assets/image (601).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -227,10 +255,8 @@ Esta permissão permite ao usuário configurar os formulários utilizados na eta
 **Acesso ao recurso:**
 
 1. No menu lateral, clique em **Projetos**.
-2. Na grade da esquerda, selecione o projeto desejado clicando em .
-3. Depois na grade da direita, canto inferior direito da tela, clique no botão **"Formulários"** (conforme destacado na imagem abaixo).
-
-\[trocar imagem pelo cliente demo em produção]
+2. Na grade da esquerda, selecione o projeto desejado clicando em ![](<../../../.gitbook/assets/image (598).png>).
+3. Depois na grade da direita, canto inferior direito da tela, clique no botão **"Formulários".**
 
 **Tela de configuração:**
 
@@ -241,6 +267,8 @@ Ao clicar em "Formulários", você será direcionado para a tela de **configura�
 * Configurar etapas e status do objeto.
 * Habilitar campos como: obrigatório, campo fixo, valor padrão, duplo check, OCR, entre outros.
 * Adicionar e personalizar os campos que a equipe de operação deve preencher durante a indexação.
+
+<figure><img src="../../../.gitbook/assets/image (599).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -262,6 +290,8 @@ Ao ativar essa permissão, a opção **"Gestão Documental"** aparecerá no menu
 * 🖨️ Gerenciamento de digitalizações;
 * ⚙️ Configuração de parâmetros e fluxos ligados à gestão documental.
 
+<figure><img src="../../../.gitbook/assets/image (597).png" alt=""><figcaption></figcaption></figure>
+
 </details>
 
 <details>
@@ -278,7 +308,7 @@ Essa permissão permite que o usuário **visualize imagens digitalizadas** armaz
 4. Dentro da visualização dos detalhes, localize a aba de **Arquivos**.
 
 > ℹ️ **Precisa de ajuda para acessar os detalhes do documento?**\
-> Clique aqui para visualizar o passo a passo completo.
+> [Clique aqui para visualizar o passo a passo completo.](../../pesquisar/como-pesquisar-objetos/view-object/aba-arquivos/)
 
 </details>
 
@@ -290,7 +320,7 @@ Ao habilitar esta permissão, o usuário será capaz de carregar documentos para
 
 No módulo **Pesquisar**, após localizar o objeto desejado, acesse a tela de detalhes do documento. Lá, você encontrará a aba **Adicionar**, onde poderá realizar o upload dos arquivos.
 
-Para saber como fazer o carregamento de arquivos, **acesse aqui o passo a passo.**
+Para saber como fazer o carregamento de arquivos, [**acesse aqui o passo a passo**](../../pesquisar/como-pesquisar-objetos/view-object/aba-adicionar.md)**.**
 
 </details>
 
@@ -300,11 +330,13 @@ Para saber como fazer o carregamento de arquivos, **acesse aqui o passo a passo.
 
 Usuários com esta permissão habilitada podem cadastrar e atribuir metadados aos documentos no sistema, com o objetivo de facilitar a busca e a organização dos arquivos.
 
-Para acessar os formulários de indexação, vá até a aba **Pesquisar**. Acima da grade que indica o repositório (caixas e documentos), clique no ícone  para abrir a tela de detalhes. A partir dessa tela, será possível acessar os formulários disponíveis.
+Para acessar os formulários de indexação, vá até a aba **Pesquisar**. Acima da grade que indica o repositório (caixas e documentos), clique no ícone <img src="../../../.gitbook/assets/image (595).png" alt="" data-size="line"> para abrir a tela de detalhes. A partir dessa tela, será possível acessar os formulários disponíveis.
 
 {% hint style="danger" %}
 Importante: o usuário deve estar incluído nos **grupos vinculados aos formulários** para conseguir visualizá-los e utilizá-los.
 {% endhint %}
+
+<figure><img src="../../../.gitbook/assets/image (596).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -316,7 +348,7 @@ Usuários com esta permissão habilitada podem adicionar comentários ou anotaç
 
 Para realizar essa ação, vá até a aba **Pesquisar**, selecione o documento desejado e clique em **abrir Documento**. Em seguida, acesse a aba **Comentários** para inserir suas observações.
 
-Para saber mais sobre como utilizar essa funcionalidade, acesse aqui o passo a passo.
+Para saber mais sobre como utilizar essa funcionalidade, [acesse aqui o passo a passo](../../pesquisar/como-pesquisar-objetos/view-object/aba-comentarios.md).
 
 </details>
 
@@ -326,9 +358,9 @@ Para saber mais sobre como utilizar essa funcionalidade, acesse aqui o passo a p
 
 Usuários com esta permissão habilitada podem remover arquivos (como fotos de Documento de Conteúdo — DC — ou de caixas físicas/Box 20kg) que foram adicionados dentro de um objeto.
 
-Para realizar essa ação, acesse o objeto desejado, clique em **abrir documento** e, na aba **Arquivos**, selecione o item que deseja remover. Em seguida, clique no ícone  para excluir da visualização.
+Para realizar essa ação, acesse o objeto desejado, clique em **abrir documento** e, na aba **Arquivos**, selecione o item que deseja remover. Em seguida, clique no ícone ![](<../../../.gitbook/assets/image (594).png>) para excluir da visualização.
 
-Para saber como acessar a aba de arquivos, clique aqui.
+Para saber como acessar a aba de arquivos, [clique aqui](../../pesquisar/como-pesquisar-objetos/view-object/).
 
 {% hint style="danger" %}
 Importante: essa ação é registrada no sistema com captura de log para fins de auditoria e rastreabilidade.
@@ -346,8 +378,10 @@ Para isso:
 
 1. Acesse a aba **Pesquisar**;
 2. Na grade de resultados exibida na parte inferior da tela, selecione os itens desejados marcando os **checkboxes**;
-3. Clique no ícone ;
+3. Clique no ícone ![](<../../../.gitbook/assets/image (592).png>);
 4. O sistema irá gerar um arquivo compactado (**.zip**) com os documentos selecionados, que será baixado automaticamente para o computador.
+
+<figure><img src="../../../.gitbook/assets/image (593).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -361,11 +395,13 @@ Para realizar a exclusão:
 
 1. Acesse a aba **Pesquisar**;
 2. Na grade de resultados exibida na parte inferior da tela, selecione as caixas desejadas marcando os **checkboxes**;
-3. Clique no ícone de .
+3. Clique no ícone de ![](<../../../.gitbook/assets/image (590).png>).
 
 {% hint style="danger" %}
 Apenas caixas **vazias** e com status **"Não Implantado"** poderão ser removidas.
 {% endhint %}
+
+<figure><img src="../../../.gitbook/assets/image (591).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -373,14 +409,16 @@ Apenas caixas **vazias** e com status **"Não Implantado"** poderão ser removid
 
 <summary>Versionar Arquivo</summary>
 
-Permite utilizar a funcionalidade **Substituir Arquivo**, disponível na tela **View Object > Aba Arquivos > Ações do Arquivo >**
+Permite utilizar a funcionalidade **Substituir Arquivo**, disponível na tela **View Object > Aba Arquivos > Ações do Arquivo >** ![](<../../../.gitbook/assets/image (588).png>)
+
+<figure><img src="../../../.gitbook/assets/image (589).png" alt=""><figcaption></figcaption></figure>
 
 Ao substituir um arquivo, o sistema cria uma nova versão do documento, preservando o histórico de alterações e garantindo a rastreabilidade das versões anteriores.
 
 Essa permissão é necessária para usuários que precisam atualizar arquivos já armazenados no sistema sem perder o histórico de versionamento.
 
 {% hint style="info" icon="link-horizontal" %}
-Acesse o passo a passo disponível aqui.
+[Acesse o passo a passo disponível aqui.](../../pesquisar/como-pesquisar-objetos/view-object/aba-arquivos/#acoes-disponiveis)
 {% endhint %}
 
 </details>
@@ -396,6 +434,8 @@ Permite movimentar um ou mais documentos para um novo status (arquivar ou desarq
 No menu lateral, acesse **Gestão de guarda** > **Gerenciar Arquivamento**, informe o código do DC ou CB.
 
 <mark style="color:$info;">Também disponível no aplicativo.</mark>
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -415,7 +455,7 @@ Para utilizar a funcionalidade:
 A funcionalidade utiliza os cálculos automáticos de temporalidade configurados no sistema para identificar documentos que exigem atenção quanto à sua destinação final.
 
 {% hint style="info" icon="link-horizontal" %}
-Acesse o passo a passo disponível aqui.
+[Acesse o passo a passo disponível aqui.](../../gestao-documental/controle-de-prazos-e-destinacoes.md)
 {% endhint %}
 
 </details>
@@ -433,8 +473,10 @@ Essa permissão permite que o usuário acesse e utilize a funcionalidade **Avali
 3. Será aberta a tela de avaliação, onde o usuário poderá verificar as informações dos lotes e confirmar sua conformidade.
 
 {% hint style="info" icon="link-horizontal" %}
-Acesse aqui o passo a passo completo.
+[Acesse aqui o passo a passo completo.](../../pesquisar/avaliacao.md)
 {% endhint %}
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Essa funcionalidade é utilizada para controle de qualidade e verificação dos dados cadastrados antes de sua aprovação.
 
@@ -449,7 +491,7 @@ Permite criar e gerenciar espelhos personalizados para exibição de informaçõ
 Os espelhos definem quais campos serão exibidos ao usuário, permitindo personalizar a visualização dos resultados de acordo com a necessidade operacional de cada projeto.
 
 {% hint style="info" icon="link-horizontal" %}
-Acesse o passo a passo disponível aqui.
+[Acesse o passo a passo disponível aqui.](../../projetos/espelho-de-caixa.md)
 {% endhint %}
 
 </details>
@@ -469,7 +511,7 @@ Para realizar a assinatura:
 3. Vá até a aba **Arquivos**;
 4. Selecione o arquivo a ser assinado e clique no ícone  (assinar com certificado digital).
 
-Para descobrir como realizar todo o processo, acesse o passo a passo disponível para ver os detalhes e a assinatura de documentos **aqui**.
+Para descobrir como realizar todo o processo, acesse o passo a passo disponível para ver os detalhes e a assinatura de documentos [**aqui**](../../pesquisar/como-pesquisar-objetos/view-object/aba-arquivos/assinatura-de-documentos/).
 
 </details>
 
@@ -486,7 +528,7 @@ Para aplicar a chancela:
 3. Vá até a aba **Arquivos**;
 4. Selecione o arquivo a ser chancela e clique no ícone .
 
-Para descobrir como realizar todo o processo, acesse o passo a passo disponível para ver os detalhes da aplicação de chancela **aqui**.
+Para descobrir como realizar todo o processo, acesse o passo a passo disponível para ver os detalhes da aplicação de chancela [**aqui**](../../pesquisar/como-pesquisar-objetos/view-object/aba-arquivos/assinatura-de-documentos/).
 
 </details>
 
@@ -503,7 +545,7 @@ Para aplicar a chancela em lote:
 3. Clique na opção para aplicar **Chancela em lote**;
 4. Confirme a operação para validar os documentos em grupo.
 
-Para descobrir como realizar todo o processo, acesse o passo a passo disponível para aplicação de chancela em lote **aqui**.
+Para descobrir como realizar todo o processo, acesse o passo a passo disponível para aplicação de chancela em lote [**aqui**](../../pesquisar/como-pesquisar-objetos/view-object/aba-arquivos/assinatura-de-documentos/).
 
 </details>
 
@@ -520,7 +562,7 @@ Para realizar a assinatura em lote:
 3. Clique na opção para **Assinar com certificado pessoal em lote**;
 4. Insira a senha do certificado digital.
 
-Para descobrir como realizar todo o processo, acesse o passo a passo disponível para assinatura em lote **aqui**.
+Para descobrir como realizar todo o processo, acesse o passo a passo disponível para assinatura em lote [**aqui**](../../pesquisar/como-pesquisar-objetos/view-object/aba-arquivos/assinatura-de-documentos/).
 
 </details>
 
@@ -538,7 +580,7 @@ Para realizar a assinatura:
 4. Selecione o arquivo a ser assinado e clique no ícone **Assinar com certificado digital**.
 5. Insira a senha do certificado digital.
 
-Para descobrir como realizar todo o processo, acesse o passo a passo disponível para ver os detalhes e a assinatura de documentos **aqui**.
+Para descobrir como realizar todo o processo, acesse o passo a passo disponível para ver os detalhes e a assinatura de documentos [**aqui**](../../pesquisar/como-pesquisar-objetos/view-object/aba-arquivos/assinatura-de-documentos/).
 
 </details>
 
@@ -571,7 +613,7 @@ Permite acessar a funcionalidade **Relatório de Projeto**, disponível em:
 Por meio dessa funcionalidade, o usuário pode gerar relatórios contendo informações dos documentos e arquivos armazenados no projeto.
 
 {% hint style="info" icon="link-horizontal" %}
-Acesse o passo a passo disponível aqui.
+[Acesse o passo a passo disponível aqui.](../../pesquisar/relatorio-projeto.md)
 {% endhint %}
 
 </details>
@@ -584,7 +626,7 @@ Usuários com esta permissão habilitada têm acesso aos relatórios padrão do 
 
 Para gerar um relatório padrão:
 
-1. No menu lateral, acesse **Relatórios > Relatório Padrão**;
+1. No menu lateral, acesse [**Relatórios > Relatório Padrão**](../../relatorios/relatorios-padrao.md);
 2. Preencha os filtros e informações necessárias;
 3. Selecione o formato desejado (XLSX ou CSV);
 4. Clique em **Continuar**;
@@ -609,7 +651,7 @@ Os relatórios possibilitam acompanhar operações relacionadas a:
 Essa funcionalidade auxilia no acompanhamento operacional, auditoria e rastreabilidade das ações realizadas pelos usuários.
 
 {% hint style="info" icon="link-horizontal" %}
-Acesse o passo a passo disponível aqui.
+[Acesse o passo a passo disponível aqui.](../../relatorios/relatorios-de-acoes-de-usuarios.md)
 {% endhint %}
 
 </details>
@@ -633,7 +675,7 @@ O compartilhamento disponibiliza um pacote contendo:
 Essa funcionalidade está disponível apenas para documentos marcados como **Documento Preservado** e quando o parâmetro do projeto **Compartilhar Pacotes de Preservação** estiver habilitado.
 
 {% hint style="info" icon="link-horizontal" %}
-Acesse o passo a passo disponível aqui.
+[Acesse o passo a passo disponível aqui.](../../pesquisar/como-pesquisar-objetos/resultados-da-pesquisa.md#compartilhamento-de-documentos)
 {% endhint %}
 
 </details>
@@ -659,7 +701,7 @@ O compartilhamento pode incluir:
 Essa funcionalidade está disponível apenas para documentos marcados como **Documento Preservado** e quando o parâmetro do projeto **Compartilhar Pacotes de Preservação** estiver habilitado.
 
 {% hint style="info" icon="link-horizontal" %}
-Acesse o passo a passo disponível aqui.
+[Acesse o passo a passo disponível aqui.](../../pesquisar/como-pesquisar-objetos/resultados-da-pesquisa.md#compartilhamento-de-documentos)
 {% endhint %}
 
 </details>
