@@ -14,28 +14,28 @@ Clique no ícone **“Abrir”** ao lado do documento.
 {% step %}
 O sistema abrirá uma **tela pop-up** com diversas abas disponíveis, conforme as **permissões do seu usuário**.
 
-<div align="left"><figure><img src="../../../../../.gitbook/assets/image (201).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../../../.gitbook/assets/image (201).png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Clique na aba **Arquivos**.
 
-<div align="left"><figure><img src="../../../../../.gitbook/assets/image (202).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../../../.gitbook/assets/image (202).png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Marque a checkbox do arquivo que deseja assinar **ou** clique em **Selecionar todos** para assinar em lote.
 
-<div align="left"><figure><img src="../../../../../.gitbook/assets/image (200).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../../../.gitbook/assets/image (200).png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Clique em um dos ícones:
 
-* **Aplicar chancela em lote** <img src="../../../../../.gitbook/assets/image (414).png" alt="" data-size="line">
-* **Assinatura com certificado pessoal em lote** <img src="../../../../../.gitbook/assets/image (415).png" alt="" data-size="line">
+* **Aplicar chancela em lote** <img src="../../../../../../.gitbook/assets/image (414).png" alt="" data-size="line">
+* **Assinatura com certificado pessoal em lote** <img src="../../../../../../.gitbook/assets/image (415).png" alt="" data-size="line">
 
-<div align="left"><figure><img src="../../../../../.gitbook/assets/image (416).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../../../.gitbook/assets/image (416).png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -45,19 +45,19 @@ Caso opte por assinar com certificado pessoal, aparecera uma pop-up será exibid
 * (Opcional) Aplicar marca d’água.\
   Após definir os parâmetros, clique em **Assinar**.
 
-<div align="left"><figure><img src="../../../../../.gitbook/assets/Captura de tela 2025-08-21 - 16.21.06.png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../../../.gitbook/assets/Captura de tela 2025-08-21 - 16.21.06.png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
 Caso prefira aplicar **chancela** em vez de assinatura, aparecerá a pop -up confirmando a ação
 
-<figure><img src="../../../../../.gitbook/assets/image (417).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (417).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 Uma nova janela será exibida para confirmar a ação.
 
-<figure><img src="../../../../../.gitbook/assets/image (418).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (418).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 

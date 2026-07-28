@@ -148,6 +148,10 @@ Permitir que o usuário **cancele uma O.S. que não será mais executada.**
 
 <table><thead><tr><th width="190">Botão</th><th>Função</th></tr></thead><tbody><tr><td><strong>OBSERVAÇÕES</strong></td><td>Espaço destinado a registrar informações relevantes sobre o cancelamento da solicitação. </td></tr><tr><td><strong>CONFIRMAR</strong></td><td>Clique em <strong>Confirmar</strong> para cancelar oficialmente a solicitação no sistema.</td></tr></tbody></table>
 
+{% hint style="info" %}
+[Acesse aqui a gestão de O.S. canceladas](solicitacoes-canceladas.md)
+{% endhint %}
+
 </details>
 
 <details>
@@ -166,6 +170,112 @@ O cliente (ou destinatário final) recebe um **código de validação por e-mail
 **📎 Descubra como validar passo a passo** 👇
 
 [#ordem-de-servico-digital](../pesquisar/como-fazer-solicitacoes-de-objeto.md#ordem-de-servico-digital "mention")
+
+</details>
+
+<details>
+
+<summary>Exportação de Arquivos de Destinação</summary>
+
+A funcionalidade **Exportação de Arquivos de Destinação** permite gerar um pacote contendo os arquivos vinculados às Ordens de Serviço de **Expurgo**, **Recolhimento** e **Saída Definitiva**.
+
+O recurso é utilizado quando há necessidade de transferir, recolher ou disponibilizar documentos relacionados a processos de destinação documental, mantendo a rastreabilidade e o controle das operações realizadas.
+
+<img src="https://manualsosdocs.gitbook.io/adm-docz/~gitbook/image?url=https%3A%2F%2F2165951091-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FH2zBMzYHjbRsfnTeRGr3%252Fuploads%252F8YCX4FUANkMZu6Qi8qr4%252Funknown.png%3Falt%3Dmedia%26token%3D221e35b7-10f7-433a-ae4c-e6b2356a1f2f&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=f4e50c2d&#x26;sv=2" alt="" height="661" width="1011">
+
+**Como exportar os arquivos**
+
+1. Acesse **Solicitações > Todas as Solicitações**.
+2. Localize a Ordem de Serviço desejada.
+3. Clique no ícone de **Lupa** para visualizar os detalhes da solicitação.
+4. Clique no botão **Exportar Arquivos de Destinação**.
+5. O sistema encaminhará a solicitação para processamento na **Central de Downloads**.
+
+Após a conclusão do processamento, o pacote estará disponível para download seguindo o mesmo padrão utilizado na funcionalidade de download em lote do sistema.
+
+**Tipos de Solicitação Compatíveis**
+
+A exportação está disponível apenas para Ordens de Serviço dos tipos:
+
+* Expurgo;
+* Recolhimento;
+* Saída Definitiva.
+
+**Processamento da Exportação**
+
+Ao solicitar a exportação, o sistema:
+
+* Identifica automaticamente os objetos vinculados à Ordem de Serviço;
+* Reúne os arquivos associados aos documentos selecionados;
+* Gera o pacote de exportação de forma assíncrona;
+* Disponibiliza o resultado na Central de Downloads.
+
+**Rastreabilidade**
+
+Todas as exportações realizadas são registradas automaticamente no sistema, incluindo:
+
+* Usuário responsável pela solicitação;
+* Data e hora da operação;
+* Ordem de Serviço relacionada;
+* Registro na Trilha de Auditoria;
+* Histórico de ocorrências da solicitação.
+
+> Importante: documentos sem arquivos vinculados não impedem a geração da exportação. Nesses casos, o sistema processa normalmente os demais itens e registra a ocorrência para fins de rastreabilidade.
+
+</details>
+
+<details>
+
+<summary>Integração entre Transporte e Ordem de Serviço</summary>
+
+Quando uma Ordem de Serviço estiver vinculada a um transporte, as principais movimentações realizadas durante o processo logístico serão registradas automaticamente no histórico da própria O.S.
+
+Essa integração permite acompanhar o andamento do transporte diretamente pela solicitação, sem necessidade de acessar o módulo de Gestão de Transporte.
+
+**Ocorrências registradas automaticamente**
+
+As seguintes ações realizadas no transporte geram registros automáticos no histórico da Ordem de Serviço vinculada:
+
+| Ação no Transporte | Registro na O.S.      |
+| ------------------ | --------------------- |
+| Atender            | Transporte Iniciado   |
+| Atrasado           | Transporte Atrasado   |
+| Cheguei            | Transporte no Local   |
+| Finalizar          | Transporte Finalizado |
+| Cancelar           | Transporte Cancelado  |
+
+**Informações registradas**
+
+Cada ocorrência adicionada ao histórico da Ordem de Serviço contém:
+
+* Usuário responsável pela ação;
+* Data e hora da ocorrência;
+* Tipo da ocorrência;
+* Observações registradas durante a operação;
+* Referência ao transporte de origem.
+
+**Vínculo com o transporte**
+
+O campo **Observação** passa a exibir automaticamente uma referência ao transporte responsável pela movimentação.
+
+Exemplos:
+
+**Quando existe observação preenchida:**
+
+> Coleta realizada com sucesso | Transporte 000123/2026
+
+**Quando não existe observação:**
+
+> Transporte 000123/2026
+
+O identificador do transporte é exibido como um link clicável, permitindo acesso direto ao registro correspondente na Gestão de Transporte.
+
+{% hint style="info" %}
+**Importante**
+
+* Os registros são criados apenas para a Ordem de Serviço associada ao item movimentado.
+* Caso um transporte possua várias Ordens de Serviço vinculadas, cada ocorrência será registrada somente na O.S. efetivamente impactada pela ação executada.
+{% endhint %}
 
 </details>
 

@@ -7,7 +7,7 @@ Basta clicar com o **botão direito** sobre uma pasta para ver as opções dispo
 
 <details>
 
-<summary><strong>Pesquisar</strong></summary>
+<summary>Pesquisar</summary>
 
 Ao selecionar essa opção, o **formulário de filtros** — localizado no lado direito da tela — **mudará o título** para indicar que a pesquisa está sendo realizada dentro da **pasta selecionada** (caixas ou documentos).
 
@@ -19,7 +19,7 @@ Ao selecionar essa opção, o **formulário de filtros** — localizado no lado 
 
 <details>
 
-<summary><strong>Detalhar</strong></summary>
+<summary>Detalhar</summary>
 
 A funcionalidade **Detalhar** permite que o usuário **visualize as informações completas de uma pasta dentro do projeto**.
 
@@ -69,14 +69,6 @@ Siga os passos abaixo para visualizar todas as fotolabels das caixas de um proje
 <mark style="color:blue;">**Confira no vídeo abaixo como essa ação funciona ⤵️**</mark>
 
 <figure><img src="../../../.gitbook/assets/© 2025 SOS Docs  Todos os direitos reservados. (1280 x 500 px) (1440 x 900 px) (4).gif" alt=""><figcaption></figcaption></figure>
-
-</details>
-
-<details>
-
-<summary>Inserir arquivos</summary>
-
-<figure><img src="../../../.gitbook/assets/Estamos trabalhando para disponibilizar esse conteúdo o quanto antes. Volte em breve ou entre em contato caso precise de ajuda! (3).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -174,3 +166,7 @@ A funcionalidade **Remover** permite que o usuário **exclua uma pasta seleciona
 <figure><img src="../../../.gitbook/assets/© 2025 SOS Docs  Todos os direitos reservados. (1280 x 500 px) (1440 x 900 px) (9).gif" alt=""><figcaption></figcaption></figure>
 
 </details>
+
+
+
+<a href="./" class="button secondary" data-icon="circle-left">Voltar</a>

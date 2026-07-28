@@ -13,7 +13,7 @@ description: >-
 Ambos os cenários são indicados para assinaturas de pequenos volumes, ou seja, uma funcionalidade voltada ao uso operacional do dia a dia, e não para grandes volumes, uma vez que dependem de ações manuais do usuário.
 {% endhint %}
 
-<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th></tr></thead><tbody><tr><td><p><img src="../../../../../.gitbook/assets/image (29) (1).png" alt="" data-size="line">  <strong>Aplicar a Chancela:</strong></p><p></p><p>A chancela é a assinatura digital da <strong>SOS Docs</strong>, já embarcada no DocZ. Com as permissões de projeto e usuário ativas, qualquer usuário autorizado pode aplicá-la. A assinatura possui <strong>validade jurídica</strong> e pode ser validada diretamente no ITI: <a href="https://validar.iti.gov.br/">https://validar.iti.gov.br/</a>.<br><br><sub>Além disso, o usuário pode definir nos <strong>parâmetros de projeto</strong> se deve ser aplicada uma <strong>marca d’água</strong> nos arquivos assinados. A marca d’água aparecerá apenas se o parâmetro estiver ativo no projeto.</sub></p></td></tr><tr><td><p><img src="../../../../../.gitbook/assets/image (30) (1).png" alt="" data-size="line"> <strong>Aplicar Assinatura Digital:</strong></p><p></p><p>A assinatura com certificado digital é pessoal e possui validade legal. O usuário deve fazer o upload de um certificado digital válido em <strong>"</strong><a href="https://manualsosdocs.gitbook.io/docz-operacao/painel#undefined-2"><strong>Minha Conta</strong></a><strong>"</strong>.</p><p>Ao assinar, o sistema utilizará o certificado enviado pelo usuário, seguindo os padrões do mesmo. Antes de concluir a assinatura, o sistema solicitará:</p><p></p><ul><li><strong>Senha do certificado</strong>;</li><li>Se deseja aplicar <strong>marca d’água visível</strong> no arquivo assinado.</li></ul></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th></tr></thead><tbody><tr><td><p><img src="../../../../../../.gitbook/assets/image (29) (1).png" alt="" data-size="line">  <strong>Aplicar a Chancela:</strong></p><p></p><p>A chancela é a assinatura digital da <strong>SOS Docs</strong>, já embarcada no DocZ. Com as permissões de projeto e usuário ativas, qualquer usuário autorizado pode aplicá-la. A assinatura possui <strong>validade jurídica</strong> e pode ser validada diretamente no ITI: <a href="https://validar.iti.gov.br/">https://validar.iti.gov.br/</a>.<br><br><sub>Além disso, o usuário pode definir nos <strong>parâmetros de projeto</strong> se deve ser aplicada uma <strong>marca d’água</strong> nos arquivos assinados. A marca d’água aparecerá apenas se o parâmetro estiver ativo no projeto.</sub></p></td></tr><tr><td><p><img src="../../../../../../.gitbook/assets/image (30) (1).png" alt="" data-size="line"> <strong>Aplicar Assinatura Digital:</strong></p><p></p><p>A assinatura com certificado digital é pessoal e possui validade legal. O usuário deve fazer o upload de um certificado digital válido em <strong>"</strong><a href="https://manualsosdocs.gitbook.io/docz-operacao/painel#undefined-2"><strong>Minha Conta</strong></a><strong>"</strong>.</p><p>Ao assinar, o sistema utilizará o certificado enviado pelo usuário, seguindo os padrões do mesmo. Antes de concluir a assinatura, o sistema solicitará:</p><p></p><ul><li><strong>Senha do certificado</strong>;</li><li>Se deseja aplicar <strong>marca d’água visível</strong> no arquivo assinado.</li></ul></td></tr></tbody></table>
 
 #### ✍️Como assinar documentos no DocZ
 
@@ -25,7 +25,7 @@ Realize uma pesquisa e selecione o documento desejado.
 {% endstep %}
 
 {% step %}
-Clique no ícone <img src="../../../../../.gitbook/assets/image (50).png" alt="" data-size="line"> ao lado do documento, para abrir os detalhes.
+Clique no ícone <img src="../../../../../../.gitbook/assets/image (50).png" alt="" data-size="line"> ao lado do documento, para abrir os detalhes.
 {% endstep %}
 
 {% step %}
@@ -35,22 +35,22 @@ O sistema exibirá um pop-up com várias abas, conforme as permissões do seu us
 {% endstep %}
 
 {% step %}
-No documento desejado, clique no ícone **"Assinar"** <img src="../../../../../.gitbook/assets/image (32).png" alt="" data-size="line"> ou **"Aplicar Chancela"** <img src="../../../../../.gitbook/assets/image (33).png" alt="" data-size="line"> , localizado abaixo da descrição do arquivo.
+No documento desejado, clique no ícone **"Assinar"** <img src="../../../../../../.gitbook/assets/image (32).png" alt="" data-size="line"> ou **"Aplicar Chancela"** <img src="../../../../../../.gitbook/assets/image (33).png" alt="" data-size="line"> , localizado abaixo da descrição do arquivo.
 
-<figure><img src="../../../../../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-<img src="../../../../../.gitbook/assets/image (35).png" alt="" data-size="line"> **Assinar com certificado pessoal:** Aparecerá um pop-up confirmando a ação e solicitando a **senha do certificado**.\
+<img src="../../../../../../.gitbook/assets/image (35).png" alt="" data-size="line"> **Assinar com certificado pessoal:** Aparecerá um pop-up confirmando a ação e solicitando a **senha do certificado**.\
 Após definir os parâmetros, clique em **Assinar**.
 
-<figure><img src="../../../../../.gitbook/assets/image (188).png" alt="" width="458"><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (188).png" alt="" width="458"><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-<img src="../../../../../.gitbook/assets/image (36).png" alt="" data-size="line"> **Aplicar Chancela:** Apenas será exibida uma **notificação de ação concluída**.
+<img src="../../../../../../.gitbook/assets/image (36).png" alt="" data-size="line"> **Aplicar Chancela:** Apenas será exibida uma **notificação de ação concluída**.
 
-<figure><img src="../../../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 {% endstepper %}
 
@@ -86,7 +86,7 @@ O usuário pode agora **embarcar seu certificado pessoal** no sistema, acessando
 
 Após definir os parâmetros do certificado, ao clicar em **Assinar**, será exibida uma **pop-up de confirmação**, solicitando a **senha do certificado** para concluir a assinatura.
 
-<figure><img src="../../../../../.gitbook/assets/image (188).png" alt="" width="458"><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (188).png" alt="" width="458"><figcaption></figcaption></figure>
 
 </details>
 
@@ -94,16 +94,16 @@ Após definir os parâmetros do certificado, ao clicar em **Assinar**, será exi
 
 <summary>Múltiplas Assinaturas no Mesmo Arquivo</summary>
 
-<figure><img src="../../../../../.gitbook/assets/image (419).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (419).png" alt=""><figcaption></figcaption></figure>
 
 No **DocZ**, é possível que **vários usuários diferentes** assinem o mesmo arquivo, mesmo após ele já ter sido assinado por outra pessoa.\
 O **ícone de assinatura** permanece disponível até que **todos os responsáveis** realizem sua validação.
 
-Além disso, o botão **“Arquivo Assinado”** <img src="../../../../../.gitbook/assets/image (16) (1).png" alt="" data-size="line"> permite **consultar todas as assinaturas aplicadas**, oferecendo **transparência e controle** sobre o histórico de validações do documento.
+Além disso, o botão **“Arquivo Assinado”** <img src="../../../../../../.gitbook/assets/image (16) (1).png" alt="" data-size="line"> permite **consultar todas as assinaturas aplicadas**, oferecendo **transparência e controle** sobre o histórico de validações do documento.
 
-<figure><img src="../../../../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -138,17 +138,17 @@ Durante o processo de validação, são analisados aspectos como:
 3. Na parte inferior direita da janela, clique no botão **Validar Assinaturas**.
 4. O sistema realizará a verificação das assinaturas digitais do documento.
 
-<figure><img src="../../../../../.gitbook/assets/image (521).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (521).png" alt=""><figcaption></figcaption></figure>
 
 * Após a conclusão da validação, será exibida uma mensagem de sucesso informando que as assinaturas foram devidamente validadas.
 * Na coluna **Validação da Assinatura**, o status da assinatura será apresentado como **Válida**, quando a assinatura estiver em conformidade.
 * Para visualizar os detalhes técnicos da validação, clique no botão **Visualizar Relatório de Conformidade**.
 
-<figure><img src="../../../../../.gitbook/assets/image (522).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (522).png" alt=""><figcaption></figcaption></figure>
 
 A utilização da solução da Lacuna Software garante a conformidade do processo de validação com os padrões e requisitos aplicáveis às assinaturas digitais.
 
-<figure><img src="../../../../../.gitbook/assets/image (523).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (523).png" alt=""><figcaption></figcaption></figure>
 
 #### Relatório de Conformidade
 
@@ -202,4 +202,4 @@ Nesse modelo, é definido um fluxo operacional no qual, ao atingir uma etapa pre
 
 
 
-<a href="../" class="button secondary" data-icon="circle-left">Voltar</a>
+<a href="../../" class="button secondary" data-icon="circle-left">Voltar</a>

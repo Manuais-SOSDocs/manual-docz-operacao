@@ -34,7 +34,33 @@ A funcionalidade de Indexação é utilizada para associar informações (metada
 
 ### 🤖 Indexação por IA (Docfy + DocZ)
 
+A funcionalidade de **Indexação por Inteligência Artificial (IA)** permite automatizar o preenchimento de metadados dos documentos por meio da integração entre o DocZ e o DocFy.
 
+Quando um documento atinge a etapa documental configurada para processamento por IA, o DocZ encaminha o arquivo ao [**DocFy**](https://manualsosdocs.gitbook.io/adm-docz/projetos/formularios#entenda-o-que-e-o-docfy), responsável por analisar o conteúdo e extrair as informações definidas para o projeto. Após a extração, os metadados são devolvidos ao DocZ e preenchidos automaticamente no formulário de indexação correspondente.
+
+Em seguida, um usuário com permissão de **Indexador** acessa a tela de indexação para conferir, corrigir e confirmar as informações extraídas antes da conclusão da indexação.
+
+Essa abordagem combina automação e validação humana, reduzindo o esforço operacional e aumentando a produtividade sem comprometer a qualidade dos dados indexados.
+
+#### Como Funciona para o Usuário <a href="#como-funciona-para-o-usuario" id="como-funciona-para-o-usuario"></a>
+
+Após a configuração da funcionalidade no projeto, os usuários com permissão de **Indexador/Validador** passam a visualizar a opção:
+
+**Indexação → Validar Extração por IA**
+
+Ao acessar a funcionalidade, o sistema apresenta em uma única tela o documento PDF e os metadados previamente extraídos pelo **DocFy**. Dessa forma, o usuário pode conferir as informações sem a necessidade de navegar entre diferentes telas ou módulos.
+
+Durante a validação, o usuário poderá:
+
+* Conferir os dados extraídos pela IA;
+* Corrigir informações identificadas incorretamente;
+* Complementar campos não preenchidos;
+* Ajustar classificações, descrições e demais metadados configurados no formulário;
+* Confirmar a validação do documento.
+
+Após selecionar **Validar Indexação**, o sistema salva as informações e disponibiliza automaticamente um novo documento para validação, quando houver itens pendentes.
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h4><strong>Distribuição Automática dos Documentos</strong></h4><p>A validação da extração por IA não utiliza filas visíveis ao usuário.</p><p>Os documentos são disponibilizados automaticamente pelo sistema conforme a configuração do formulário, utilizando o mecanismo de <strong>Distribuição Aleatória</strong>. A cada validação concluída, o DocZ busca um novo documento elegível para conferência.</p><p>Para garantir a integridade do processo, um mesmo documento não pode ser disponibilizado simultaneamente para mais de um usuário. Enquanto estiver em validação, o documento permanece reservado ao usuário responsável pela atividade.</p></td></tr><tr><td><h4><strong>Histórico de Validações</strong></h4><p>Os documentos já validados são exibidos na grade inferior da tela, permitindo consultas e revisões posteriores.</p><p>Quando necessário, o usuário poderá utilizar a ação <strong>Editar</strong> para reabrir um documento validado e realizar ajustes nos metadados, mantendo a flexibilidade operacional do processo.</p></td></tr></tbody></table>
 
 
 

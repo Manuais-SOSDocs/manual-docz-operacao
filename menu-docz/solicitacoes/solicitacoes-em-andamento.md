@@ -150,7 +150,7 @@ Toda vinculação realizada é registrada automaticamente no **Histórico da O.S
 
 <details>
 
-<summary><mark style="color:orange;">🔗 Vinculação de Ficha de transporte à Ordem de Serviço</mark></summary>
+<summary>🔗 Vinculação de Ficha de transporte à Ordem de Serviço</summary>
 
 1.  Acesse a **Ordem de Serviço** que esteja em andamento.<br>
 

@@ -1,5 +1,4 @@
 ---
-hidden: true
 layout:
   width: default
   title:
@@ -61,7 +60,7 @@ A tela de pesquisa é dividida em dois blocos principais:
 
 Descubra como explorar a tela de pesquisa e gestão de objetos. Selecione abaixo a aplicação e aprenda a usar cada recurso com detalhes.
 
-<table data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>🔎 Como aplicar filtros na pesquisa de objetos</strong><br></td><td><a href="descubra-como-aplicar-filtros-de-pesquisa-no-docz.md">descubra-como-aplicar-filtros-de-pesquisa-no-docz.md</a></td></tr><tr><td><strong>⚙️ Explorando todas as funcionalidades dos resultados da pesquisa</strong></td><td><a href="resultados-da-pesquisa.md">resultados-da-pesquisa.md</a></td></tr><tr><td><strong>📂 Interagindo com os documentos</strong><br></td><td><a href="interagindo-com-os-documentos/">interagindo-com-os-documentos</a></td></tr></tbody></table>
+<table data-view="cards" data-full-width="false"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>🔎 Como aplicar filtros na pesquisa de objetos</strong><br></td><td><a href="descubra-como-aplicar-filtros-de-pesquisa-no-docz.md">descubra-como-aplicar-filtros-de-pesquisa-no-docz.md</a></td></tr><tr><td><strong>⚙️ Explorando todas as funcionalidades dos resultados da pesquisa</strong></td><td><a href="resultados-da-pesquisa.md">resultados-da-pesquisa.md</a></td></tr><tr><td><strong>📂 Interagindo com os documentos</strong><br></td><td><a href="view-object/">view-object</a></td></tr></tbody></table>
 
 
 

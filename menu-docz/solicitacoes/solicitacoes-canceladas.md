@@ -8,6 +8,10 @@ Essa tela permite visualizar e filtrar as solicitações canceladas no sistema, 
 
 <figure><img src="../../.gitbook/assets/image (352).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+O cancelamento **pode ser desfeito em até 48 horas após sua execução**. Após esse prazo, não será mais possível reverter a ação.
+{% endhint %}
+
 ### 🧭 **Filtros de Pesquisa (Parte Superior da Tela)**
 
 <table><thead><tr><th width="238">Filtro</th><th>Descrição</th></tr></thead><tbody><tr><td><strong>Tipo de Solicitação</strong></td><td>Escolha entre empréstimo, digitalização, movimentação etc.</td></tr><tr><td><strong>Prioridade da Solicitação</strong></td><td>Filtra por normal, urgente, etc.</td></tr><tr><td><strong>Status SLA</strong></td><td>Permite consultar solicitações dentro ou fora do prazo.</td></tr><tr><td><strong>Tipo de Solicitante</strong></td><td>Interno ou cliente.</td></tr><tr><td><strong>Período (Data Inicial / Final)</strong></td><td>Delimite a busca por data de criação.</td></tr><tr><td><strong>Nº da Solicitação</strong></td><td>Busque por um número específico (sem o “0” inicial e o ano).</td></tr><tr><td><strong>Nº da Etiqueta SOS</strong></td><td>Consulte pelo código de identificação do item.</td></tr></tbody></table>

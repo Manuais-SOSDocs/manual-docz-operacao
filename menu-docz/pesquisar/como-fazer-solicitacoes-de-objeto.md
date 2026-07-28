@@ -1,5 +1,4 @@
 ---
-hidden: true
 layout:
   width: default
   title:
@@ -117,7 +116,28 @@ Ordem de Serviço criada e enviada para atendimento. Para aprender a acompanhar 
 
 ***
 
-### 💡 **Informações complementares sobre as solicitações:**
+#### 💡 **Informações complementares sobre as solicitações:**
+
+<details>
+
+<summary>📃 Descrição do tipo de O.S.</summary>
+
+| **Tipo de Solicitação (O.S.)** | **Finalidade**                                                                                                                                                                            | **Objeto Aplicável** |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| **Digitalização**              | Permite digitalizar documentos físicos e anexar sua versão digital ao sistema.                                                                                                            | Documento            |
+| **Empréstimo**                 | Permite solicitar a retirada temporária de caixas ou documentos para consulta ou utilização.                                                                                              | Caixa e/ou Documento |
+| **Devolução**                  | Registra a devolução de caixas ou documentos anteriormente emprestados.                                                                                                                   | Caixa e/ou Documento |
+| **Implantação**                | Permite registrar a implantação de caixas ou documentos no acervo.                                                                                                                        | Caixa e/ou Documento |
+| **Cópia**                      | Permite solicitar uma cópia de um documento arquivado.                                                                                                                                    | Documento            |
+| **Atualização Cadastral**      | Permite alterar os metadados de caixas e documentos já cadastrados.                                                                                                                       | Caixa e/ou Documento |
+| **Expurgo**                    | Permite iniciar o processo de eliminação documental conforme a Tabela de Temporalidade.                                                                                                   | Caixa e/ou Documento |
+| **Saída Definitiva**           | Permite registrar a retirada definitiva de caixas ou documentos do acervo.                                                                                                                | Caixa e/ou Documento |
+| **Reimplantação**              | Permite reintegrar ao acervo documentos ou caixas que tiveram **Saída Definitiva**.                                                                                                       | Caixa e/ou Documento |
+| **Movimentação**               | Permite solicitar a movimentação física de caixas ou documentos entre locais, setores ou unidades.                                                                                        | Caixa e/ou Documento |
+| **Solicitação de Suprimentos** | Permite solicitar materiais operacionais, como etiquetas, caixas e demais suprimentos cadastrados.                                                                                        | —                    |
+| **Recolhimento**               | Permite iniciar o processo de recolhimento de documentos destinados à **Guarda Permanente**, podendo encaminhá-los ao **RDC-Arq**, quando essa integração estiver configurada no projeto. | Caixa e/ou Documento |
+
+</details>
 
 <details>
 
@@ -150,14 +170,14 @@ Toda solicitação realizada gera automaticamente o envio de um **e-mail** para 
   * 📄 **PDF da Ordem de Serviço**
   * 🔐 **Código único e intransferível**
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (567).png" alt=""><figcaption></figcaption></figure>
 
 Cada usuário recebe **um código individual**, que garante a **validação segura da entrega**:
 
 * No momento da entrega, o colaborador da SOS valida a OS com base no código informado pelo usuário.
 * Ao informar o código, a OS digital recebe automaticamente a **assinatura com o nome do proprietário do token**, confirmando a autenticidade da entrega.
 
-#### ✅ **Como validar a O.S. com o token**
+**✅ Como validar a O.S. com o token**
 
 1. O destinatário recebe um e-mail com o PDF e o token.
 2. No corpo do e-mail, há um código de confirmação.
@@ -174,7 +194,7 @@ Antes de realizar uma solicitação, é importante verificar se o objeto (caixa 
 
 Confira abaixo as regras para cada tipo de solicitação:
 
-<table><thead><tr><th width="148.99993896484375" align="center">🧾 Tipo de O.S.</th><th width="126.63629150390625" align="center">📦 Objeto</th><th>✅ Condições para Abertura</th></tr></thead><tbody><tr><td align="center"><strong>Digitalização</strong></td><td align="center">Documento</td><td><ul><li>Deve estar em <strong>caixa implantada</strong> com status <strong>ARQUIVADO</strong></li><li>Não pode conter <strong>imagem nem arquivo digital</strong></li></ul></td></tr><tr><td align="center"><strong>Empréstimo</strong></td><td align="center">Caixa e/ou Documento</td><td><ul><li>Status deve ser <strong><code>ARQUIVADO</code></strong></li><li><strong>Não pode estar</strong> como:  <code>EMPRESTADO</code>  <code>NÃO IMPLANTADO</code>  <code>SOLICITADO</code> ou  <code>EM MOVIMENTAÇÃO</code></li></ul></td></tr><tr><td align="center"><strong>Devolução</strong></td><td align="center"><sub>Caixa e/ou Documento</sub></td><td>O item deve estar com status  <code>EMPRESTADO</code></td></tr><tr><td align="center"><strong>Implantação</strong></td><td align="center"><sub>Caixa e/ou Documento</sub></td><td>O item deve estar com status  <code>NÃO IMPLANTADO</code></td></tr><tr><td align="center"><strong>Cópia</strong></td><td align="center"><sub>Documento</sub></td><td>O documento deve estar com status  <code>ARQUIVADO</code></td></tr><tr><td align="center"><strong>Atualização Cadastral</strong></td><td align="center"><sub>Caixa e/ou Documento</sub></td><td><ul><li>Status deve ser <code>ARQUIVADO</code> ou <code>EM TRATAMENTO</code></li><li>🔐 Ação permitida apenas para <strong>Administradores ou Guarda</strong></li></ul></td></tr><tr><td align="center"><strong>Expurgo</strong></td><td align="center"><sub>Caixa e/ou Documento</sub></td><td>O item deve estar com status  <code>ARQUIVADO</code></td></tr><tr><td align="center"><strong>Saída Definitiva</strong></td><td align="center"><sub>Caixa e/ou Documento</sub></td><td>O item deve estar com status  <code>ARQUIVADO</code></td></tr><tr><td align="center"><strong>Reimplantação</strong></td><td align="center"><sub>Caixa e/ou Documento</sub></td><td>O item deve estar com status  <code>SAÍDA DEFINITIVA</code></td></tr><tr><td align="center"><strong>Movimentação</strong></td><td align="center"><sub>Caixa e/ou Documento</sub></td><td><ul><li>O item deve estar com status <code>ARQUIVADO</code> , <code>EM EXPEDIÇÃO</code> <br>ou <code>EM TRATAMENTO</code></li><li>⛔ Não é possível abrir outras solicitações quando o status for <br><code>EM MOVIMENTAÇÃO</code></li></ul></td></tr><tr><td align="center"><strong>Solicitação de Suprimentos</strong></td><td align="center"><p></p><hr></td><td>🔐 O usuário deve ter a permissão <strong>"Pode Realizar Solicitação"</strong></td></tr></tbody></table>
+<table><thead><tr><th width="148.99993896484375" align="center">🧾 Tipo de O.S.</th><th width="126.63629150390625" align="center">📦 Objeto</th><th>✅ Condições para Abertura</th></tr></thead><tbody><tr><td align="center"><strong>Digitalização</strong></td><td align="center">Documento</td><td><ul><li>Deve estar em <strong>caixa implantada</strong> com status <strong>ARQUIVADO</strong></li><li>Não pode conter <strong>imagem nem arquivo digital</strong></li></ul></td></tr><tr><td align="center"><strong>Empréstimo</strong></td><td align="center">Caixa e/ou Documento</td><td><ul><li>Status deve ser <strong><code>ARQUIVADO</code></strong></li><li><strong>Não pode estar</strong> como: <code>EMPRESTADO</code> <code>NÃO IMPLANTADO</code> <code>SOLICITADO</code> ou <code>EM MOVIMENTAÇÃO</code></li></ul></td></tr><tr><td align="center"><strong>Devolução</strong></td><td align="center"><sub>Caixa e/ou Documento</sub></td><td>O item deve estar com status <code>EMPRESTADO</code></td></tr><tr><td align="center"><strong>Implantação</strong></td><td align="center"><sub>Caixa e/ou Documento</sub></td><td>O item deve estar com status <code>NÃO IMPLANTADO</code></td></tr><tr><td align="center"><strong>Cópia</strong></td><td align="center"><sub>Documento</sub></td><td>O documento deve estar com status <code>ARQUIVADO</code></td></tr><tr><td align="center"><strong>Atualização Cadastral</strong></td><td align="center"><sub>Caixa e/ou Documento</sub></td><td><ul><li>Status deve ser <code>ARQUIVADO</code> ou <code>EM TRATAMENTO</code></li><li>🔐 Ação permitida apenas para <strong>Administradores ou Guarda</strong></li></ul></td></tr><tr><td align="center"><strong>Expurgo</strong></td><td align="center"><sub>Caixa e/ou Documento</sub></td><td>O item deve estar com status <code>ARQUIVADO</code></td></tr><tr><td align="center"><strong>Saída Definitiva</strong></td><td align="center"><sub>Caixa e/ou Documento</sub></td><td>O item deve estar com status <code>ARQUIVADO</code></td></tr><tr><td align="center"><strong>Reimplantação</strong></td><td align="center"><sub>Caixa e/ou Documento</sub></td><td>O item deve estar com status <code>SAÍDA DEFINITIVA</code></td></tr><tr><td align="center"><strong>Movimentação</strong></td><td align="center"><sub>Caixa e/ou Documento</sub></td><td><ul><li>O item deve estar com status <code>ARQUIVADO</code> , <code>EM EXPEDIÇÃO</code><br>ou <code>EM TRATAMENTO</code></li><li>⛔ Não é possível abrir outras solicitações quando o status for<br><code>EM MOVIMENTAÇÃO</code></li></ul></td></tr><tr><td align="center"><strong>Solicitação de Suprimentos</strong></td><td align="center"><hr></td><td>🔐 O usuário deve ter a permissão <strong>"Pode Realizar Solicitação"</strong></td></tr><tr><td align="center"><strong>Recolhimento</strong></td><td align="center"><sub>Caixa e/ou Documento</sub></td><td>Utilizada para solicitar o recolhimento de documentos ou objetos documentais, seguindo o fluxo padrão de Ordens de Serviço do sistema.</td></tr></tbody></table>
 
 </details>
 
