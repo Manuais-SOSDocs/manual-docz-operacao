@@ -36,7 +36,7 @@ Depois na **aba Grupos** para **visualizar os grupos** vinculados ao usuário.
 {% step %}
 Na aba **Projetos**, selecione os projetos para esse usuário e clique em **Salvar**. Em seguida, peça ao usuário que faça **logout e login** para ativar as mudanças.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 {% endstep %}
 
 {% step %}
@@ -57,4 +57,4 @@ Habilite a **integração SmartDocs ↔ DocZ** para que o usuário participe do 
 
 
 
-<a href="./" class="button secondary" data-icon="circle-left">Retornar para anterior</a>
+<a href="./" class="button secondary" data-icon="circle-left">Voltar</a>

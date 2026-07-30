@@ -34,15 +34,13 @@ Quando a pesquisa envolve um grande volume de dados, o sistema pode solicitar qu
 <mark style="color:$warning;">`“A consulta realizada tem um volume elevado de dados. Por favor, baixe o arquivo em Excel.”`</mark>
 {% endhint %}
 
-EDG2R10
-
-#### 📋 Como funciona a pesquisa
+### 📋 Como funciona a pesquisa
 
 {% stepper %}
 {% step %}
 Digite o código do endereço (Ex.: prateleira, caixa, estante, pallet).
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -50,7 +48,7 @@ Clique em  ![](<../../.gitbook/assets/image (329).png>) .
 
 Na grid abaixo, será exibido o número total de itens encontrados na localização.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

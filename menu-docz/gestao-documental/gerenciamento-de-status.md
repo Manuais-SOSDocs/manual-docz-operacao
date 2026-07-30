@@ -32,4 +32,4 @@ Acompanhe o campo **“Última numeração bipada”**, que mostra o último có
 
 
 
-<a href="./" class="button secondary" data-icon="circle-left">Retornar para anterior</a>
+<a href="./" class="button secondary" data-icon="circle-left">Voltar</a>

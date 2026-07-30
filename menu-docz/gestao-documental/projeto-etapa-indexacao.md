@@ -23,7 +23,7 @@ Selecione o projeto ao qual a etapa será vinculada.
 {% endstep %}
 
 {% step %}
-Clique em ![](<../../.gitbook/assets/image (384).png>) (adicionar).
+Clique em <img src="../../.gitbook/assets/image (384).png" alt="" data-size="line"> (adicionar).
 {% endstep %}
 {% endstepper %}
 

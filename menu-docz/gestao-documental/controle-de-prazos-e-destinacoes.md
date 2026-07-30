@@ -247,4 +247,46 @@ Esses registros garantem rastreabilidade e conformidade com os requisitos do e-A
 
 </details>
 
+<details>
+
+<summary><strong>Recolhimento para Guarda Permanente</strong></summary>
+
+A funcionalidade de **Recolhimento** permite iniciar uma Ordem de Serviço destinada ao recolhimento de documentos classificados com destinação final **Guarda Permanente**.
+
+O processo é iniciado a partir da tela **Controle de Prazos e Destinações** e segue o fluxo padrão de criação e atendimento de Ordens de Serviço do sistema.
+
+#### Como solicitar um recolhimento <a href="#como-solicitar-um-recolhimento" id="como-solicitar-um-recolhimento"></a>
+
+1. Acesse **Gestão Documental > Controle de Prazos e Destinações**.
+2. Selecione o projeto desejado.
+3. No filtro **Destinação Final**, selecione **Guarda Permanente**.
+4. Defina os demais filtros necessários e execute a pesquisa.
+5. Selecione um ou mais documentos.
+6. Clique em **Gerenciar Destinações**.
+
+O sistema abrirá o **Carrinho de Solicitação**, criando automaticamente uma Ordem de Serviço do tipo **Recolhimento**.
+
+#### Recolher ao RDC-Arq <a href="#recolher-ao-rdc-arq-1" id="recolher-ao-rdc-arq-1"></a>
+
+Durante a criação da solicitação, estará disponível a opção:
+
+**Recolher ao RDC-Arq?**
+
+Quando marcada, o sistema identificará que os documentos deverão ser encaminhados para preservação digital conforme as configurações definidas para o projeto.
+
+**Atualização automática da Etapa Documental**
+
+O administrador pode configurar uma etapa documental específica para ser aplicada após a conclusão da Ordem de Serviço de Recolhimento.
+
+Quando:
+
+* A opção **Recolher ao RDC-Arq?** estiver marcada;
+* O parâmetro **Alterar Etapa Documental após Conclusão de OS de Recolhimento** estiver habilitado;
+
+o sistema atualizará automaticamente a etapa documental dos objetos para a etapa configurada no projeto.
+
+Caso a opção não seja marcada, nenhuma alteração automática será realizada na etapa documental.
+
+</details>
+
 <a href="./" class="button secondary" data-icon="circle-left">Voltar</a>

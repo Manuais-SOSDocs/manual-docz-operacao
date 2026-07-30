@@ -28,4 +28,4 @@ O campo **“Último número bipado”** mostra o último ID lido (documento ou 
 
 
 
-<a href="./" class="button secondary" data-icon="circle-left">Retornar para anterior</a>
+<a href="./" class="button secondary" data-icon="circle-left">Voltar</a>

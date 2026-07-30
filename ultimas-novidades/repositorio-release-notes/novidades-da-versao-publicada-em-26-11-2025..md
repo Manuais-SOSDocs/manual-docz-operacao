@@ -24,7 +24,7 @@ Na View Object, o campo de Classificação agora exibe uma lista suspensa com os
 A pesquisa agora reconhece automaticamente diferentes tipos de endereços:\
 Endereçamento, Palete, Em Tratamento, Em Trânsito e Aguardando Transporte.\
 \
-&#xNAN;_❗ O sistema retorna todas as caixas vinculadas — inclusive de clientes diferentes — e permite exportação pela Central de Downloads._
+_❗ O sistema retorna todas as caixas vinculadas — inclusive de clientes diferentes — e permite exportação pela Central de Downloads._
 
 #### 🧾 Relatórios de Prazo de Guarda
 

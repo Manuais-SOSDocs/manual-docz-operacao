@@ -6,7 +6,7 @@ description: MENU > GESTÃO DOCUMENTAL > CALCULAR PRAZO DE GUARDA
 
 A funcionalidade **Calcular Prazo de Guarda** permite gerar listagens de documentos com seus respectivos prazos, conforme a Tabela de Temporalidade configurada para o projeto.
 
-<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (31) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 📘 **Passo a passo – Calcular Prazo de Guarda**
 

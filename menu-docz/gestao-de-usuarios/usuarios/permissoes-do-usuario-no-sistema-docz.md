@@ -1,12 +1,13 @@
 ---
 description: Menu > gestão de usuários > Usuários > NOVO ou ✏️ > aba Permissões
+hidden: true
 ---
 
 # Permissões do Usuário no Sistema DocZ
 
 Cada permissão define as funcionalidades e ações que o usuário pode executar dentro do sistema. Esta tabela tem como objetivo servir de **referência rápida e prática**, auxiliando na **compreensão de cada permissão** disponível e no **ajuste seguro dos perfis de acesso**.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Permissões no sistema DocZ
 
@@ -145,18 +146,6 @@ Usuários com esta permissão habilitada têm acesso ao **Painel Inicial** do si
 Ao habilitar essa permissão, a opção **Painel** será exibida no menu lateral do sistema.
 
 <figure><img src="../../../.gitbook/assets/image (606).png" alt=""><figcaption></figcaption></figure>
-
-</details>
-
-<details>
-
-<summary><mark style="color:$warning;">Gerenciar Unidades</mark></summary>
-
-sgfdgbh
-
-{% hint style="info" icon="link-horizontal" %}
-Acesse o passo a passo disponível aqui.
-{% endhint %}
 
 </details>
 
@@ -435,7 +424,7 @@ No menu lateral, acesse **Gestão de guarda** > **Gerenciar Arquivamento**, info
 
 <mark style="color:$info;">Também disponível no aplicativo.</mark>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -476,7 +465,7 @@ Essa permissão permite que o usuário acesse e utilize a funcionalidade **Avali
 [Acesse aqui o passo a passo completo.](../../pesquisar/avaliacao.md)
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 Essa funcionalidade é utilizada para controle de qualidade e verificação dos dados cadastrados antes de sua aprovação.
 
@@ -814,7 +803,7 @@ Ao ativar essa permissão, o usuário poderá realizar **atividades operacionais
 Funcionalidade destinada à **Operação/Guarda**, utilizada para **gerenciar o arquivamento de documentos nas caixas**.
 
 Ao acessar o sistema, no **menu lateral**, será exibida a opção:\
-&#xNAN;**`Gestão de Guarda > Gerenciamento de Arquivamento`**
+**`Gestão de Guarda > Gerenciamento de Arquivamento`**
 
 Ao clicar nesta opção, o usuário será direcionado para a **tela de arquivamento**, onde é possível:
 
@@ -984,8 +973,6 @@ Permite associar registros do DocZ a documentos ou informações provenientes da
 Essa integração possibilita compartilhar informações entre os sistemas, mantendo o vínculo entre os registros relacionados e facilitando a gestão integrada dos documentos.
 
 </details>
-
-
 
 
 

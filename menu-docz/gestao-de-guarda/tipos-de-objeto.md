@@ -74,4 +74,4 @@ Na grid **"Tipos de Objetos Cadastrados"**, você pode **alterar** ou **excluir*
 
 
 
-<a href="./" class="button secondary" data-icon="circle-left">Retornar para anterior</a>
+<a href="./" class="button secondary" data-icon="circle-left">Voltar</a>

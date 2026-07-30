@@ -104,4 +104,20 @@ Ação concluída.
 
 
 
+<details>
+
+<summary><strong>Campos da Grid da Trilha de Auditoria</strong></summary>
+
+A tabela abaixo descreve os campos exibidos na grid da Trilha de Auditoria e a finalidade de cada informação registrada.
+
+<table><thead><tr><th width="151.77777099609375">Campo</th><th>Descrição</th></tr></thead><tbody><tr><td><strong>ID Log</strong></td><td>Identificador único do registro de auditoria, gerado automaticamente pelo sistema.</td></tr><tr><td><strong>Tipo de Log</strong></td><td>Categoria do evento registrado, como <strong>Usuário</strong>, <strong>Grupo de Usuários</strong>, <strong>Solicitação</strong>, <strong>Auditoria</strong>, entre outras, conforme a operação executada.</td></tr><tr><td><strong>Data/Hora</strong></td><td>Data e horário em que a ação foi realizada. O preenchimento é automático.</td></tr><tr><td><strong>Origem (IP)</strong></td><td>Endereço IP do dispositivo que originou a operação. Registrado automaticamente para fins de rastreabilidade.</td></tr><tr><td><strong>Objeto</strong></td><td>Elemento afetado pela ação, como documento, caixa, usuário, grupo, projeto ou outra entidade do sistema.</td></tr><tr><td><strong>Ação</strong></td><td>Operação executada pelo usuário ou pelo sistema, como criação, alteração, exclusão, movimentação, bloqueio ou tentativa de acesso.</td></tr><tr><td><strong>Cliente</strong></td><td>Cliente ao qual a operação está vinculada. Quando aplicável, corresponde ao cliente selecionado no contexto da ação.</td></tr><tr><td><strong>Projeto</strong></td><td>Projeto relacionado ao registro de auditoria. Caso a ação não esteja vinculada a um projeto específico, o campo poderá ser apresentado como <strong>N/A</strong>.</td></tr><tr><td><strong>Usuário</strong></td><td>Nome do usuário responsável pela execução da ação.</td></tr><tr><td><strong>ID Usuário</strong></td><td>Identificador único do usuário responsável pela operação.</td></tr><tr><td><strong>Observações</strong></td><td>Informações complementares sobre o evento registrado, como detalhes da operação, justificativas, valores alterados, mensagens de sucesso, falha, bloqueios ou outras informações relevantes para auditoria.</td></tr></tbody></table>
+
+</details>
+
+
+
+
+
+
+
 <a href="./" class="button secondary" data-icon="circle-left">Voltar</a>

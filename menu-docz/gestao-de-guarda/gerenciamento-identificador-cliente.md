@@ -32,6 +32,4 @@ O campo  <kbd>Último número bipado</kbd>  exibirá o código da última caixa 
 
 
 
-
-
-<a href="./" class="button secondary" data-icon="circle-left">Retornar para anterior</a>
+<a href="./" class="button secondary" data-icon="circle-left">Voltar</a>

@@ -101,6 +101,7 @@
   * [Gerenciar veículos](menu-docz/transporte/gerenciar-veiculos.md)
   * [Responsáveis pelo transporte](menu-docz/transporte/responsaveis-pelo-transporte.md)
 * [GESTÃO DE GUARDA](menu-docz/gestao-de-guarda/README.md)
+  * [Auditorias](menu-docz/gestao-de-guarda/auditorias.md)
   * [Tipos de Objeto](menu-docz/gestao-de-guarda/tipos-de-objeto.md)
   * [Gerenciamento do Armazém](menu-docz/gestao-de-guarda/gerenciamento-do-armazem.md)
   * [Visualizar mapa do Armazém](menu-docz/gestao-de-guarda/visualizar-mapa-do-armazem.md)

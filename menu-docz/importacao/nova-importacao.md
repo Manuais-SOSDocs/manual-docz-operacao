@@ -9,7 +9,7 @@ description: >-
 
 Esta tela permite realizar a importação em massa de metadados no DocZ, com a opção de aplicar automaticamente a classificação dos registros conforme regras previamente configuradas.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 📥 Passo a passo para realizar a importação de metadados
 
@@ -22,7 +22,7 @@ No **menu lateral**, acesse:\
 {% step %}
 No campo **Projeto**, selecione o projeto no qual os metadados serão importados.
 
-<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -30,7 +30,7 @@ Na **grade à esquerda**, serão exibidas as pastas existentes no repositório d
 
 Selecione a pasta para a qual deseja importar os metadados.
 
-<figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -38,7 +38,7 @@ Na grade à direita, será exibida a lista e a ordem dos campos que devem ser pr
 
 Nessa mesma área, o usuário pode **realizar o download do modelo** de importação, disponível nos formatos **Excel ou CSV**.
 
-<figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -56,17 +56,17 @@ Importações de planilhas com **mais de 10 mil linhas** são iniciadas na data 
 Quando a planilha possuir **até 10 mil linhas**, ao clicar em <mark style="color:green;">**Agendar Importação**</mark>, o processamento é realizado **imediatamente**, sem necessidade de agendamento prévio.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 Após preencher corretamente o modelo de importação, realize o **upload do arquivo** na tela.
 
-<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
-Para concluir o processo, clique em <img src="../../.gitbook/assets/image (14) (1).png" alt="" data-size="line"> para iniciar ou programar o processamento.
+Para concluir o processo, clique em <img src="../../.gitbook/assets/image (14) (1) (1).png" alt="" data-size="line"> para iniciar ou programar o processamento.
 {% endstep %}
 {% endstepper %}
 

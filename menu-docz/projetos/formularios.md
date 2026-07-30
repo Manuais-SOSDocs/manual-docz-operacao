@@ -27,13 +27,13 @@ Além disso, os dados configurados como fixos passam a integrar o **relatório a
 
 <details>
 
-<summary><strong>Criar novo formulário</strong> <img src="../../.gitbook/assets/image (5).png" alt="" data-size="original"></summary>
+<summary><strong>Criar novo formulário</strong> <img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="original"></summary>
 
-Ao clicar no ícone **“Novo Formulário”** ![](<../../.gitbook/assets/image (6).png>), localizado na parte superior da tela, o sistema abrirá automaticamente o **painel de criação** no lado direito.
+Ao clicar no ícone **“Novo Formulário”** ![](<../../.gitbook/assets/image (6) (1).png>), localizado na parte superior da tela, o sistema abrirá automaticamente o **painel de criação** no lado direito.
 
 Nesta etapa, todos os campos aparecerão **em branco**, prontos para serem preenchidos conforme os **parâmetros e necessidades do projeto**. Após inserir as informações desejadas, basta salvar para concluir o registro do novo formulário.
 
-Realize a criação e clique em ![](<../../.gitbook/assets/image (7).png>) para confirmar.
+Realize a criação e clique em ![](<../../.gitbook/assets/image (7) (1).png>) para confirmar.
 
 </details>
 
@@ -45,12 +45,12 @@ Para editar um formulário já cadastrado, selecione o item desejado na **lista 
 
 Ao clicar sobre o **título do formulário**, o sistema exibirá, no painel direito, o **formulário preenchido com os dados originais**. O título da tela será atualizado automaticamente para:
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
-Realize as alterações necessárias e clique em ![](<../../.gitbook/assets/image (9).png>) para confirmar.
+Realize as alterações necessárias e clique em ![](<../../.gitbook/assets/image (9) (1).png>) para confirmar.
 
 {% hint style="info" %}
-**Dica:** Durante a edição, será exibido um **ícone de regras (**![](<../../.gitbook/assets/image (11).png>)**)** ao lado do título. A partir dele, é possível definir as **regras de acesso** e controle de uso do formulário, garantindo maior segurança e personalização.
+**Dica:** Durante a edição, será exibido um **ícone de regras (**![](<../../.gitbook/assets/image (11) (1).png>)**)** ao lado do título. A partir dele, é possível definir as **regras de acesso** e controle de uso do formulário, garantindo maior segurança e personalização.
 {% endhint %}
 
 </details>
@@ -61,7 +61,7 @@ Realize as alterações necessárias e clique em ![](<../../.gitbook/assets/imag
 
 A habilitação da funcionalidade é realizada pelo administrador do projeto através da configuração dos formulários de indexação.
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% stepper %}
 {% step %}
@@ -75,13 +75,13 @@ Ao criar um novo formulário, o administrador deverá selecionar o tipo:
 
 Esse novo tipo de formulário é utilizado exclusivamente para os fluxos de validação dos dados extraídos pela Inteligência Artificial.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 Para que a funcionalidade seja disponibilizada aos usuários, os seguintes parâmetros devem estar configurados:
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><p><strong>Etapa Indexação - Entrada</strong></p><p>Define a etapa documental em que o documento será considerado apto para validação.</p><p>Exemplo:</p><ul><li>IA Processada</li><li>Aguardando Validação</li><li>Extração Concluída</li></ul></td></tr><tr><td><p><strong>Etapa Indexação - Saída</strong></p><p>Define a etapa para a qual o documento será encaminhado após a validação.</p><p>Exemplo:</p><ul><li>Validado</li><li>Indexado</li><li>Liberado para Processo</li></ul></td></tr></tbody></table>
 {% endstep %}

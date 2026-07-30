@@ -14,7 +14,7 @@ Essas regras permitem:
 * Aplicar a classificação automaticamente no momento da importação, sem necessidade de ação manual.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -26,13 +26,13 @@ Essas regras permitem:
 {% step %}
 Comece Configurando as Regras
 
-<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
 Escolha o projeto no qual as regras serão aplicadas.
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -43,7 +43,7 @@ Configure as condições que determinarão a classificação:
 * **Campo 2** (opcional)
 * **Valor 2**
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 Os campos disponíveis são carregados dinamicamente a partir da configuração do projeto.
 
@@ -83,7 +83,7 @@ Você pode usar **uma ou duas informações** para criar essa regra.
 {% step %}
 Selecione a classificação que será aplicada quando as condições forem atendidas.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -102,7 +102,7 @@ Ao selecionar uma classificação:
 {% endstep %}
 
 {% step %}
-Clique em <img src="../../.gitbook/assets/image (20).png" alt="" data-size="line"> para registrar a regra.
+Clique em <img src="../../.gitbook/assets/image (20) (1).png" alt="" data-size="line"> para registrar a regra.
 {% endstep %}
 {% endstepper %}
 
@@ -112,11 +112,11 @@ Ação concluída, os regras configuradas aparecem na grade abaixo.
 
 #### Mais configurações disponiveis:
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
-<summary><img src="../../.gitbook/assets/image (21).png" alt=""> Editar parâmetros existentes</summary>
+<summary><img src="../../.gitbook/assets/image (21) (1).png" alt=""> Editar parâmetros existentes</summary>
 
 {% hint style="warning" %}
 Ao editar uma regra, a nova configuração será aplicada **apenas nas próximas importações**.\
@@ -126,12 +126,12 @@ As importações realizadas anteriormente **permanecem com a regra que estava vi
 1. Na parte inferior da tela, localize a **grade de Configurações Disponíveis**, onde são exibidas todas as regras de classificação já cadastradas.
 2.  Identifique a regra que deseja alterar e clique no **ícone de edição** correspondente.
 
-    <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 3.  Após clicar em editar, a seção **Configurar Classificação Automática**, localizada na parte superior da tela, será carregada automaticamente com os **campos já preenchidos**, conforme os parâmetros definidos no cadastro original da regra.<br>
 
-    <figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (26) (1).png" alt=""><figcaption></figcaption></figure>
 4. O usuário poderá **alterar os campos, valores ou a classificação**, de acordo com a necessidade.
-5. Após realizar as alterações desejadas, clique no botão <img src="../../.gitbook/assets/image (27).png" alt="" data-size="line"> para salvar as modificações.
+5. Após realizar as alterações desejadas, clique no botão <img src="../../.gitbook/assets/image (27) (1).png" alt="" data-size="line"> para salvar as modificações.
 
 {% hint style="success" %}
 Atualização concluída
@@ -141,7 +141,7 @@ Atualização concluída
 
 <details>
 
-<summary><img src="../../.gitbook/assets/image (22).png" alt=""> Excluir regras</summary>
+<summary><img src="../../.gitbook/assets/image (22) (1).png" alt=""> Excluir regras</summary>
 
 {% hint style="warning" %}
 Ao excluir uma regra, **ela deixa de ser aplicada nas próximas** importações.\
@@ -151,11 +151,11 @@ As **importações realizadas anteriormente permanecem com a regra** que estava 
 1. Na grade **Configurações Disponíveis**, localize a regra que deseja excluir.
 2.  Ao lado do ícone de edição, clique no **ícone “X”**, que representa a ação de exclusão.<br>
 
-    <figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 3.  Será exibida uma **mensagem de confirmação**.\
     Confirme a ação para prosseguir.<br>
 
-    <figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (29) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Após a confirmação, a regra será **excluída do sistema**.
@@ -178,7 +178,7 @@ O usuário pode digitar um termo relacionado à regra desejada, como:
 
 À medida que o termo é informado, a listagem de **Configurações Disponíveis** é filtrada automaticamente, exibindo apenas os registros que correspondem ao critério de busca.
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 

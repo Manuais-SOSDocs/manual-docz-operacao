@@ -54,4 +54,4 @@ Preencha o formulário com as informações sobre a estrutura e depois clique em
 
 
 
-<a href="./" class="button secondary" data-icon="circle-left">Retornar para anterior</a>
+<a href="./" class="button secondary" data-icon="circle-left">Voltar</a>
