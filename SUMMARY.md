@@ -131,15 +131,14 @@
 
 ## Base de conhecimento
 
-***
-
-* [DocZ Learning](docz-learning/README.md)
-  * [Missão: Guardiões da informação](docz-learning/missao-guardioes-da-informacao/README.md)
-    * [Nível 1 – Exploradora de Documentos](docz-learning/missao-guardioes-da-informacao/nivel-1-exploradora-de-documentos.md)
-    * [Nível 2 – Protetora da Memória](docz-learning/missao-guardioes-da-informacao/nivel-2-protetora-da-memoria.md)
-    * [Nível 3 – Justiceiro das decisões finais](docz-learning/missao-guardioes-da-informacao/nivel-3-justiceiro-das-decisoes-finais.md)
-    * [Nível 4 – Mestre dos Princípios Arquivísticos](docz-learning/missao-guardioes-da-informacao/nivel-4-mestre-dos-principios-arquivisticos.md)
-    * [Nível 5 – Estrategista da Informação](docz-learning/missao-guardioes-da-informacao/nivel-5-estrategista-da-informacao.md)
-    * [Nível 6 – Guardiã digital](docz-learning/missao-guardioes-da-informacao/nivel-6-guardia-digital.md)
-    * [O desafio final!](docz-learning/missao-guardioes-da-informacao/o-desafio-final.md)
-    * [Parabéns, Guardiã da Informação!](docz-learning/missao-guardioes-da-informacao/parabens-guardia-da-informacao.md)
+* [DocZ Learning](base-de-conhecimento/docz-learning/README.md)
+  * [Missão: Guardiões da informação](base-de-conhecimento/docz-learning/missao-guardioes-da-informacao/README.md)
+    * [Nível 1 – Exploradora de Documentos](base-de-conhecimento/docz-learning/missao-guardioes-da-informacao/nivel-1-exploradora-de-documentos.md)
+    * [Nível 2 – Protetora da Memória](base-de-conhecimento/docz-learning/missao-guardioes-da-informacao/nivel-2-protetora-da-memoria.md)
+    * [Nível 3 – Justiceiro das decisões finais](base-de-conhecimento/docz-learning/missao-guardioes-da-informacao/nivel-3-justiceiro-das-decisoes-finais.md)
+    * [Nível 4 – Mestre dos Princípios Arquivísticos](base-de-conhecimento/docz-learning/missao-guardioes-da-informacao/nivel-4-mestre-dos-principios-arquivisticos.md)
+    * [Nível 5 – Estrategista da Informação](base-de-conhecimento/docz-learning/missao-guardioes-da-informacao/nivel-5-estrategista-da-informacao.md)
+    * [Nível 6 – Guardiã digital](base-de-conhecimento/docz-learning/missao-guardioes-da-informacao/nivel-6-guardia-digital.md)
+    * [O desafio final!](base-de-conhecimento/docz-learning/missao-guardioes-da-informacao/o-desafio-final.md)
+    * [Parabéns, Guardiã da Informação!](base-de-conhecimento/docz-learning/missao-guardioes-da-informacao/parabens-guardia-da-informacao.md)
+* [Manual Docz - Cliente](https://app.gitbook.com/o/fdQz30DUEfa8MUwNSVNL/s/TOkpktW1KcGIR73wpKDq/)

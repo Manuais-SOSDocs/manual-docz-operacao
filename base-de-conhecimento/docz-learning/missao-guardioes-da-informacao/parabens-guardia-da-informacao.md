@@ -9,7 +9,7 @@ icon: user-graduate
 
 # Parabéns, Guardiã da Informação!
 
-<figure><img src="../../.gitbook/assets/Guardiões da Informação (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Guardiões da Informação (5).png" alt=""><figcaption></figcaption></figure>
 
 ## 🏅 Seu certificado está pronto!
 
@@ -17,4 +17,4 @@ icon: user-graduate
 
 {% embed url="https://b24-dkem0c.bitrix24.site/crm_form_zvzwx/" %}
 
-<a href="../../menu-docz/painel.md" class="button primary" data-icon="house">Voltar para o ínicio</a>
+<a href="../../../menu-docz/painel.md" class="button primary" data-icon="house">Voltar para o ínicio</a>
