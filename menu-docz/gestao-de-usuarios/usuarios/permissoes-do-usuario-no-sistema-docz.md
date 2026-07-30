@@ -7,7 +7,7 @@ hidden: true
 
 Cada permissão define as funcionalidades e ações que o usuário pode executar dentro do sistema. Esta tabela tem como objetivo servir de **referência rápida e prática**, auxiliando na **compreensão de cada permissão** disponível e no **ajuste seguro dos perfis de acesso**.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Permissões no sistema DocZ
 
@@ -424,7 +424,7 @@ No menu lateral, acesse **Gestão de guarda** > **Gerenciar Arquivamento**, info
 
 <mark style="color:$info;">Também disponível no aplicativo.</mark>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 

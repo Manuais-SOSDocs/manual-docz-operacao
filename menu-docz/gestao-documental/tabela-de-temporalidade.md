@@ -24,7 +24,7 @@ Esta tela permite a gestão da **Tabela de Temporalidade Documental**, onde são
 
 <details>
 
-<summary><img src="../../.gitbook/assets/image.png" alt=""> - Editar código</summary>
+<summary><img src="../../.gitbook/assets/image (4).png" alt=""> - Editar código</summary>
 
 1. Acesse o menu **Gestão Documental > Tabela de Temporalidade**.
 2. Localize o código que deseja alterar.
@@ -56,7 +56,7 @@ Esta tela permite a gestão da **Tabela de Temporalidade Documental**, onde são
 
 <details>
 
-<summary><img src="../../.gitbook/assets/image (1).png" alt=""> - Excluir código</summary>
+<summary><img src="../../.gitbook/assets/image (1) (1).png" alt=""> - Excluir código</summary>
 
 
 
@@ -86,7 +86,7 @@ A exclusão de classificações pode impactar regras de temporalidade, destinaç
 
 <details>
 
-<summary><img src="../../.gitbook/assets/image (2).png" alt="" data-size="line"> - Novo código</summary>
+<summary><img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> - Novo código</summary>
 
 Esta pop-up permite incluir um novo item na Tabela de Temporalidade, definindo a classificação documental, os prazos de guarda e a destinação final dos documentos.
 
@@ -99,7 +99,7 @@ Esta pop-up permite incluir um novo item na Tabela de Temporalidade, definindo a
 
 <details>
 
-<summary><img src="../../.gitbook/assets/image (3).png" alt="" data-size="line"> - Exportar dados</summary>
+<summary><img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"> - Exportar dados</summary>
 
 A funcionalidade **Exportar Dados** permite gerar arquivos da Tabela de Temporalidade para consulta, auditoria, backup ou compartilhamento das estruturas classificatórias cadastradas no sistema.
 
@@ -153,7 +153,7 @@ Caso uma Subclasse seja informada, a exportação considerará apenas os registr
 
 <details>
 
-<summary><img src="../../.gitbook/assets/image (4).png" alt="" data-size="line"> - Histórico de versões</summary>
+<summary><img src="../../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> - Histórico de versões</summary>
 
 Essa pop-up exibe todo o histórico de alterações realizadas nos itens da **Tabela de Classificação e Temporalidade**. Permite rastrear operações de inclusão, alteração e exclusão, identificando quando, por quem e em qual item a ação foi feita.
 

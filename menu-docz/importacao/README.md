@@ -14,3 +14,5 @@ O acesso à configuração de classificação automática é restrito a usuário
 
 Caso seja necessário, o acesso deve ser solicitado ao suporte.
 {% endhint %}
+
+<a href="../painel.md" class="button secondary" data-icon="circle-left">Voltar</a>

@@ -9,7 +9,7 @@ description: >-
 
 Esta tela permite realizar a importação em massa de metadados no DocZ, com a opção de aplicar automaticamente a classificação dos registros conforme regras previamente configuradas.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 📥 Passo a passo para realizar a importação de metadados
 
@@ -76,7 +76,7 @@ Ação concluída.
 
 <details>
 
-<summary><mark style="color:$info;"><strong>🔁 Regras de Processamento da Importação</strong></mark></summary>
+<summary><mark style="color:$primary;"><strong>🔁 Regras de Processamento da Importação</strong></mark></summary>
 
 Durante o processo de importação de metadados, o sistema avalia o campo **Identificador SOS** para definir como cada registro será tratado:
 

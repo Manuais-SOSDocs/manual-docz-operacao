@@ -72,7 +72,7 @@ Selecione um dos modelos disponíveis.
 
 Os modelos definem apenas a estrutura visual do espelho.
 
-<div><figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Modelo 01</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Modelo 02</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Modelo 03</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Modelo 01</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Modelo 02</p></figcaption></figure> <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Modelo 03</p></figcaption></figure></div>
 
 **Logo (Opcional)**
 
@@ -80,7 +80,7 @@ Caso deseje exibir a logo no espelho:
 
 1.  Marque a opção **Incluir Logo**;
 
-    <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 2. Clique em **Selecionar Logo**;
 3. Escolha a imagem desejada.
 
@@ -99,7 +99,7 @@ Os campos exibidos no espelho são definidos em cada bloco da estrutura.
 {% step %}
 No bloco **Identificação**, escolha como o código de barras será gerado.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><p><strong>Código SOS</strong></p><p>Utiliza o identificador SOS da caixa.</p><p>Esta opção vem selecionada por padrão.</p></td></tr><tr><td><p><strong>Personalizado</strong></p><p>Permite utilizar:</p><ul><li>Identificador do Cliente (C5)</li><li>Número Concorrente (C11)</li></ul></td></tr></tbody></table>
 {% endstep %}

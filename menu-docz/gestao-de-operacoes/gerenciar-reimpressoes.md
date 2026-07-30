@@ -18,4 +18,4 @@ O download será iniciado automaticamente no seu computador.
 
 
 
-<a href="./" class="button secondary" data-icon="circle-left">Retornar para anterior</a>
+<a href="./" class="button secondary" data-icon="circle-left">Voltar</a>
