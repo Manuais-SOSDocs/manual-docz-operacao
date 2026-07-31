@@ -22,11 +22,11 @@ layout:
 
 # Visão Geral do DocZ
 
-O **DocZ** é um sistema inteligente de gestão documental que integra o controle físico e digital dos documentos. Ele organiza, rastreia e protege os arquivos em todas as etapas — do armazenamento à digitalização — garantindo agilidade, segurança e conformidade com as normas de gestão da informação.
+O DocZ é um Sistema Informatizado de Gestão Arquivística de Documentos (SIGAD), desenvolvido para gerenciar documentos arquivísticos em conformidade com os requisitos do e-ARQ Brasil. O sistema controla o ciclo de vida dos documentos, integrando a gestão dos acervos físicos e digitais, com funcionalidades para classificação, indexação, armazenamento, recuperação, preservação, temporalidade, destinação e rastreabilidade das informações, garantindo segurança, autenticidade e conformidade com as boas práticas de gestão documental.
 
 #### 🎯 Para que serve? <a href="#para-que-serve" id="para-que-serve"></a>
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>📂 Indexar e localizar documentos com precisão</td></tr><tr><td>📬 Solicitar serviços como guarda, retirada e digitalização</td></tr><tr><td>🧾 Gerenciar Ordens de Serviço com registro digital</td></tr><tr><td>📷 Visualizar imagens e fotos de objetos</td></tr><tr><td>📊 Gerar relatórios de acompanhamento</td></tr><tr><td>🔄 Compartilhar objetos com controle de acesso</td></tr><tr><td>🏷️ Identificar materiais com etiquetas inteligentes</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>📁 Classificar, indexar e localizar documentos e objetos arquivísticos</td></tr><tr><td>📦 Controlar a guarda e movimentação dos acervos</td></tr><tr><td>🧾 Gerenciar Ordens de Serviço com registro digital</td></tr><tr><td>🖥️ Administrar os objetos com controle de versões, preservação e metadados</td></tr><tr><td>📑 Aplicar a Tabela de Temporalidade e acompanhar prazos de guarda e destinação documental</td></tr><tr><td>🔐 Garantir controle de acesso, auditoria e cadeia de custódia dos objetos</td></tr><tr><td>🏷️ Identificar e rastrear objetos utilizando etiquetas inteligentes e códigos de identificação</td></tr><tr><td>📊 Emitir relatórios gerenciais para acompanhamento das operações</td></tr><tr><td>🔄 Integrar a gestão documental com sistemas corporativos, como SEI, BPM e ERPs, por meio de integrações e APIs</td></tr><tr><td>📮 Compartilhar objetos com controle de acesso</td></tr></tbody></table>
 
 #### Estrutura do DocZ
 
