@@ -33,7 +33,7 @@
 ## Menu DocZ
 
 * [PAINEL](menu-docz/painel.md)
-* [SMARTDOCS](menu-docz/smartdocs.md)
+* [SmartDocs](menu-docz/smartdocs.md)
 * [PROJETOS](menu-docz/projetos/README.md)
   * [Como cadastrar e editar projetos.](menu-docz/projetos/como-cadastrar-e-editar-projetos..md)
   * [Embarque de metadados](menu-docz/projetos/embarque-de-metadados.md)
