@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Controle de prazos e destinações
 
 A funcionalidade **Controle de Prazos e Destinações** permite acompanhar documentos que possuem prazo de guarda definido na Tabela de Temporalidade e executar ações relacionadas à sua destinação documental.

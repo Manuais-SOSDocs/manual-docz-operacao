@@ -1,5 +1,23 @@
 ---
 description: MENU > GESTÃO DE GUARDA > GERENCIAMENTO IDENTIFICADOR CLIENTE
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Gerenciamento Identificador Cliente

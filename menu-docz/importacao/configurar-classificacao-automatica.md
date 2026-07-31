@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Configurar classificação automática
 
 Nesta tela, o usuário pode definir regras para que os objetos importados sejam classificados automaticamente, reduzindo o esforço manual e garantindo maior padronização das informações.

@@ -1,5 +1,23 @@
 ---
 description: MENU > GESTÃO DE GUARDA > CONFIRMAR O.S. POR TOKEN
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Confirmar O.S. por Token

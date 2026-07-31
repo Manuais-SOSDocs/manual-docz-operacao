@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Relatórios de Ações de Usuários
 
 A funcionalidade **Relatórios de Ações de Usuários** permite consultar e gerar relatórios relacionados às operações realizadas pelos usuários no sistema DocZ, especialmente atividades vinculadas à geração de etiquetas e processos de implantação, indexação e catalogação documental.

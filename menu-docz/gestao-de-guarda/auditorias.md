@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Auditorias
 
 O módulo de Auditoria foi desenvolvido para validar a conformidade entre o inventário físico armazenado nos módulos de guarda e as informações registradas no sistema.

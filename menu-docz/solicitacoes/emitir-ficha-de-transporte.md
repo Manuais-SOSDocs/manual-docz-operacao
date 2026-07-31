@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Emitir ficha de transporte
 
 A funcionalidade **Ficha de Transporte de Documentos** permite formalizar e registrar a movimentação de caixas e documentos entre locais de origem e destino.

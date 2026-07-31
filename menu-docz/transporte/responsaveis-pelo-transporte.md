@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Responsáveis pelo transporte
 
 Esta tela permite **gerenciar os colaboradores responsáveis pelo transporte**, como motoristas e ajudantes, garantindo controle centralizado, padronização das informações e uso correto desses dados nas operações de transporte.
