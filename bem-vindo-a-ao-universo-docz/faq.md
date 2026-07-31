@@ -511,7 +511,7 @@ O DocZ utiliza níveis de controle de acesso, cada um com uma finalidade especí
 
 <details>
 
-<summary><strong>O que é o Identificador SOS (ID SOS)?</strong></summary>
+<summary>O que é o Identificador SOS (ID SOS)?</summary>
 
 O **ID SOS** é um código único gerado pelo sistema DocZ para identificar cada objeto (caixa ou documento).
 
@@ -564,6 +564,56 @@ Uma mesma DC pode possuir um ou mais arquivos associados.
 A Etapa Documental representa a fase em que um documento se encontra dentro do fluxo de tratamendo definido pelo projeto.
 
 Ela pode ser utilizada para controlar regras de negócio, automatizar processos e restringir determinadas operações conforme a situação do documento.
+
+</details>
+
+#### 🔁 Integração DocZ × SEI
+
+<details>
+
+<summary>Como funciona o envio de documentos para o SEI?</summary>
+
+O envio ao SEI é realizado de forma automatizada após a conclusão do fluxo documental definido para o projeto. Antes do envio, o documento deve percorrer todas as etapas previstas pela organização, como digitalização, indexação, classificação, avaliação e, quando aplicável, assinatura digital, além de atender aos requisitos e metadados exigidos pela entidade. Após o documento atingir a etapa documental configurada para a integração, geralmente após a assinatura, o DocZ o identifica como apto para envio e a aplicação responsável pela integração realiza automaticamente a transmissão ao SEI, sem necessidade de novas ações do usuário.
+
+</details>
+
+<details>
+
+<summary>O envio para o SEI acontece imediatamente?</summary>
+
+Não. O envio é executado por um serviço de integração que verifica periodicamente os documentos marcados para envio. Durante esse processo, o documento passa pelos status **"Enviando para o SEI"** e, após a conclusão, **"Enviado para o SEI/Concluído"**.
+
+</details>
+
+<details>
+
+<summary>O usuário precisa acessar o SEI para enviar os documentos?</summary>
+
+Não. O usuário apenas marca o documento para envio. A comunicação com o SEI é realizada automaticamente pela integração configurada para o ambiente.
+
+</details>
+
+<details>
+
+<summary>Quais informações são necessárias para que o envio seja realizado?</summary>
+
+Antes do envio, é necessário que o documento possua os metadados obrigatórios definidos para a integração e esteja configurado para visualização externa no SEI. Caso esses requisitos não sejam atendidos, o envio poderá ser recusado.
+
+</details>
+
+<details>
+
+<summary>É possível acompanhar o andamento do envio?</summary>
+
+Sim. O DocZ atualiza automaticamente o status do documento durante todo o processo de integração, permitindo identificar quando ele está em processamento ou quando o envio foi concluído com sucesso.
+
+</details>
+
+<details>
+
+<summary>Todos os projetos utilizam a mesma configuração de integração?</summary>
+
+Não. Os parâmetros da integração podem variar conforme o projeto e as especificações adotadas pelo órgão ou entidade que utiliza o SEI.
 
 </details>
 
