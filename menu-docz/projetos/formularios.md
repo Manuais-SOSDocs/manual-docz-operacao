@@ -39,6 +39,29 @@ Realize a criação e clique em ![](<../../.gitbook/assets/image (7) (1).png>) p
 
 <details>
 
+<summary><strong>Regras de acesso</strong> <img src="../../.gitbook/assets/image (622).png" alt=""></summary>
+
+As regras de acesso aos documentos são definidas no Formulário de Indexação, onde é possível configurar os usuários e grupos autorizados a visualizar ou acessar os documentos associados ao formulário.
+
+#### Para configurar as regras de acesso:
+
+1. Acesse **Projetos > Formulários**.
+2. Selecione o formulário desejado ou crie um novo, caso necessário.
+3.  Na barra superior da tela, clique no ícone ( ![](<../../.gitbook/assets/image (624).png>) ) **Regras de Acesso**.<br>
+
+    <figure><img src="../../.gitbook/assets/image (623).png" alt=""><figcaption></figcaption></figure>
+4.  Na janela exibida, selecione os **grupos** e/ou **usuários** que terão permissão para executar as ações relacionadas ao formulário.<br>
+
+    <figure><img src="../../.gitbook/assets/image (625).png" alt=""><figcaption></figcaption></figure>
+5. Clique em **Adicionar** para incluí-los na lista de usuários e grupos autorizados.
+6. Salve as alterações.
+
+> **Importante:** As regras de acesso configuradas no formulário são utilizadas pelo DocZ para controlar quais usuários e grupos poderão acessar e executar as operações permitidas nos documentos vinculados a esse Formulário de Indexação.
+
+</details>
+
+<details>
+
 <summary><strong>Editar formulário existente ✏️</strong></summary>
 
 Para editar um formulário já cadastrado, selecione o item desejado na **lista lateral esquerda**.

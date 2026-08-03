@@ -19,7 +19,11 @@ Cada permissão define as funcionalidades e ações que o usuário pode executar
 
 <summary>Administrador</summary>
 
-Acesso total ao sistema. Pode visualizar, editar, excluir e configurar qualquer funcionalidade e dados.
+Concede acesso irrestrito ao sistema, permitindo visualizar, cadastrar, editar, excluir e configurar todas as funcionalidades e informações.
+
+{% hint style="warning" %}
+Apenas usuários com essa permissão podem atribuí-la a outros usuários.
+{% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (615).png" alt=""><figcaption></figcaption></figure>
 
@@ -317,15 +321,20 @@ Para saber como fazer o carregamento de arquivos, [**acesse aqui o passo a passo
 
 <summary>Indexar arquivos</summary>
 
-Usuários com esta permissão habilitada podem cadastrar e atribuir metadados aos documentos no sistema, com o objetivo de facilitar a busca e a organização dos arquivos.
+Permite editar os metadados dos arquivos vinculados a um objeto.
 
-Para acessar os formulários de indexação, vá até a aba **Pesquisar**. Acima da grade que indica o repositório (caixas e documentos), clique no ícone <img src="../../../.gitbook/assets/image (595).png" alt="" data-size="line"> para abrir a tela de detalhes. A partir dessa tela, será possível acessar os formulários disponíveis.
+<img src="https://manualsosdocs.gitbook.io/adm-docz/~gitbook/image?url=https%3A%2F%2F2165951091-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FH2zBMzYHjbRsfnTeRGr3%252Fuploads%252F73BGehoADfHWm7EzH7sj%252Fimage.png%3Falt%3Dmedia%26token%3D308a6e0a-c2bf-4fe7-98fc-3fecf66fc2ff&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=49a3d39f&#x26;sv=2" alt="" height="442" width="547">
 
-{% hint style="danger" %}
-Importante: o usuário deve estar incluído nos **grupos vinculados aos formulários** para conseguir visualizá-los e utilizá-los.
-{% endhint %}
+**Como utilizar**
 
-<figure><img src="../../../.gitbook/assets/image (596).png" alt=""><figcaption></figcaption></figure>
+1. Localize o objeto (caixa ou documento) por meio da pesquisa.
+2. Abra a [**View Object**](../../pesquisar/como-pesquisar-objetos/view-object/) do objeto desejado.
+3. Acesse a [**aba Arquivos**](../../pesquisar/como-pesquisar-objetos/view-object/aba-arquivos/).
+4. Localize o arquivo que deseja alterar e clique no ícone **Editar Metadados** ![](<../../../.gitbook/assets/image (620).png>). \
+   ![](<../../../.gitbook/assets/image (621).png>)
+5.  Realize as alterações necessárias e salve ( ![](<../../../.gitbook/assets/image (619).png>) ) as modificações.
+
+    ![](https://manualsosdocs.gitbook.io/adm-docz/~gitbook/image?url=https%3A%2F%2F2165951091-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FH2zBMzYHjbRsfnTeRGr3%252Fuploads%252FYr8MeojaVfscbOAMpYBq%252Fimage.png%3Falt%3Dmedia%26token%3D475d827e-7af9-4fef-9212-bd114f0a4a84\&width=768\&dpr=3\&quality=100\&sign=5b4304ac\&sv=2)
 
 </details>
 
