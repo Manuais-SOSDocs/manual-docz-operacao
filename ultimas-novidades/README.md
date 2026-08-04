@@ -26,7 +26,7 @@ layout:
     visible: true
 ---
 
-# O que há de novo no DocZ?
+# Últimas Novidades
 
 Este é o seu espaço para acompanhar tudo o que está mudando — e melhorando — no sistema. 🔄 Publicamos semanalmente as _release notes_, com melhorias, correções e novas funcionalidades. 📊 Trazemos também os destaques do trimestre, avanços em projetos e novidades que impactam diretamente sua experiência.
 
@@ -34,8 +34,8 @@ Este é o seu espaço para acompanhar tudo o que está mudando — e melhorando 
 
 <kbd>#TimeDocZ</kbd> <kbd>#OrgulhoDeSerSOSDocs</kbd> <kbd>#TecnologiaProdutos</kbd> <kbd>#GEDs</kbd>
 
-{% content-ref url="novidades-da-versao-publicada-em-14-07-2026..md" %}
-[novidades-da-versao-publicada-em-14-07-2026..md](novidades-da-versao-publicada-em-14-07-2026..md)
+{% content-ref url="novidades-da-versao-publicada-em-03-08-2026..md" %}
+[novidades-da-versao-publicada-em-03-08-2026..md](novidades-da-versao-publicada-em-03-08-2026..md)
 {% endcontent-ref %}
 
 {% content-ref url="repositorio-release-notes/" %}

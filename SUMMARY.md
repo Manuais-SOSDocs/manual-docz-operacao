@@ -27,7 +27,8 @@
     * [Novidades da Versão Publicada em 28/05/2026.](ultimas-novidades/repositorio-release-notes/novidades-da-versao-publicada-em-28-05-2026..md)
     * [Novidades da Versão Publicada em 07/07/2026.](ultimas-novidades/repositorio-release-notes/novidades-da-versao-publicada-em-07-07-2026..md)
     * [Resumo 2025](ultimas-novidades/repositorio-release-notes/resumo-2025.md)
-  * [Novidades da Versão Publicada em 14/07/2026.](ultimas-novidades/novidades-da-versao-publicada-em-14-07-2026..md)
+    * [Novidades da Versão Publicada em 14/07/2026.](ultimas-novidades/repositorio-release-notes/novidades-da-versao-publicada-em-14-07-2026..md)
+  * [Novidades da Versão Publicada em 03/08/2026.](ultimas-novidades/novidades-da-versao-publicada-em-03-08-2026..md)
 * [Visão Geral do DocZ](visao-geral-do-docz.md)
 
 ## Menu DocZ
@@ -96,6 +97,7 @@
   * [Controle de prazos e destinações](menu-docz/gestao-documental/controle-de-prazos-e-destinacoes.md)
   * [Tipos de Arquivo Documento](menu-docz/gestao-documental/tipos-de-arquivo-documento.md)
   * [Projeto Etapa Indexação](menu-docz/gestao-documental/projeto-etapa-indexacao.md)
+  * [Dashboard Indexação por IA](menu-docz/gestao-documental/dashboard-indexacao-por-ia.md)
 * [TRANSPORTE](menu-docz/transporte/README.md)
   * [Gestão de transporte](menu-docz/transporte/gestao-de-transporte.md)
   * [Gerenciar veículos](menu-docz/transporte/gerenciar-veiculos.md)
