@@ -124,12 +124,15 @@ A certificação atesta que o sistema foi avaliado conforme os requisitos estabe
 
 {% columns %}
 {% column width="41.66666666666667%" %}
-![](https://manualsosdocs.gitbook.io/adm-docz/~gitbook/image?url=https%3A%2F%2F2165951091-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FH2zBMzYHjbRsfnTeRGr3%252Fuploads%252FL3B7tJcuXMjA07XXtVqk%252FSelo_194.png%3Falt%3Dmedia%26token%3D137b6ab2-1e54-4621-939a-3329ce938d8c\&width=768\&dpr=3\&quality=100\&sign=a9b6da7a\&sv=2)
+<figure><img src="https://manualsosdocs.gitbook.io/adm-docz/~gitbook/image?url=https%3A%2F%2F2165951091-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FH2zBMzYHjbRsfnTeRGr3%252Fuploads%252FL3B7tJcuXMjA07XXtVqk%252FSelo_194.png%3Falt%3Dmedia%26token%3D137b6ab2-1e54-4621-939a-3329ce938d8c&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=a9b6da7a&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
 {% column width="58.33333333333333%" %}
-**Certificação:** SBIS Edição 2021 v5.2 **Sistema Certificado:** DocZ v2026.06 **Modalidade:** Segurança da Informação (S-RES)\
-**Estágio de Maturidade:** Estágio 1 – NGS2 **Número do** **Certificado:** nº 194
+**Certificação:** SBIS Edição 2021 v5.2 \
+**Sistema Certificado:** DocZ v2026.06\
+**Modalidade:** Segurança da Informação (S-RES)\
+**Estágio de Maturidade:** Estágio 1 – NGS2\
+**Número do** **Certificado:** nº 194
 {% endcolumn %}
 {% endcolumns %}
 
@@ -200,108 +203,138 @@ Foram implementados:
 
 ## Integrações
 
-Durante o semestre diversas APIs receberam novas capacidades.
+As integrações do DocZ foram aprimoradas para oferecer maior confiabilidade, flexibilidade e facilidade de integração com aplicações externas, apoiando diferentes cenários de negócio.
 
+**Destaques:**
+
+{% columns %}
+{% column %}
 <figure><img src="../.gitbook/assets/image (635).png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
 
-Entre elas:
-
-* Pesquisa via SmartDocs
-* APIs de indexação
-* APIs de comentários
-* APIs de Solicitações
-* Upload por API
-* Controle de arquivos enviados
-* Validação inteligente de localização
-* Melhorias de documentação
-
-***
+{% column %}
+* Novas capacidades para pesquisa e indexação
+* Evolução das APIs de Solicitações
+* Inclusão de comentários via API
+* Upload inteligente de arquivos
+* Validação automática de dados integrados
+* Maior controle sobre arquivos enviados
+* Documentação técnica atualizada
+{% endcolumn %}
+{% endcolumns %}
 
 ## Gestão de Solicitações
 
-O módulo recebeu diversas melhorias.
+As evoluções implementadas fortaleceram o gerenciamento das Ordens de Serviço, ampliando a visibilidade das operações, reduzindo atividades manuais e oferecendo informações mais precisas para acompanhamento e tomada de decisão.
 
-Entre elas:
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-* Novos filtros
-* Relatórios aprimorados
-* Status de transporte
-* Histórico das ações
-* Contagem automática de páginas digitalizadas
-* Pré-faturamento
-* Melhorias em cálculo de rotas
-* Correções em Ordens de Serviço
+**Principais avanços:**
 
-***
+{% columns %}
+{% column %}
+* Relatórios mais completos e flexíveis
+* Novos filtros para consultas e análises
+* Rastreabilidade das ações de transporte
+* Histórico detalhado das operações
+* Contabilização automática de páginas digitalizadas
+{% endcolumn %}
+
+{% column %}
+* Apoio ao pré-faturamento
+* Otimização do cálculo de rotas
+* Correções e melhorias no fluxo das Ordens de Serviço
+{% endcolumn %}
+{% endcolumns %}
+
+{% content-ref url="../menu-docz/solicitacoes/" %}
+[solicitacoes](../menu-docz/solicitacoes/)
+{% endcontent-ref %}
 
 ## Gestão de Arquivos
 
-Foram implementadas funcionalidades importantes para organização do acervo.
+O módulo de Pesquisar recebeu aprimoramentos voltados à organização do acervo, padronização das informações e flexibilização dos processos de indexação e consulta.
 
-Entre elas
+**Destaques:**
 
-* Pasta dinâmica na indexação
-* Download ZIP organizado
-* Inativação de arquivos
-* Organização de documentos
-* Melhorias nos espelhos
-* Espelhos personalizados para caixas
+{% columns %}
+{% column %}
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
-***
+* Exportação organizada de arquivos em ZIP
+* Melhor organização documental
+
+{% content-ref url="../menu-docz/pesquisar/como-pesquisar-objetos/resultados-da-pesquisa.md" %}
+[resultados-da-pesquisa.md](../menu-docz/pesquisar/como-pesquisar-objetos/resultados-da-pesquisa.md)
+{% endcontent-ref %}
+
+{% content-ref url="../menu-docz/pesquisar/como-pesquisar-objetos/view-object/aba-arquivos/" %}
+[aba-arquivos](../menu-docz/pesquisar/como-pesquisar-objetos/view-object/aba-arquivos/)
+{% endcontent-ref %}
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+* Indexação com seleção dinâmica de pastas
+
+{% content-ref url="../menu-docz/projetos/formularios.md" %}
+[formularios.md](../menu-docz/projetos/formularios.md)
+{% endcontent-ref %}
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+* Espelhos de visualização aprimorados
+* Personalização de espelhos para caixas
+
+{% content-ref url="../menu-docz/projetos/espelho-de-caixa.md" %}
+[espelho-de-caixa.md](../menu-docz/projetos/espelho-de-caixa.md)
+{% endcontent-ref %}
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+* Controle de inativação de arquivos
+
+> [_Disponível para configuração nos parâmetros do projeto._](../menu-docz/projetos/como-cadastrar-e-editar-projetos..md#explorando-o-formulario)
+
+{% content-ref url="../menu-docz/pesquisar/como-pesquisar-objetos/view-object/aba-arquivos/" %}
+[aba-arquivos](../menu-docz/pesquisar/como-pesquisar-objetos/view-object/aba-arquivos/)
+{% endcontent-ref %}
+{% endcolumn %}
+{% endcolumns %}
 
 ## Relatórios
 
-Diversos relatórios foram aprimorados.
+Os relatórios da plataforma foram aprimorados para oferecer informações mais completas, maior flexibilidade nas consultas e melhor suporte ao acompanhamento das operações.
 
-Novidades
+**Evoluções implementadas:**
 
-* Time Zone
-* Tipo de Data
-* Status de Transporte
-* Assinaturas Digitais
-* Carimbo de Tempo
-* Data de Finalização
-* Storage
-* Central de Downloads
-* Novas colunas
-* Melhorias de exportação
-
-***
+* Configuração de Time Zone
+* Novos tipos de data para filtros
+* Inclusão do status de transporte
+* Informações de assinaturas digitais
+* Identificação de carimbo de tempo
+* Inclusão da data de finalização
+* Novas métricas de Storage
+* Aprimoramentos na Central de Downloads
+* Novas colunas em relatórios
+* Melhorias na exportação
 
 ## Infraestrutura e Performance
 
-Também houve um grande conjunto de melhorias técnicas.
+Além das novas funcionalidades, o DocZ recebeu uma série de melhorias técnicas voltadas à estabilidade, desempenho e confiabilidade da plataforma, proporcionando uma experiência mais segura e consistente aos usuários.
 
-Entre elas
+**Principais evoluções:**
 
-* Melhor estabilidade
-* Melhorias de autenticação
-* Correções de APIs
-* Melhorias na indexação
-* Correções de desempenho
-* Ajustes em exportações
-* Correções em formulários
-* Correções em integrações
-* Melhorias na experiência do usuário
-
-***
-
-## Personalizações para Clientes
-
-Durante o semestre também foram entregues diversas customizações.
-
-Entre elas:
-
-* PRF
-* COFFITO
-* SPGG
-* NOVACAP
-* DER-DF
-* EMGEA
-* HMAB
-* SESC/SENAC
-
-***
+* Aprimoramentos de estabilidade e desempenho
+* Reforço dos mecanismos de autenticação
+* Evolução das APIs e integrações
+* Otimização dos processos de indexação
+* Melhorias nas exportações de dados
+* Ajustes em formulários e validações
+* Correções de consistência operacional
+* Evolução contínua da experiência do usuário&#x20;
 
 
 
+<a href="./" class="button secondary" data-icon="circle-left">Voltar</a>

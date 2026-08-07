@@ -58,7 +58,7 @@ Quando a pesquisa envolve um grande volume de dados, o sistema pode solicitar qu
 {% step %}
 Digite o código do endereço (Ex.: prateleira, caixa, estante, pallet).
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -66,7 +66,7 @@ Clique em  ![](<../../.gitbook/assets/image (329).png>) .
 
 Na grid abaixo, será exibido o número total de itens encontrados na localização.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}

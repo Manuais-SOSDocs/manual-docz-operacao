@@ -42,14 +42,14 @@ Esta tela permite a gestão da **Tabela de Temporalidade Documental**, onde são
 
 <details>
 
-<summary><img src="../../.gitbook/assets/image (4).png" alt=""> - Editar código</summary>
+<summary><img src="../../.gitbook/assets/image (4) (1).png" alt=""> - Editar código</summary>
 
 1. Acesse o menu **Gestão Documental > Tabela de Temporalidade**.
 2. Localize o código que deseja alterar.
 3.  Se necessário, arraste a barra de rolagem horizontal até o final da tabela para visualizar a coluna de **Ações**.
 
     ![](https://manualsosdocs.gitbook.io/adm-docz/~gitbook/image?url=https%3A%2F%2F2165951091-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FH2zBMzYHjbRsfnTeRGr3%252Fuploads%252FmUWeoJ3XpwCwKd57pnlS%252Fimage.png%3Falt%3Dmedia%26token%3Dcbd85ac8-23c4-4d3f-b849-feec01807b9a\&width=768\&dpr=3\&quality=100\&sign=c82cbe04\&sv=2)
-4. Clique no ícone **Editar** (![](<../../.gitbook/assets/image (8).png>)) correspondente ao código desejado.
+4. Clique no ícone **Editar** (![](<../../.gitbook/assets/image (8) (1).png>)) correspondente ao código desejado.
 5.  O sistema exibirá o formulário contendo os dados atualmente cadastrados para a classificação selecionada.
 
     <img src="https://manualsosdocs.gitbook.io/adm-docz/~gitbook/image?url=https%3A%2F%2F2165951091-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FH2zBMzYHjbRsfnTeRGr3%252Fuploads%252FltKvs165uJsh2bMlCiml%252Fimage.png%3Falt%3Dmedia%26token%3D5b03902f-a994-4416-b7d0-0ffd13d03627&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=24951c54&#x26;sv=2" alt="" width="563">
@@ -59,7 +59,7 @@ Esta tela permite a gestão da **Tabela de Temporalidade Documental**, onde são
    * Prazos de guarda;
    * Destinação final;
    * Demais informações da classificação.
-7. Clique em <img src="../../.gitbook/assets/image (7).png" alt="" data-size="line">.
+7. Clique em <img src="../../.gitbook/assets/image (7) (1).png" alt="" data-size="line">.
 8.  Após o salvamento, o sistema exibirá a mensagem:<br>
 
     <img src="https://manualsosdocs.gitbook.io/adm-docz/~gitbook/image?url=https%3A%2F%2F2165951091-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FH2zBMzYHjbRsfnTeRGr3%252Fuploads%252FV7yVVCIae6zDBs8RWxmT%252Fimage.png%3Falt%3Dmedia%26token%3D2614bf14-4019-4bd7-a493-8330bd0c2c06&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=dd04a769&#x26;sv=2" alt="" width="563">
@@ -74,7 +74,7 @@ Esta tela permite a gestão da **Tabela de Temporalidade Documental**, onde são
 
 <details>
 
-<summary><img src="../../.gitbook/assets/image (1) (1).png" alt=""> - Excluir código</summary>
+<summary><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""> - Excluir código</summary>
 
 
 
@@ -104,7 +104,7 @@ A exclusão de classificações pode impactar regras de temporalidade, destinaç
 
 <details>
 
-<summary><img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="line"> - Novo código</summary>
+<summary><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="line"> - Novo código</summary>
 
 Esta pop-up permite incluir um novo item na Tabela de Temporalidade, definindo a classificação documental, os prazos de guarda e a destinação final dos documentos.
 
@@ -117,7 +117,7 @@ Esta pop-up permite incluir um novo item na Tabela de Temporalidade, definindo a
 
 <details>
 
-<summary><img src="../../.gitbook/assets/image (3) (1).png" alt="" data-size="line"> - Exportar dados</summary>
+<summary><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="line"> - Exportar dados</summary>
 
 A funcionalidade **Exportar Dados** permite gerar arquivos da Tabela de Temporalidade para consulta, auditoria, backup ou compartilhamento das estruturas classificatórias cadastradas no sistema.
 
@@ -171,7 +171,7 @@ Caso uma Subclasse seja informada, a exportação considerará apenas os registr
 
 <details>
 
-<summary><img src="../../.gitbook/assets/image (4) (1).png" alt="" data-size="line"> - Histórico de versões</summary>
+<summary><img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" data-size="line"> - Histórico de versões</summary>
 
 Essa pop-up exibe todo o histórico de alterações realizadas nos itens da **Tabela de Classificação e Temporalidade**. Permite rastrear operações de inclusão, alteração e exclusão, identificando quando, por quem e em qual item a ação foi feita.
 
@@ -186,7 +186,7 @@ Essa pop-up exibe todo o histórico de alterações realizadas nos itens da **Ta
 
 <details>
 
-<summary><img src="../../.gitbook/assets/image (5).png" alt="" data-size="line"> - Baixar modelo</summary>
+<summary><img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="line"> - Baixar modelo</summary>
 
 Baixe o template oficial utilizado para inclusão ou atualização em lote de códigos e temporalidades. Use-o como base para preencher os dados corretamente.
 
@@ -196,7 +196,7 @@ Baixe o template oficial utilizado para inclusão ou atualização em lote de c�
 
 <details>
 
-<summary><img src="../../.gitbook/assets/image (6).png" alt="" data-size="line"> - Importar</summary>
+<summary><img src="../../.gitbook/assets/image (6) (1).png" alt="" data-size="line"> - Importar</summary>
 
 Faça o upload da planilha preenchida conforme o modelo disponibilizado. Essa funcionalidade permite incluir ou atualizar diversos registros de forma prática e automatizada.
 

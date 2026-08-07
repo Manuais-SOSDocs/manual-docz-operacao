@@ -23,7 +23,7 @@ layout:
 
 A funcionalidade **Relatórios de Ações de Usuários** permite consultar e gerar relatórios relacionados às operações realizadas pelos usuários no sistema DocZ, especialmente atividades vinculadas à geração de etiquetas e processos de implantação, indexação e catalogação documental.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 A tela apresenta filtros para definição dos critérios de pesquisa e geração dos relatórios.
 
@@ -49,7 +49,7 @@ A tela apresenta filtros para definição dos critérios de pesquisa e geração
 
 #### Ações disponíveis:
 
-<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><p><img src="../../.gitbook/assets/image.png" alt=""><br>Realiza a consulta com os filtros informados e apresenta os resultados na grade inferior.</p><p><strong>Quando utilizar:</strong></p><ul><li>Conferência prévia dos dados;</li><li>Validação dos filtros;</li><li>Verificação de volume antes da geração do relatório.</li></ul></td></tr><tr><td><p><img src="../../.gitbook/assets/image (1).png" alt=""><br>Processa a consulta e envia o relatório para geração.</p><p><strong>Resultado:</strong></p><p>O relatório poderá ser disponibilizado para download após o processamento.</p></td></tr><tr><td><p><img src="../../.gitbook/assets/image (2).png" alt=""><br>Abre a Central de Downloads do DocZ para acompanhamento e obtenção dos arquivos gerados.</p><p><strong>Recomendação:</strong></p><p>Utilize esta opção após gerar relatórios com grandes volumes de dados.</p></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><p><img src="../../.gitbook/assets/image (8).png" alt=""><br>Realiza a consulta com os filtros informados e apresenta os resultados na grade inferior.</p><p><strong>Quando utilizar:</strong></p><ul><li>Conferência prévia dos dados;</li><li>Validação dos filtros;</li><li>Verificação de volume antes da geração do relatório.</li></ul></td></tr><tr><td><p><img src="../../.gitbook/assets/image (1) (1).png" alt=""><br>Processa a consulta e envia o relatório para geração.</p><p><strong>Resultado:</strong></p><p>O relatório poderá ser disponibilizado para download após o processamento.</p></td></tr><tr><td><p><img src="../../.gitbook/assets/image (2) (1).png" alt=""><br>Abre a Central de Downloads do DocZ para acompanhamento e obtenção dos arquivos gerados.</p><p><strong>Recomendação:</strong></p><p>Utilize esta opção após gerar relatórios com grandes volumes de dados.</p></td></tr></tbody></table>
 
 <details>
 

@@ -27,13 +27,13 @@ Além disso, os dados configurados como fixos passam a integrar o **relatório a
 
 <details>
 
-<summary><strong>Criar novo formulário</strong> <img src="../../.gitbook/assets/image (5) (1).png" alt="" data-size="original"></summary>
+<summary><strong>Criar novo formulário</strong> <img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" data-size="original"></summary>
 
-Ao clicar no ícone **“Novo Formulário”** ![](<../../.gitbook/assets/image (6) (1).png>), localizado na parte superior da tela, o sistema abrirá automaticamente o **painel de criação** no lado direito.
+Ao clicar no ícone **“Novo Formulário”** ![](<../../.gitbook/assets/image (6) (1) (1).png>), localizado na parte superior da tela, o sistema abrirá automaticamente o **painel de criação** no lado direito.
 
 Nesta etapa, todos os campos aparecerão **em branco**, prontos para serem preenchidos conforme os **parâmetros e necessidades do projeto**. Após inserir as informações desejadas, basta salvar para concluir o registro do novo formulário.
 
-Realize a criação e clique em ![](<../../.gitbook/assets/image (7) (1).png>) para confirmar.
+Realize a criação e clique em ![](<../../.gitbook/assets/image (7) (1) (1).png>) para confirmar.
 
 </details>
 

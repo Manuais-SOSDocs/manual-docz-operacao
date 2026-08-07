@@ -23,7 +23,7 @@ layout:
 
 Esta tela permite **gerenciar os colaboradores responsáveis pelo transporte**, como motoristas e ajudantes, garantindo controle centralizado, padronização das informações e uso correto desses dados nas operações de transporte.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### ➕ Cadastrar novo colaborador
 
@@ -38,7 +38,7 @@ No **menu lateral**, acesse:\
 {% step %}
 Na tela **Responsáveis pelo Transporte**, clique no botão **Novo Colaborador**.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endstep %}
 
 {% step %}
@@ -47,7 +47,7 @@ Na primeira etapa, selecione o **tipo de colaborador**:
 * **Interno (Usuário SOS)**: colaborador já cadastrado como usuário do sistema.
 * **Terceirizado**: colaborador externo à instituição.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -61,7 +61,7 @@ Na primeira etapa, selecione o **tipo de colaborador**:
 * Motorista
 * Ajudante
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -80,13 +80,13 @@ Na primeira etapa, selecione o **tipo de colaborador**:
 * Motorista
 * Ajudante
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 {% endstep %}
 
 {% step %}
-Clique em <img src="../../.gitbook/assets/image (6) (1) (1).png" alt="" data-size="line"> para concluir o cadastro.
+Clique em <img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt="" data-size="line"> para concluir o cadastro.
 {% endstep %}
 {% endstepper %}
 
@@ -96,14 +96,14 @@ Ação concluída
 
 ### 🔧 Mais ações disponíveis
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <details>
 
 <summary>✏️ Editar colaborador</summary>
 
 1. Na lista de colaboradores, localize o registro desejado.
-2. Clique no **ícone de edição** ![](<../../.gitbook/assets/image (7) (1) (1).png>).
+2. Clique no **ícone de edição** ![](<../../.gitbook/assets/image (7) (1) (1) (1).png>).
 3. Altere as informações necessárias.
 4. Clique em **Salvar** para atualizar os dados.
 
@@ -114,7 +114,7 @@ Ação concluída
 <summary>🗑️ Excluir colaborador</summary>
 
 1. Na lista de colaboradores, localize o registro que deseja excluir.
-2. Clique no **ícone** ![](<../../.gitbook/assets/image (8) (1) (1).png>), que representa a ação de exclusão.
+2. Clique no **ícone** ![](<../../.gitbook/assets/image (8) (1) (1) (1).png>), que representa a ação de exclusão.
 3. Confirme a exclusão na mensagem exibida.
 
 {% hint style="success" %}
