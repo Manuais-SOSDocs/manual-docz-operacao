@@ -26,9 +26,10 @@
     * [Novidades da Versão Publicada em 19/05/2026.](ultimas-novidades/repositorio-release-notes/novidades-da-versao-publicada-em-19-05-2026..md)
     * [Novidades da Versão Publicada em 28/05/2026.](ultimas-novidades/repositorio-release-notes/novidades-da-versao-publicada-em-28-05-2026..md)
     * [Novidades da Versão Publicada em 07/07/2026.](ultimas-novidades/repositorio-release-notes/novidades-da-versao-publicada-em-07-07-2026..md)
-    * [Resumo 2025](ultimas-novidades/repositorio-release-notes/resumo-2025.md)
     * [Novidades da Versão Publicada em 14/07/2026.](ultimas-novidades/repositorio-release-notes/novidades-da-versao-publicada-em-14-07-2026..md)
   * [Novidades da Versão Publicada em 03/08/2026.](ultimas-novidades/novidades-da-versao-publicada-em-03-08-2026..md)
+  * [Retrospectiva DocZ - 1º semestre](ultimas-novidades/retrospectiva-docz-1o-semestre.md)
+  * [Resumo 2025](ultimas-novidades/resumo-2025.md)
 * [Visão Geral do DocZ](visao-geral-do-docz.md)
 
 ## Menu DocZ

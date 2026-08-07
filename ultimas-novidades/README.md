@@ -42,8 +42,8 @@ Este é o seu espaço para acompanhar tudo o que está mudando — e melhorando 
 [repositorio-release-notes](repositorio-release-notes/)
 {% endcontent-ref %}
 
-{% content-ref url="repositorio-release-notes/resumo-2025.md" %}
-[resumo-2025.md](repositorio-release-notes/resumo-2025.md)
+{% content-ref url="resumo-2025.md" %}
+[resumo-2025.md](resumo-2025.md)
 {% endcontent-ref %}
 
 

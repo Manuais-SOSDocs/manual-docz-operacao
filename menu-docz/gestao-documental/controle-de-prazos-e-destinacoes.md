@@ -204,6 +204,8 @@ Esse aviso tem como objetivo alertar o usuário antes da continuidade do process
 
 A funcionalidade **Recalcular Prazo de Guarda** permite atualizar a data de destinação de documentos sem alterar indevidamente outros metadados.
 
+<figure><img src="../../.gitbook/assets/image (627).png" alt=""><figcaption></figcaption></figure>
+
 Esta ação pode ser utilizada quando houver necessidade de:
 
 * Alterar a classificação documental;
