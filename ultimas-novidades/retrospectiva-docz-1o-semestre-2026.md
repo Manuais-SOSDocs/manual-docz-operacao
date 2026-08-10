@@ -8,10 +8,17 @@ icon: rocket-launch
 
 **Nos primeiros sete meses de 2026, o DocZ recebeu dezenas de evoluções focadas em quatro pilares estratégicos:**
 
+{% columns %}
+{% column %}
 * Gestão Documental
 * Segurança e Conformidade
+{% endcolumn %}
+
+{% column %}
 * Integrações e Automação
 * Eficiência Operacional
+{% endcolumn %}
+{% endcolumns %}
 
 Além de inúmeras correções e melhorias de estabilidade.
 
