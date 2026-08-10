@@ -1,12 +1,29 @@
 ---
-description: Janeiro à Julho de 2026
 hidden: true
 icon: rocket-launch
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Retrospectiva DocZ - 1º semestre - 2026
 
-**Nos primeiros meses de 2026, o DocZ recebeu dezenas de evoluções focadas em quatro pilares estratégicos:**
+**De Janeiro à Julho de 2026, o DocZ recebeu dezenas evoluções focadas em quatro pilares estratégicos:**
 
 {% columns %}
 {% column %}
