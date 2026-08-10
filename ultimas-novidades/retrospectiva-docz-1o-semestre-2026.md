@@ -6,7 +6,7 @@ icon: rocket-launch
 
 # Retrospectiva DocZ - 1º semestre - 2026
 
-**Nos primeiros sete meses de 2026, o DocZ recebeu dezenas de evoluções focadas em quatro pilares estratégicos:**
+**Nos primeiros meses de 2026, o DocZ recebeu dezenas de evoluções focadas em quatro pilares estratégicos:**
 
 {% columns %}
 {% column %}
