@@ -17,7 +17,7 @@ Além de inúmeras correções e melhorias de estabilidade.
 
 ## Números da evolução (estimativa)
 
-<table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th align="center">Categoria</th><th align="center">Entregas</th></tr></thead><tbody><tr><td align="center"><h4>Novas funcionalidades</h4></td><td align="center"><h2>22</h2></td></tr><tr><td align="center"><h4>Melhorias</h4></td><td align="center"><h2>45</h2></td></tr><tr><td align="center"><h4>Correções</h4></td><td align="center"><h2>35</h2></td></tr><tr><td align="center"><h4>Clientes atendidos</h4></td><td align="center"><h2>8+</h2></td></tr></tbody></table>
+<table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th align="center">Categoria</th><th align="center">Entregas</th></tr></thead><tbody><tr><td align="center"><h4>Novas funcionalidades</h4></td><td align="center"><h2>~22</h2></td></tr><tr><td align="center"><h4>Melhorias</h4></td><td align="center"><h2>~45</h2></td></tr><tr><td align="center"><h4>Correções</h4></td><td align="center"><h2>35</h2></td></tr><tr><td align="center"><h4>Clientes atendidos</h4></td><td align="center"><h2>8+</h2></td></tr></tbody></table>
 
 ## Gestão Documentale conformidade com o e-ARQ Brasil
 
@@ -309,16 +309,63 @@ Os relatórios da plataforma foram aprimorados para oferecer informações mais 
 
 **Evoluções implementadas:**
 
+{% columns %}
+{% column width="50%" %}
 * Configuração de Time Zone
-* Novos tipos de data para filtros
+
+<figure><img src="../.gitbook/assets/image (636).png" alt=""><figcaption></figcaption></figure>
+
+> O Time Zone é definido nos parâmetros do projeto conforme a região de atuação do cliente. Nos relatórios, o fuso selecionado é refletido no rodapé, indicando as respectivas datas e horários.
+
 * Inclusão do status de transporte
-* Informações de assinaturas digitais
-* Identificação de carimbo de tempo
-* Inclusão da data de finalização
-* Novas métricas de Storage
-* Aprimoramentos na Central de Downloads
 * Novas colunas em relatórios
+* Identificação de carimbo de tempo
+
+{% content-ref url="../menu-docz/gestao-de-operacoes/trilha-de-auditoria.md" %}
+[trilha-de-auditoria.md](../menu-docz/gestao-de-operacoes/trilha-de-auditoria.md)
+{% endcontent-ref %}
+{% endcolumn %}
+
+{% column width="50%" %}
+* Novos tipos de data para filtros
+
+<div align="left"><figure><img src="../.gitbook/assets/image (637).png" alt="" width="168"><figcaption></figcaption></figure></div>
+
+* Novas colunas em relatórios
+* Informações de assinaturas digitais
+* Inclusão da data de finalização
+
+{% content-ref url="../menu-docz/relatorios/relatorios-padrao.md" %}
+[relatorios-padrao.md](../menu-docz/relatorios/relatorios-padrao.md)
+{% endcontent-ref %}
+{% endcolumn %}
+{% endcolumns %}
+
+<figure><img src="../.gitbook/assets/image (638).png" alt=""><figcaption></figcaption></figure>
+
+{% columns %}
+{% column %}
+* Aprimoramentos na Central de Downloads
+{% endcolumn %}
+
+{% column %}
 * Melhorias na exportação
+{% endcolumn %}
+{% endcolumns %}
+
+<figure><img src="../.gitbook/assets/image (639).png" alt=""><figcaption><p>Imagens meramente ilustrativas. As informações apresentadas podem não refletir a versão mais atual do sistema.</p></figcaption></figure>
+
+{% content-ref url="../menu-docz/relatorios/central-de-downloads.md" %}
+[central-de-downloads.md](../menu-docz/relatorios/central-de-downloads.md)
+{% endcontent-ref %}
+
+* Novas métricas de **Storage**
+
+<figure><img src="../.gitbook/assets/image (640).png" alt=""><figcaption><p>Imagens meramente ilustrativas. As informações apresentadas podem não refletir a versão mais atual do sistema.</p></figcaption></figure>
+
+{% hint style="info" %}
+O acesso a esta funcionalidade depende das permissões atribuídas ao usuário. Atualmente, sua utilização requer a permissão de Administrador do Sistema.
+{% endhint %}
 
 ## Infraestrutura e Performance
 
@@ -326,14 +373,7 @@ Além das novas funcionalidades, o DocZ recebeu uma série de melhorias técnica
 
 **Principais evoluções:**
 
-* Aprimoramentos de estabilidade e desempenho
-* Reforço dos mecanismos de autenticação
-* Evolução das APIs e integrações
-* Otimização dos processos de indexação
-* Melhorias nas exportações de dados
-* Ajustes em formulários e validações
-* Correções de consistência operacional
-* Evolução contínua da experiência do usuário&#x20;
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>Aprimoramentos de estabilidade e desempenho</td></tr><tr><td>Reforço dos mecanismos de autenticação</td></tr><tr><td>Evolução das APIs e integrações</td></tr><tr><td>Otimização dos processos de indexação</td></tr><tr><td>Melhorias nas exportações de dados</td></tr><tr><td>Ajustes em formulários e validações</td></tr><tr><td>Correções de consistência operacional</td></tr><tr><td>Evolução contínua da experiência do usuário </td></tr></tbody></table>
 
 
 
