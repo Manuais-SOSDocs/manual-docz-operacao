@@ -38,6 +38,10 @@ Este é o seu espaço para acompanhar tudo o que está mudando — e melhorando 
 [novidades-da-versao-publicada-em-03-08-2026..md](novidades-da-versao-publicada-em-03-08-2026..md)
 {% endcontent-ref %}
 
+{% content-ref url="retrospectiva-docz-1o-semestre.md" %}
+[retrospectiva-docz-1o-semestre.md](retrospectiva-docz-1o-semestre.md)
+{% endcontent-ref %}
+
 {% content-ref url="repositorio-release-notes/" %}
 [repositorio-release-notes](repositorio-release-notes/)
 {% endcontent-ref %}
