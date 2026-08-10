@@ -26,7 +26,7 @@ Além de inúmeras correções e melhorias de estabilidade.
 
 <table data-card-size="large" data-column-title-hidden data-view="cards"><thead><tr><th align="center">Categoria</th><th align="center">Entregas</th></tr></thead><tbody><tr><td align="center"><h4>Novas funcionalidades</h4></td><td align="center"><h2>~22</h2></td></tr><tr><td align="center"><h4>Melhorias</h4></td><td align="center"><h2>~45</h2></td></tr><tr><td align="center"><h4>Correções</h4></td><td align="center"><h2>35</h2></td></tr><tr><td align="center"><h4>Clientes atendidos</h4></td><td align="center"><h2>8+</h2></td></tr></tbody></table>
 
-## Gestão Documentale conformidade com o e-ARQ Brasil
+## Gestão Documental e conformidade com o e-ARQ Brasil
 
 **Ciclo de vida documental mais inteligente**
 
