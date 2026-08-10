@@ -1,5 +1,5 @@
 ---
-description: Janeiro a Julho de 2026
+description: Janeiro à Julho de 2026
 hidden: true
 icon: rocket-launch
 ---
