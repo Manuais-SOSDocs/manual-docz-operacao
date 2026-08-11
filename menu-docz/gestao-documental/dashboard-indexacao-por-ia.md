@@ -35,8 +35,6 @@ Após selecionar os filtros desejados:
 * clique em **Aplicar Filtros** para atualizar os indicadores;
 * clique em **Limpar** para restaurar os filtros padrão.
 
-
-
 ## Indicadores do painel
 
 O Dashboard organiza as informações em quatro grupos principais.
@@ -45,7 +43,7 @@ O Dashboard organiza as informações em quatro grupos principais.
 
 {% columns %}
 {% column %}
-<figure><img src="../../.gitbook/assets/docz.sosdocs.com.br_Docz_app_dashboard_validacao_ia(laptop) (3).png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/docz.sosdocs.com.br_Docz_app_dashboard_validacao_ia(laptop) (3).png" alt=""><figcaption></figcaption></figure></div>
 
 **Volumetria Analisada**
 
@@ -59,7 +57,7 @@ São exibidos:
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../../.gitbook/assets/docz.sosdocs.com.br_Docz_app_dashboard_validacao_ia(laptop) (4).png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/docz.sosdocs.com.br_Docz_app_dashboard_validacao_ia(laptop) (4).png" alt=""><figcaption></figcaption></figure></div>
 
 **Resultado da IA**
 
@@ -74,9 +72,7 @@ Os indicadores são:
 
 {% columns %}
 {% column %}
-
-
-<figure><img src="../../.gitbook/assets/docz.sosdocs.com.br_Docz_app_dashboard_validacao_ia(laptop) (5).png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/docz.sosdocs.com.br_Docz_app_dashboard_validacao_ia(laptop) (5).png" alt=""><figcaption></figcaption></figure></div>
 
 **Índices Consolidados**
 
@@ -98,9 +94,7 @@ Os indicadores de Assertividade e Divergência são complementares e totalizam a
 {% endcolumn %}
 
 {% column %}
-
-
-<figure><img src="../../.gitbook/assets/docz.sosdocs.com.br_Docz_app_dashboard_validacao_ia(laptop) (6).png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../../.gitbook/assets/docz.sosdocs.com.br_Docz_app_dashboard_validacao_ia(laptop) (6).png" alt=""><figcaption></figcaption></figure></div>
 
 **Campos não Extraídos**
 
@@ -167,17 +161,21 @@ Lista os metadados obrigatórios que não foram preenchidos durante a indexaçã
 
 </details>
 
-***
-
 ## Mais informações:
 
-* #### Atualização dos indicadores
+<details>
+
+<summary>Atualização dos indicadores</summary>
 
 O cabeçalho do painel informa a data e a hora da última atualização dos indicadores.
 
 Sempre que os filtros forem alterados, os cards são recalculados com base nos critérios informados.
 
-* #### Ausência de dados
+</details>
+
+<details>
+
+<summary>Ausência de dados</summary>
 
 Caso não existam registros para os filtros selecionados:
 
@@ -187,9 +185,17 @@ Caso não existam registros para os filtros selecionados:
 
 > **Não foram localizados dados de validação para os filtros informados.**
 
-* #### Conceitos importantes
+</details>
+
+<details>
+
+<summary>Conceitos importantes</summary>
 
 <table data-view="cards"><thead><tr><th>Indicador</th><th>Significado</th></tr></thead><tbody><tr><td><strong>Documentos Validados</strong></td><td>Quantidade de documentos que tiveram sua validação concluída.</td></tr><tr><td><strong>Campos Avaliados</strong></td><td>Total de metadados analisados durante a validação humana.</td></tr><tr><td><strong>Mantidos Conforme IA</strong></td><td>Campos aceitos exatamente como sugeridos pela IA.</td></tr><tr><td><strong>Corrigidos</strong></td><td>Campos cujo valor sugerido pela IA foi alterado pelo usuário.</td></tr><tr><td><strong>Preenchidos Manualmente</strong></td><td>Campos sem sugestão da IA que foram preenchidos pelo usuário.</td></tr><tr><td><strong>Permaneceram Ausentes</strong></td><td>Campos opcionais que permaneceram sem valor após a validação.</td></tr><tr><td><strong>Assertividade</strong></td><td>Percentual de campos aceitos conforme a sugestão da IA.</td></tr><tr><td><strong>Divergência</strong></td><td>Percentual de campos que exigiram intervenção humana.</td></tr></tbody></table>
+
+
+
+</details>
 
 
 
