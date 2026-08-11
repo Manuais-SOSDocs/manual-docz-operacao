@@ -28,18 +28,18 @@ layout:
 
 # Últimas Novidades
 
-Este é o seu espaço para acompanhar tudo o que está mudando — e melhorando — no sistema. 🔄 Publicamos semanalmente as _release notes_, com melhorias, correções e novas funcionalidades. 📊 Trazemos também os destaques do trimestre, avanços em projetos e novidades que impactam diretamente sua experiência.
+Este é o seu espaço para acompanhar tudo o que está mudando e melhorando no sistema. 🔄 Publicamos semanalmente as _release notes_, com melhorias, correções e novas funcionalidades. 📊 Trazemos também os destaques do trimestre, avanços em projetos e novidades que impactam diretamente sua experiência.
 
 👀 Fique por dentro. Evoluímos o sistema continuamente para evoluir junto com você. 💡
 
-<kbd>#TimeDocZ</kbd> <kbd>#OrgulhoDeSerSOSDocs</kbd> <kbd>#TecnologiaProdutos</kbd> <kbd>#GEDs</kbd>
+<kbd>#TimeDocZ</kbd>  <kbd>#OrgulhoDeSerSOSDocs</kbd>  <kbd>#TecnologiaProdutos</kbd> <kbd>#GEDs</kbd>
 
 {% content-ref url="novidades-da-versao-publicada-em-03-08-2026..md" %}
 [novidades-da-versao-publicada-em-03-08-2026..md](novidades-da-versao-publicada-em-03-08-2026..md)
 {% endcontent-ref %}
 
-{% content-ref url="retrospectiva-docz-1o-semestre-2026.md" %}
-[retrospectiva-docz-1o-semestre-2026.md](retrospectiva-docz-1o-semestre-2026.md)
+{% content-ref url="retrospectiva-docz-1o-s-2026.md" %}
+[retrospectiva-docz-1o-s-2026.md](retrospectiva-docz-1o-s-2026.md)
 {% endcontent-ref %}
 
 {% content-ref url="repositorio-release-notes/" %}
