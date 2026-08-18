@@ -6,6 +6,18 @@ No **bloco direito** da tela de pesquisa, você encontra os filtros que permitem
 
 #### Veja como utilizá-los:
 
+{% hint style="info" %}
+#### **Dica: Utilização do caractere coringa (%)**
+
+O sistema disponibiliza o caractere % como coringa para ampliar os critérios de pesquisa, permitindo localizar termos que possuam apenas parte da informação conhecida.
+
+Exemplos:
+
+**contrat%** → retorna resultados contendo "contrato", "contratação", "contratado", "contratual" e variações semelhantes. **proc%2025** → retorna documentos que contenham expressões iniciadas por "proc" e associadas ao termo "2025". **%financeiro%** → retorna documentos que contenham o termo "financeiro" em qualquer posição do conteúdo ou metadado pesquisado.
+
+_O uso do caractere coringa é recomendado quando o usuário não possui a informação completa ou deseja ampliar o alcance da pesquisa._
+{% endhint %}
+
 ### **Pesquisa por chave e configurações**
 
 No início do **formulário de filtros de pesquisa**, são exibidos diversos campos — como mostrado na imagem.\
