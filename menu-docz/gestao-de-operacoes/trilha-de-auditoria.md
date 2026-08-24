@@ -197,6 +197,18 @@ O relatório contém todos os registros retornados pela consulta e respeita os f
 
 </details>
 
+<details>
+
+<summary><strong>Registro de Operações de APIs na Trilha de Auditoria</strong></summary>
+
+As operações realizadas por meio das APIs DocZ Integra, FileService e FileUtils passaram a ser registradas na Trilha de Auditoria.
+
+Os registros seguem o mesmo padrão de rastreabilidade adotado para as ações realizadas pela interface do DocZ, permitindo identificar as operações executadas por integrações e serviços.
+
+Benefícios: maior rastreabilidade das operações automatizadas, identificação da origem das ações, fortalecimento dos controles de auditoria e maior aderência aos requisitos de governança e rastreabilidade do SIGAD.
+
+</details>
+
 {% hint style="info" %}
 ## Segurança das informações
 

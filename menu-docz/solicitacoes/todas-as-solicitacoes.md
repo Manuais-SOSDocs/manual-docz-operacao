@@ -73,15 +73,13 @@ Permite gerar o relatório das solicitações em formato PDF.
 
 </details>
 
-
-
 ***
 
 ### 📥 **Resultados da Pesquisa (Parte Inferior da Tela)**
 
 A grid exibe as solicitações conforme os critérios definidos, com colunas para:
 
-<figure><img src="../../.gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (641).png" alt=""><figcaption></figcaption></figure>
 
 #### **Ações Disponíveis por Solicitação (Última Coluna da Tabela)**
 
@@ -168,6 +166,46 @@ Permitir que o usuário **cancele uma O.S. que não será mais executada.**
 
 {% hint style="info" %}
 [Acesse aqui a gestão de O.S. canceladas](solicitacoes-canceladas.md)
+{% endhint %}
+
+</details>
+
+<details>
+
+<summary><mark style="background-color:blue;">Impressão em lote</mark></summary>
+
+A funcionalidade **Impressão em Lote** permite gerar, de uma única vez, arquivos relacionados a várias Ordens de Serviço, evitando a necessidade de realizar a impressão individualmente.
+
+O recurso está disponível nas telas:
+
+* **Solicitações > Todas as Solicitações**;
+* **Solicitações > Solicitações Abertas**;
+* **Solicitações > Solicitações em Andamento**.
+
+> **Dica:** ao acessar **Todas as Solicitações**, recomenda-se utilizar os filtros disponíveis para localizar as O.S. de acordo com o status ou outras informações desejadas antes de iniciar a impressão em lote.
+
+#### Como realizar a impressão em lote
+
+1. Acesse uma das telas de solicitações disponíveis;
+2. Localize as Ordens de Serviço que deseja incluir na impressão;
+3.  Clique no botão **Impressão em Lote**, localizado abaixo da grade de resultados;<br>
+
+    <figure><img src="../../.gitbook/assets/image (645).png" alt=""><figcaption></figcaption></figure>
+4. Na janela **Impressão em Lote de O.S.**, selecione o **Tipo de Relatório** que deseja gerar:
+   * **Imprimir Localização Grid**;
+   * **Imprimir Localização**;
+   * **Imprimir O.S.**;
+5.  Na seção **Ordens de Serviço Disponíveis**, selecione as O.S. que deseja incluir no arquivo. Também é possível utilizar a opção **Selecionar todas as Ordens de Serviço**;<br>
+
+    <figure><img src="../../.gitbook/assets/image (646).png" alt=""><figcaption></figcaption></figure>
+6. Clique em **Exportar**.
+
+Após a solicitação de exportação, o sistema exibirá uma mensagem informando que a impressão em lote foi iniciada.
+
+<figure><img src="../../.gitbook/assets/image (647).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="success" %}
+**O arquivo será disponibilizado na** [**Central de Downloads**](../relatorios/central-de-downloads.md)**, e o usuário também será notificado por e-mail quando o processamento for concluído.**
 {% endhint %}
 
 </details>

@@ -33,6 +33,7 @@ icon: database
 | 28/05/2026         | Docz v:2026.05.28.18.1.5.17.6  | 🔗 [Ver detalhes](novidades-da-versao-publicada-em-28-05-2026..md)    |
 | 07/07/2026         | Docz v:2026.07.07.18.1.5.17.8  | 🔗 [Ver detalhes](novidades-da-versao-publicada-em-07-07-2026..md)    |
 | 14/07/2026         | Docz v:2026.07.14.18.1.5.17.9  | 🔗 [Ver detalhes](novidades-da-versao-publicada-em-14-07-2026..md)    |
-| 03/08/2026         | Docz v:2026.07.28.19.1.5.17.10 | 🔗 [Ver detalhes](../novidades-da-versao-publicada-em-03-08-2026..md) |
+| 03/08/2026         | Docz v:2026.07.28.19.1.5.17.10 | 🔗 [Ver detalhes](novidades-da-versao-publicada-em-03-08-2026..md)    |
+| 13/08/2026         | Docz v:2026.08.13.18.1.5.17.11 | 🔗 [Ver detalhes](../novidades-da-versao-publicada-em-13-08-2026..md) |
 
 <a href="../" class="button secondary" data-icon="circle-left">Voltar</a>
