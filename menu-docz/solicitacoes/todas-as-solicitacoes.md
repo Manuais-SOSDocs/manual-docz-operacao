@@ -89,7 +89,7 @@ A grid exibe as solicitações conforme os critérios definidos, com colunas par
 
 Permitir o gerenciamento individual dos itens de uma O.S., com ações de atribuição, visualização, impressão e controle de transporte, garantindo rastreabilidade e agilidade na gestão documental.
 
-<figure><img src="../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (648).png" alt=""><figcaption></figcaption></figure>
 
 #### Entenda o que significa cada campo:
 
@@ -108,7 +108,7 @@ Permitir o gerenciamento individual dos itens de uma O.S., com ações de atribu
 
 #### 🟦 **Ações Disponíveis**
 
-<table><thead><tr><th width="221">Botão</th><th>Função</th></tr></thead><tbody><tr><td><div><figure><img src="../../.gitbook/assets/image (13) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div></td><td>Cancelar o objeto da O.S.</td></tr><tr><td><div><figure><img src="../../.gitbook/assets/image (14) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div></td><td>Para visualizar o objeto da O.S.</td></tr><tr><td><strong>IMPRIMIR LOCALIZAÇÃO GRID</strong></td><td>Gera O.S. digital com a localização do item.</td></tr><tr><td><strong>IMPRIMIR LOCALIZAÇÃO</strong></td><td>Gera O.S. digital com a localização do item.</td></tr><tr><td><strong>ALTERAR ATRIBUIÇÃO DA O.S.</strong></td><td>Permite designar ou redirecionar a O.S. para um usuário interno responsável pelo atendimento.</td></tr><tr><td><strong>IMPRIMIR O.S.</strong></td><td>Faz o download automático da versão digital da O.S.</td></tr><tr><td><strong>DESTINATÁRIOS O.S.</strong></td><td>Adiciona ou consulta os destinatários da O.S. — pessoas que receberão o token e podem acompanhar o andamento da solicitação.</td></tr><tr><td><strong>ACOMPANHAR TRANSPORTE</strong></td><td>Redireciona para a aba de transporte, onde é possível acompanhar a movimentação dos itens.</td></tr><tr><td><strong>VOLTAR</strong></td><td>Fecha a janela pop-up e retorna à tela anterior.</td></tr></tbody></table>
+<table><thead><tr><th width="221">Botão</th><th>Função</th></tr></thead><tbody><tr><td><div><figure><img src="../../.gitbook/assets/image (13) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div></td><td>Cancelar o objeto da O.S.</td></tr><tr><td><div><figure><img src="../../.gitbook/assets/image (14) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div></td><td>Para visualizar o objeto da O.S.</td></tr><tr><td><strong>IMPRIMIR LOCALIZAÇÃO GRID</strong></td><td>Gera O.S. digital com a localização do item.</td></tr><tr><td><strong>IMPRIMIR LOCALIZAÇÃO</strong></td><td>Gera O.S. digital com a localização do item.</td></tr><tr><td><strong>ALTERAR ATRIBUIÇÃO DA O.S.</strong></td><td>Permite designar ou redirecionar a O.S. para um usuário interno responsável pelo atendimento.</td></tr><tr><td><strong>IMPRIMIR O.S.</strong></td><td>Faz o download automático da versão digital da O.S.</td></tr><tr><td><strong>DESTINATÁRIOS O.S.</strong></td><td>Adiciona ou consulta os destinatários da O.S. — pessoas que receberão o token e podem acompanhar o andamento da solicitação.</td></tr><tr><td><strong>ACOMPANHAR TRANSPORTE</strong></td><td>Redireciona para a aba de transporte, onde é possível acompanhar a movimentação dos itens.</td></tr><tr><td><strong>EXPORTAR ARQUIVOS DE DESTINAÇÃO</strong></td><td><p>A funcionalidade permite gerar um pacote contendo os arquivos vinculados às Ordens de Serviço de <strong>Expurgo</strong>, <strong>Recolhimento</strong> e <strong>Saída Definitiva</strong>.</p><ul><li><em>O sistema encaminhará a solicitação para processamento na <strong>Central de Downloads</strong>.</em></li></ul></td></tr><tr><td><strong>VOLTAR</strong></td><td>Fecha a janela pop-up e retorna à tela anterior.</td></tr></tbody></table>
 
 </details>
 
@@ -237,7 +237,7 @@ A funcionalidade **Exportação de Arquivos de Destinação** permite gerar um p
 
 O recurso é utilizado quando há necessidade de transferir, recolher ou disponibilizar documentos relacionados a processos de destinação documental, mantendo a rastreabilidade e o controle das operações realizadas.
 
-<img src="https://manualsosdocs.gitbook.io/adm-docz/~gitbook/image?url=https%3A%2F%2F2165951091-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FH2zBMzYHjbRsfnTeRGr3%252Fuploads%252F8YCX4FUANkMZu6Qi8qr4%252Funknown.png%3Falt%3Dmedia%26token%3D221e35b7-10f7-433a-ae4c-e6b2356a1f2f&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=f4e50c2d&#x26;sv=2" alt="" height="661" width="1011">
+![](https://manualsosdocs.gitbook.io/adm-docz/~gitbook/image?url=https%3A%2F%2F2165951091-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FH2zBMzYHjbRsfnTeRGr3%252Fuploads%252F8YCX4FUANkMZu6Qi8qr4%252Funknown.png%3Falt%3Dmedia%26token%3D221e35b7-10f7-433a-ae4c-e6b2356a1f2f\&width=768\&dpr=3\&quality=100\&sign=f4e50c2d\&sv=2)
 
 **Como exportar os arquivos**
 

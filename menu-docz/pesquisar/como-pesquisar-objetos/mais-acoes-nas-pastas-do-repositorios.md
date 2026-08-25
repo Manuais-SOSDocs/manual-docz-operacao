@@ -131,9 +131,37 @@ A funcionalidade **Editar** permite que o usuário **modifique os dados de uma p
 Agora, os **objetos** (documentos e caixas) também podem ser **organizados pelo código alternativo do cliente**, oferecendo **mais flexibilidade no uso do DocZ** e **maior integração com sistemas externos via API**.
 {% endhint %}
 
-<mark style="color:blue;">**Confira no vídeo abaixo como essa ação funciona ⤵️**</mark>
+### Grau de Sigilo da Pasta <a href="#grau-de-sigilo-da-pasta" id="grau-de-sigilo-da-pasta"></a>
 
-<figure><img src="../../../.gitbook/assets/© 2025 SOS Docs  Todos os direitos reservados. (1280 x 500 px) (1440 x 900 px) (7).gif" alt=""><figcaption></figcaption></figure>
+Ao criar ou editar uma pasta no projeto, é possível definir um **Grau de Sigilo** para classificar o nível de restrição aplicável ao seu conteúdo.
+
+Essa configuração permite identificar pastas que possuem informações com diferentes níveis de acesso e confidencialidade.
+
+**Como configurar**
+
+1. Acesse a criação ou edição da pasta.
+2. Localize o campo **Aplicar Grau de Sigilo**.\
+   ![](<../../../.gitbook/assets/image (649).png>)
+3. Clique na seta ao lado do campo.
+4. Selecione o nível de sigilo desejado.\
+   ![](<../../../.gitbook/assets/image (650).png>)
+5. Clique em **OK** para salvar a configuração.
+
+As opções disponíveis são:
+
+<table><thead><tr><th width="148">Grau de Sigilo</th><th>Descrição</th></tr></thead><tbody><tr><td><strong>Nenhum</strong></td><td>A pasta não possui classificação de sigilo aplicada.</td></tr><tr><td><strong>Público</strong></td><td>Indica que o conteúdo possui classificação pública.</td></tr><tr><td><strong>Reservado</strong></td><td>Indica que a pasta contém informações com acesso restrito.</td></tr><tr><td><strong>Secreto</strong></td><td>Indica um nível mais elevado de restrição e confidencialidade.</td></tr><tr><td><strong>Ultrassecreto</strong></td><td>Representa o nível máximo de classificação de sigilo disponível.</td></tr></tbody></table>
+
+> **Importante:** a aplicação do Grau de Sigilo deve ser realizada de acordo com as regras de classificação e controle de acesso adotadas pela organização.
+
+#### Configuração do Grau de Sigilo <a href="#configuracao-do-grau-de-sigilo" id="configuracao-do-grau-de-sigilo"></a>
+
+Para que os níveis de sigilo estejam disponíveis no cadastro das pastas, é necessário que eles estejam previamente cadastrados no domínio **SigiloAssociadoClasse**.
+
+Esse domínio é responsável por definir as opções exibidas no campo **Aplicar Grau de Sigilo**.
+
+{% hint style="info" %}
+Para realizar essa configuração, entre em contato com o **time de Suporte da SOSDOCS**.
+{% endhint %}
 
 </details>
 
