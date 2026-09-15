@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # App DocZ
@@ -77,40 +79,160 @@ Após selecionar o projeto, o usuário é direcionado para o **Menu Principal do
 
 </details>
 
-<details>
-
-<summary><strong>Menu Principal</strong></summary>
+### **Menu Lateral de Navegação**
 
 O **Menu Principal** concentra as principais funcionalidades operacionais do aplicativo.
-
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-**Menu Lateral de Navegação**
 
 O menu lateral permite acesso rápido às funcionalidades completas do sistema.
 
 _Ao selecionar uma opção, o sistema carrega automaticamente a tela correspondente._
 
-***
+<figure><img src="../.gitbook/assets/image (651).png" alt=""><figcaption></figcaption></figure>
 
-O rodapé da tela exibe:
+<details>
 
-* projeto ativo
-* usuário logado
+<summary><strong>Arquivar Caixa</strong></summary>
 
-Isso garante a **identificação do contexto operacional da sessão**.&#x20;
+Essa funcionalidade permite **associar caixas ou objetos a um container**, como caixas, paletes ou lotes, garantindo a rastreabilidade do arquivamento.
+
+**Fluxo de arquivamento**
+
+1. Informar o **container principal** (unidade de destino).
+2. Informar o(s) **objeto(s)** que serão armazenados no container.
+3. Confirmar novamente o **container principal** para finalizar a operação.
+
+Os itens processados são exibidos em uma **tabela de conferência**, indicando o objeto e sua localização.
+
+O sistema exibe o **total de itens processados**, permitindo que o usuário acompanhe o arquivamento e evite erros de conferência.
 
 </details>
 
 <details>
 
-<summary><strong>Consulta de Objetos</strong></summary>
+<summary><strong>Importar Legado</strong></summary>
+
+<figure><img src="../.gitbook/assets/image (671).png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary><strong>Arquivar documento</strong></summary>
+
+Essa funcionalidade permite **associar documentos ou objetos a um container**, como caixas, paletes ou lotes, garantindo a rastreabilidade do arquivamento.
+
+**Fluxo de arquivamento**
+
+1. Informar o **container principal** (unidade de destino).
+2. Informar o(s) **objeto(s)** que serão armazenados no container.
+3. Confirmar novamente o **container principal** para finalizar a operação.
+
+Os itens processados são exibidos em uma **tabela de conferência**, indicando o objeto e sua localização.
+
+O sistema exibe o **total de itens processados**, permitindo que o usuário acompanhe o arquivamento e evite erros de conferência.
+
+</details>
+
+<details>
+
+<summary><strong>Auditoria de O.S</strong></summary>
+
+<figure><img src="../.gitbook/assets/image (671).png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary><mark style="color:$tint;"><strong>Fotolabel do Espelho da Caixa</strong></mark></summary>
+
+A funcionalidade **Fotolabel do Espelho da Caixa** permite fotografar os espelhos das caixas de um pallet de forma sequencial e enviar as imagens ao DocZ ao final da operação.
+
+<figure><img src="../.gitbook/assets/image (658).png" alt="" width="375"><figcaption></figcaption></figure>
+
+### Como utilizar
+
+1. Acesse **Fotolabel do Espelho da Caixa** no aplicativo.
+2. Selecione **Leitor** para realizar a leitura das etiquetas. A leitura pode ser feita pelo aparelho ou pela câmera do celular/tablet, conforme a operação.
+3. Faça a leitura da **etiqueta do pallet**, que identifica as caixas vinculadas a ele.\
+   ![](<../.gitbook/assets/image (659).png>)
+4. Faça a leitura da **primeira caixa**. A câmera do dispositivo será aberta automaticamente.\
+   ![](<../.gitbook/assets/image (660).png>)
+5. **Fotografe o espelho da caixa**.\
+   ![](<../.gitbook/assets/image (661).png>)
+6. Repita a leitura e a fotografia para cada caixa do pallet.\
+   ![](<../.gitbook/assets/image (662).png>)
+7. Após concluir todas as caixas, selecione **Enviar** para encaminhar as imagens ao DocZ.\
+   ![](<../.gitbook/assets/image (663).png>)
+
+> **Importante:** realize o procedimento para todas as caixas do pallet antes de selecionar **Enviar**.
+
+</details>
+
+<details>
+
+<summary><mark style="color:$tint;"><strong>Fotolabel com Indexação Automática</strong></mark></summary>
+
+A funcionalidade **Fotolabel com Indexação Automática** permite registrar o espelho da caixa pelo aplicativo DocZ e encaminhá-lo automaticamente para processamento e indexação.
+
+### Como acessar
+
+No aplicativo DocZ, acesse o **menu principal** e selecione:
+
+<mark style="background-color:blue;">**Fotolabel com Indexação Automática**</mark>
+
+### Como utilizar:
+
+Após acessar a funcionalidade, siga as etapas apresentadas pelo aplicativo:
+
+<figure><img src="../.gitbook/assets/image (664).png" alt="" width="375"><figcaption></figcaption></figure>
+
+**1. Informe a localização**\
+Selecione a localização correspondente à caixa.
+
+**2. Identifique a caixa**\
+Informe ou realize a leitura das informações necessárias para identificar a caixa que será processada.
+
+**3. Fotografe o espelho da caixa**\
+Tire uma foto do espelho da caixa utilizando o aplicativo.
+
+**4. Envie a imagem**\
+Após a conclusão do fluxo, o aplicativo realiza o upload da imagem para o DocZ.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (668).png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+#### O que acontece depois?
+
+Após a identificação da caixa e conclusão do fluxo, o DocZ altera automaticamente o **Status da Gestão Documental** para:
+
+> **DISPONÍVEL PARA DOCFY**
+
+<figure><img src="../.gitbook/assets/image (652).png" alt=""><figcaption></figcaption></figure>
+
+Em seguida, o espelho da caixa é encaminhado automaticamente para processamento pelo **Docfy**.
+
+#### Resumindo
+
+**Localização → Caixa → Foto do espelho → Status atualizado → Processamento → Indexação**
+
+Essa sequência reduz etapas manuais e permite que as informações do espelho sejam processadas para facilitar a identificação e consulta da caixa.
+
+{% hint style="info" %}
+#### **💡 Atenção**
+
+Caso a opção **Fotolabel com Indexação Automática** não esteja disponível ou seja apresentada uma mensagem informando que o status **DISPONÍVEL PARA DOCFY** não está configurado, entre em contato com o **Suporte SOSDOCS**.
+{% endhint %}
+
+</details>
+
+<details>
+
+<summary><mark style="color:$tint;"><strong>Consultar Objeto</strong></mark></summary>
 
 A funcionalidade **Consulta de Objeto** permite localizar caixas ou documentos dentro do projeto ativo.
 
 Por meio dessa funcionalidade, o usuário pode acessar informações detalhadas do objeto, visualizar seu histórico de movimentações e realizar determinadas ações operacionais.
 
-#### Métodos de consulta
+#### **Métodos de consulta**
 
 O sistema permite três formas de entrada de dados:
 
@@ -118,40 +240,39 @@ O sistema permite três formas de entrada de dados:
 
 Após a leitura ou digitação, o sistema processa a consulta e apresenta as informações do objeto localizado.
 
-#### Visualização de Detalhes do Objeto
+#### **Visualização de Detalhes do Objeto**
 
 Após a realização da consulta, o sistema apresenta a tela de **detalhes do objeto**, contendo as principais informações cadastradas no sistema.
 
-<figure><img src="../.gitbook/assets/unknown (4).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (653).png" alt="" width="250"><figcaption></figcaption></figure>
 
 A partir dessa tela, o usuário também pode acessar funcionalidades adicionais relacionadas ao objeto consultado.
 
 **Fluxo da tela:**
 
-Consulta de Objeto ➡️ Visualização do objeto ➡️ Histórico / Expurgo / Nova consulta\
+Consulta de Objeto ➡️ Visualização do objeto ➡️ Histórico / Expurgo / Nova consulta
 
+#### **↘️ Ações disponíveis:**
 
-#### ↘️ Ações disponíveis:
-
-{% hint style="warning" %}
+{% hint style="info" %}
 **Consulta Contínua:** O usuário pode realizar uma nova busca de objeto diretamente pelos botões superiores sem precisar sair da tela de histórico.
 {% endhint %}
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><p><img src="../.gitbook/assets/unknown (5).png" alt=""></p><h4>Histórico do Objeto</h4><p>A funcionalidade <strong>Histórico do Objeto</strong> apresenta o registro completo das movimentações e alterações realizadas no item ao longo do tempo.</p><p>Cada registro do histórico contém:</p><ul><li><strong>Data e hora</strong> da ocorrência</li><li><strong>Tipo de evento</strong> registrado</li><li><strong>Usuário ou sistema responsável pela ação</strong></li></ul><p>Esse recurso permite acompanhar o <strong>ciclo de vida documental do objeto.</strong></p></td></tr><tr><td><p><img src="../.gitbook/assets/unknown (6).png" alt=""></p><h4>Expurgo do Objeto</h4><p>O <strong>expurgo</strong> representa o descarte definitivo do objeto no sistema, indicando que o item atingiu o fim de seu ciclo de vida documental.</p><p></p><p><strong>Ações disponíveis:</strong></p><ul><li><strong>Cancelar:</strong> fecha a janela e retorna à consulta do objeto sem alterações.</li><li><strong>Confirmação de Sucesso: a</strong>pós a confirmação, o sistema exibe a mensagem <strong>“Expurgo solicitado com sucesso”</strong>.</li></ul><p></p><p>A operação é registrada no <strong>histórico do objeto.</strong> </p></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><p><img src="../.gitbook/assets/image (655).png" alt=""></p><p><strong>Histórico do Objeto</strong></p><p>A funcionalidade <strong>Histórico do Objeto</strong> apresenta o registro completo das movimentações e alterações realizadas no item ao longo do tempo.</p><p>Cada registro do histórico contém:</p><ul><li><strong>Data e hora</strong> da ocorrência</li><li><strong>Tipo de evento</strong> registrado</li><li><strong>Usuário ou sistema responsável pela ação</strong></li></ul><p>Esse recurso permite acompanhar o <strong>ciclo de vida documental do objeto.</strong></p></td></tr><tr><td><p><img src="../.gitbook/assets/image (656).png" alt=""></p><p><strong>Expurgo do Objeto</strong></p><p>O <strong>expurgo</strong> representa o descarte definitivo do objeto no sistema, indicando que o item atingiu o fim de seu ciclo de vida documental.</p><p><strong>Ações disponíveis:</strong></p><ul><li><strong>Cancelar:</strong> fecha a janela e retorna à consulta do objeto sem alterações.</li><li><strong>Confirmação de Sucesso: a</strong>pós a confirmação, o sistema exibe a mensagem <strong>“Expurgo solicitado com sucesso”</strong>.</li></ul><p>A operação é registrada no <strong>histórico do objeto.</strong></p></td></tr></tbody></table>
+
+
 
 </details>
 
 <details>
 
-<summary><strong>Consulta de Conteúdo de Container</strong></summary>
+<summary><mark style="color:$tint;"><strong>Consultar Conteúdo</strong></mark></summary>
 
 Essa funcionalidade permite visualizar todos os **documentos ou objetos armazenados em um container específico**.
 
-<figure><img src="../.gitbook/assets/unknown (7).png" alt="" width="375"><figcaption></figcaption></figure>
-
 Após informar o código do container, o sistema apresenta a listagem de itens vinculados à unidade de armazenamento.
 
-#### Métodos de consulta
+**Métodos de consulta**
 
 O sistema permite três formas de entrada de dados:
 
@@ -161,97 +282,21 @@ Após a consulta, o sistema apresenta a **lista de objetos vinculados ao contain
 
 Cada item pode ser selecionado para **visualização detalhada**.
 
-<figure><img src="../.gitbook/assets/unknown (9).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (669).png" alt=""><figcaption></figcaption></figure>
 
-#### Detalhes do Objeto
+**Detalhes do Objeto**
 
-Ao selecionar um item da lista e clicar em <img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" data-size="line">, o sistema exibe um **modal com as informações completas do objeto**.
+Ao selecionar um item da lista e clicar em ![](<../.gitbook/assets/image (670).png>) , o sistema exibe um **modal com as informações completas do objeto**.
 
 Entre os dados apresentados estão:
 
-<table data-header-hidden><thead><tr><th width="88"></th><th></th><th width="134.666748046875"></th><th width="80"></th><th width="120"></th><th></th></tr></thead><tbody><tr><td>Assunto</td><td>Classificação</td><td>Departamento</td><td>ID SOS</td><td>Localização</td><td>Status do documento</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="88"></th><th></th><th width="135"></th><th width="77"></th><th width="117"></th><th></th></tr></thead><tbody><tr><td>Assunto</td><td>Classificação</td><td>Departamento</td><td>ID SOS</td><td>Localização</td><td>Status do documento</td></tr></tbody></table>
 
-<figure><img src="../.gitbook/assets/unknown (10).png" alt="" width="375"><figcaption></figcaption></figure>
+<img src="https://manualsosdocs.gitbook.io/docz-operacao/~gitbook/image?url=https%3A%2F%2F4238095802-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FjN82lf9J2JvpduBsGL1I%252Fuploads%252FQugfcEBXlXlJWTXfrct3%252Funknown.png%3Falt%3Dmedia%26token%3D3df3c29d-c1c1-4b67-9fab-4eda151463c7&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=82f2f7ebd8bcf44fa921a7c9b382473d&#x26;sv=3" alt="" width="375">
 
 Essas informações permitem a **conferência detalhada do registro e sua rastreabilidade no sistema**.
 
 </details>
-
-<details>
-
-<summary><strong>Solicitações (Ordens de Serviço)</strong></summary>
-
-A funcionalidade **Solicitações** permite criar e acompanhar **Ordens de Serviço (O.S)** relacionadas à movimentação de documentos ou caixas no acervo.
-
-<figure><img src="../.gitbook/assets/unknown (8).png" alt="" width="375"><figcaption></figcaption></figure>
-
-#### ↘️ Ações disponíveis:
-
-| <mark style="color:green;">Nova O.S de Empréstimo</mark> | <mark style="color:green;">Nova O.S de Devolução</mark> | <mark style="color:green;">Nova O.S de Implantação</mark> |
-| -------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------- |
-
-Também é possível acompanhar as solicitações já criadas por meio da **tabela de O.S**, que apresenta:
-
-| Número da solicitação | Tipo de serviço | Status da solicitação |
-| --------------------- | --------------- | --------------------- |
-
-#### 🔖 Como solicitar no APP?
-
-1. O usuário seleciona o tipo de **Nova O.S** desejado.
-2. O sistema cria a solicitação e exibe uma **mensagem de confirmação** com o número da O.S gerada.
-3. Após confirmar o alerta, o usuário deve **adicionar os itens (documentos, caixas ou lotes)** à solicitação.
-4. Em seguida, a solicitação pode ser **confirmada e enviada para atendimento**.
-
-{% hint style="info" %}
-As solicitações possuem **status de acompanhamento**, como por exemplo:
-
-* **ABERTA**
-* **EM ATENDIMENTO**
-
-Esses status permitem acompanhar o andamento da solicitação dentro do sistema.
-{% endhint %}
-
-</details>
-
-<details>
-
-<summary><strong>Arquivamento em Container</strong></summary>
-
-Essa funcionalidade permite **associar documentos ou objetos a um container**, como caixas, paletes ou lotes, garantindo a rastreabilidade do arquivamento.
-
-<figure><img src="../.gitbook/assets/unknown (11).png" alt="" width="375"><figcaption></figcaption></figure>
-
-#### Fluxo de arquivamento
-
-1. Informar o **container principal** (unidade de destino).
-2. Informar o(s) **objeto(s)** que serão armazenados no container.
-3. Confirmar novamente o **container principal** para finalizar a operação.
-
-Os itens processados são exibidos em uma **tabela de conferência**, indicando o objeto e sua localização.
-
-{% hint style="info" %}
-O sistema exibe o **total de itens processados**, permitindo que o usuário acompanhe o arquivamento e evite erros de conferência.
-{% endhint %}
-
-</details>
-
-<details>
-
-<summary>Atribuição de Localização</summary>
-
-<figure><img src="../.gitbook/assets/Estamos trabalhando para disponibilizar esse conteúdo o quanto antes. Volte em breve ou entre em contato caso precise de ajuda! (3).png" alt=""><figcaption></figcaption></figure>
-
-</details>
-
-<details>
-
-<summary>Status de Gestão Documental</summary>
-
-<figure><img src="../.gitbook/assets/Estamos trabalhando para disponibilizar esse conteúdo o quanto antes. Volte em breve ou entre em contato caso precise de ajuda! (3).png" alt=""><figcaption></figcaption></figure>
-
-</details>
-
-
 
 
 
