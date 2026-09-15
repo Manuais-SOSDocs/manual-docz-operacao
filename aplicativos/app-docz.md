@@ -147,7 +147,7 @@ O sistema exibe o **total de itens processados**, permitindo que o usuário acom
 
 A funcionalidade **Fotolabel do Espelho da Caixa** permite fotografar os espelhos das caixas de um pallet de forma sequencial e enviar as imagens ao DocZ ao final da operação.
 
-<figure><img src="../.gitbook/assets/image (658).png" alt="" width="375"><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/image (658).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ### Como utilizar
 
@@ -172,54 +172,74 @@ A funcionalidade **Fotolabel do Espelho da Caixa** permite fotografar os espelho
 
 <summary><mark style="color:$tint;"><strong>Fotolabel com Indexação Automática</strong></mark></summary>
 
-A funcionalidade **Fotolabel com Indexação Automática** permite registrar o espelho da caixa pelo aplicativo DocZ e encaminhá-lo automaticamente para processamento e indexação.
+A funcionalidade **Fotolabel com Indexação Automática** permite realizar a captura do espelho da Caixa e prepará-lo automaticamente para processamento pelo Docfy.
 
-### Como acessar
+Diferentemente do **Fotolabel do Espelho da Caixa**, que realiza a captura do espelho, esta funcionalidade integra a captura ao fluxo de processamento e indexação automática, reduzindo a necessidade de intervenções manuais.
 
-No aplicativo DocZ, acesse o **menu principal** e selecione:
+### Acesso à funcionalidade
 
-<mark style="background-color:blue;">**Fotolabel com Indexação Automática**</mark>
+No aplicativo Android DocZ, acesse:
+
+**Menu > Fotolabel com Indexação Automática**
+
+A funcionalidade apresenta ao usuário as três etapas necessárias para execução:
+
+1. **Informe a Localização**;
+2. **Informe a Caixa**;
+3. **Tire Foto do Espelho da Caixa**.
+
+O fluxo deve ser executado nessa ordem.
 
 ### Como utilizar:
 
 Após acessar a funcionalidade, siga as etapas apresentadas pelo aplicativo:
 
-<figure><img src="../.gitbook/assets/image (664).png" alt="" width="375"><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/image (664).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-**1. Informe a localização**\
-Selecione a localização correspondente à caixa.
+**1. Informe a Localização**
 
-**2. Identifique a caixa**\
-Informe ou realize a leitura das informações necessárias para identificar a caixa que será processada.
+Informe a localização correspondente ao local onde a Caixa está armazenada.
 
-**3. Fotografe o espelho da caixa**\
-Tire uma foto do espelho da caixa utilizando o aplicativo.
+**2. Informe a Caixa**
 
-**4. Envie a imagem**\
-Após a conclusão do fluxo, o aplicativo realiza o upload da imagem para o DocZ.
+Realize a leitura das informações solicitadas até que a Caixa seja identificada pelo sistema.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (668).png" alt="" width="375"><figcaption></figcaption></figure></div>
+A identificação correta da Caixa é necessária para que o espelho seja associado ao objeto documental correspondente.
 
-#### O que acontece depois?
+**3. Tire a Foto do Espelho da Caixa**
 
-Após a identificação da caixa e conclusão do fluxo, o DocZ altera automaticamente o **Status da Gestão Documental** para:
+Após a identificação da Caixa, realize a captura do **espelho da Caixa** pelo aplicativo.
 
-> **DISPONÍVEL PARA DOCFY**
+O aplicativo realiza o upload da imagem para o DocZ.
 
-<figure><img src="../.gitbook/assets/image (652).png" alt=""><figcaption></figcaption></figure>
+**4. Processamento automático**
 
-Em seguida, o espelho da caixa é encaminhado automaticamente para processamento pelo **Docfy**.
+Após a conclusão das etapas e do upload da imagem, o sistema realiza automaticamente a preparação da Caixa para processamento pelo Docfy.
 
-#### Resumindo
+O **Status da Gestão Documental** da Caixa é alterado automaticamente para:
 
-**Localização → Caixa → Foto do espelho → Status atualizado → Processamento → Indexação**
+<kbd>**DISPONIVEL PARA DOCFY**</kbd>
 
-Essa sequência reduz etapas manuais e permite que as informações do espelho sejam processadas para facilitar a identificação e consulta da caixa.
+<div align="left"><figure><img src="../.gitbook/assets/image (668).png" alt="" width="188"><figcaption></figcaption></figure></div>
+
+Na sequência, o espelho da Caixa é encaminhado automaticamente ao Docfy para processamento OCR e indexação dos campos.
+
+Dessa forma, o usuário **não precisa realizar manualmente a alteração do Status nem o envio do espelho ao Docfy**.
+
+<div align="left"><figure><img src="../.gitbook/assets/image (652).png" alt=""><figcaption><p>Exemplo da integração</p></figcaption></figure></div>
+
+{% hint style="warning" %}
+### **Atenção**
+
+O funcionamento da **Fotolabel com Indexação Automática** depende de regras específicas do projeto. Observe as orientações abaixo para evitar interrupções ou processamento incorreto.
+{% endhint %}
+
+### Regras negociais importantes
+
+<table data-header-hidden><thead><tr><th width="242"></th><th></th></tr></thead><tbody><tr><td>1. O Status é obrigatório</td><td><p>O projeto deve possuir previamente cadastrado o Status:</p><p><strong>DISPONIVEL PARA DOCFY</strong></p><p>Esse Status deve estar configurado no domínio <strong>StatusGestaoDocumental</strong> do projeto.</p><p><a href="https://sosdocs.atlassian.net/servicedesk/customer/portal/16"><em>A configuração é realizada previamente pelo <strong>Suporte durante a configuração do Projeto</strong>.</em></a></p></td></tr><tr><td>2. O Status <mark style="color:$danger;">não</mark> deve ser alterado pelo usuário</td><td><p>O valor <strong>DISPONIVEL PARA DOCFY</strong> é fixo para essa funcionalidade.</p><p>O Status não é definido pelo usuário durante a execução do Fotolabel e não deve ser substituído por outro Status para tentar realizar o processamento.</p></td></tr><tr><td>3. O sistema valida o Status antes de prosseguir</td><td><p>Antes de alterar o Status da Caixa e encaminhar o espelho ao Docfy, o sistema verifica se <strong>DISPONIVEL PARA DOCFY</strong> está cadastrado no projeto.</p><p>Caso o Status não esteja configurado, o processamento é interrompido.</p><p>O sistema exibirá a mensagem:</p><p><strong>“O status “DISPONIVEL PARA DOCFY” não está configurado para este projeto. Entre em contato com o suporte para realizar a configuração.”</strong></p><p><mark style="color:blue;">Nessa situação, <strong>não é necessário repetir o procedimento</strong>.</mark> <a href="https://sosdocs.atlassian.net/servicedesk/customer/portal/16"><mark style="color:blue;">O usuário deve entrar em contato com o Suporte para realizar a configuração necessária no projeto.</mark></a></p></td></tr><tr><td>4. O envio ao Docfy ocorre automaticamente</td><td><p>Depois que a imagem é enviada ao DocZ e o Status é alterado para <strong>DISPONIVEL PARA DOCFY</strong>, o espelho da Caixa é encaminhado automaticamente ao Docfy.</p><p>Portanto, <strong>não é necessário realizar um segundo envio manual do espelho para o processamento</strong>.</p></td></tr><tr><td>5. A alteração do Status também é automática</td><td><p>Ao concluir corretamente o fluxo, o sistema altera automaticamente o Status da Gestão Documental da Caixa.</p><p>O usuário não precisa realizar essa alteração manualmente.</p></td></tr><tr><td>6. A execução deve seguir o fluxo apresentado pelo aplicativo</td><td><p>A funcionalidade foi definida para seguir a sequência:</p><p><strong>Localização → Caixa → Foto do Espelho → Alteração automática do Status → Envio ao Docfy → Processamento/Indexação</strong></p><p>O usuário deve concluir as etapas apresentadas pelo aplicativo para que o processamento automático seja iniciado.</p></td></tr><tr><td>7. As ações ficam registradas na Trilha de Auditoria</td><td><p>As principais ações realizadas pela funcionalidade são registradas na <strong>Trilha de Auditoria</strong>, incluindo:</p><ul><li>alteração automática do Status da Gestão Documental para <strong>DISPONIVEL PARA DOCFY</strong>;</li><li>inserção do Fotolabel e envio automático do espelho ao Docfy;</li><li>tentativa de inserção do Fotolabel quando o Status obrigatório não estiver configurado.</li></ul></td></tr></tbody></table>
 
 {% hint style="info" %}
-#### **💡 Atenção**
-
-Caso a opção **Fotolabel com Indexação Automática** não esteja disponível ou seja apresentada uma mensagem informando que o status **DISPONÍVEL PARA DOCFY** não está configurado, entre em contato com o **Suporte SOSDOCS**.
+**Em caso de dúvidas, erros ou necessidade de implementação da funcionalidade,** [**clique aqui para acionar o Suporte da SOSDocs.**](https://sosdocs.atlassian.net/servicedesk/customer/portal/16)
 {% endhint %}
 
 </details>
@@ -244,7 +264,7 @@ Após a leitura ou digitação, o sistema processa a consulta e apresenta as inf
 
 Após a realização da consulta, o sistema apresenta a tela de **detalhes do objeto**, contendo as principais informações cadastradas no sistema.
 
-<figure><img src="../.gitbook/assets/image (653).png" alt="" width="250"><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/image (653).png" alt="" width="250"><figcaption></figcaption></figure></div>
 
 A partir dessa tela, o usuário também pode acessar funcionalidades adicionais relacionadas ao objeto consultado.
 
@@ -282,7 +302,7 @@ Após a consulta, o sistema apresenta a **lista de objetos vinculados ao contain
 
 Cada item pode ser selecionado para **visualização detalhada**.
 
-<figure><img src="../.gitbook/assets/image (669).png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/image (669).png" alt=""><figcaption></figcaption></figure></div>
 
 **Detalhes do Objeto**
 
@@ -292,7 +312,7 @@ Entre os dados apresentados estão:
 
 <table data-header-hidden><thead><tr><th width="88"></th><th></th><th width="135"></th><th width="77"></th><th width="117"></th><th></th></tr></thead><tbody><tr><td>Assunto</td><td>Classificação</td><td>Departamento</td><td>ID SOS</td><td>Localização</td><td>Status do documento</td></tr></tbody></table>
 
-<img src="https://manualsosdocs.gitbook.io/docz-operacao/~gitbook/image?url=https%3A%2F%2F4238095802-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FjN82lf9J2JvpduBsGL1I%252Fuploads%252FQugfcEBXlXlJWTXfrct3%252Funknown.png%3Falt%3Dmedia%26token%3D3df3c29d-c1c1-4b67-9fab-4eda151463c7&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=82f2f7ebd8bcf44fa921a7c9b382473d&#x26;sv=3" alt="" width="375">
+<div align="left"><img src="https://manualsosdocs.gitbook.io/docz-operacao/~gitbook/image?url=https%3A%2F%2F4238095802-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FjN82lf9J2JvpduBsGL1I%252Fuploads%252FQugfcEBXlXlJWTXfrct3%252Funknown.png%3Falt%3Dmedia%26token%3D3df3c29d-c1c1-4b67-9fab-4eda151463c7&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=82f2f7ebd8bcf44fa921a7c9b382473d&#x26;sv=3" alt="" width="375"></div>
 
 Essas informações permitem a **conferência detalhada do registro e sua rastreabilidade no sistema**.
 
