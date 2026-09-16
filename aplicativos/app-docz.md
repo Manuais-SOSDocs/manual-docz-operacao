@@ -36,7 +36,7 @@ Ele permite que usuários realizem atividades como:
 
 O aplicativo possui **interface otimizada para dispositivos móveis**, permitindo que as operações sejam realizadas por smartphones ou tablets durante atividades operacionais no acervo.
 
-<figure><img src="../.gitbook/assets/unknown.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Ações e funcionalidades no aplicativo DocZ:
 
@@ -79,11 +79,9 @@ Após selecionar o projeto, o usuário é direcionado para o **Menu Principal do
 
 </details>
 
-### **Menu Lateral de Navegação**
+### **Menu de Navegação**
 
 O **Menu Principal** concentra as principais funcionalidades operacionais do aplicativo.
-
-O menu lateral permite acesso rápido às funcionalidades completas do sistema.
 
 _Ao selecionar uma opção, o sistema carrega automaticamente a tela correspondente._
 
@@ -138,6 +136,58 @@ O sistema exibe o **total de itens processados**, permitindo que o usuário acom
 <summary><strong>Auditoria de O.S</strong></summary>
 
 <figure><img src="../.gitbook/assets/image (671).png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+<details>
+
+<summary><mark style="color:$tint;"><strong>[FOTOLABEL] Regras de armazenamento da Caixa Box (CB) na Caixa 20KG (CX)</strong></mark></summary>
+
+Nas funcionalidades **Fotolabel com Indexação Automática** e **Fotolabel do Espelho da Caixa**, é permitido utilizar uma **Caixa 20KG (CX) como recipiente para armazenamento de Caixas Box (CB)**.
+
+Ao informar uma Caixa 20KG no campo **Localização**, o sistema passa a considerar essa CX como o recipiente imediatamente superior das CBs que forem vinculadas a ela.
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td><h4>Limite de armazenamento</h4><p>Cada <strong>Caixa 20KG (CX) pode possuir, no máximo, 3 Caixas Box (CB) vinculadas simultaneamente</strong>.</p><p>Esse limite é obrigatório e o sistema não permite que uma CX permaneça com mais de 3 CBs vinculadas.<br><br></p></td></tr><tr><td><h4>Como o sistema calcula a capacidade disponível</h4><p>A capacidade não é calculada considerando somente as CBs bipadas na operação atual.</p><p>Ao clicar em <strong>Enviar</strong>, o sistema consulta as CBs que <strong>já estão vinculadas à CX</strong> e soma esse número às CBs incluídas na operação atual.</p></td></tr></tbody></table>
+
+#### Exemplos **prático:**
+
+Se a CX já possui **1 CB vinculada** e o usuário bipar **3 novas CBs**, o sistema identificará:
+
+**1 CB existente + 3 CBs novas = 4 CBs**
+
+Como o resultado ultrapassa o limite de 3, **o envio será bloqueado**.
+
+#### ⚠️ Atenção ao clicar em "Enviar"
+
+A validação da capacidade ocorre **no momento em que o usuário clica em "Enviar"**.
+
+Durante a bipagem, o sistema permite adicionar as CBs à operação sem realizar, naquele momento, a validação do limite. A conferência é realizada integralmente no envio.
+
+Por isso, o usuário pode bipar uma quantidade de CBs superior à capacidade disponível durante a operação. **Isso não significa que o vínculo será realizado.**
+
+Se o total ultrapassar 3 CBs, o sistema bloqueará **toda a operação**.
+
+#### ❌ Não há vínculo parcial
+
+Quando o limite é excedido, o sistema:
+
+* bloqueia o envio da operação;
+* não vincula nenhuma das novas CBs à CX;
+* mantém os vínculos que já existiam;
+* não altera a localização das CBs;
+* não altera a quantidade de objetos já vinculados à CX;
+* mantém a operação sem processamento.
+
+#### Onde essa regra se aplica
+
+A regra de capacidade máxima de **3 CBs por CX** é aplicada da mesma forma nas duas funcionalidades:
+
+* **Fotolabel com Indexação Automática**;
+* **Fotolabel do Espelho da Caixa**.
+
+{% hint style="warning" %}
+As demais modalidades de bipagem e estruturas de armazenamento permanecem com seus fluxos e regras existentes.
+{% endhint %}
 
 </details>
 
