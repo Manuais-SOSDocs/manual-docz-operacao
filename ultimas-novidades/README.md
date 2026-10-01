@@ -24,6 +24,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Últimas Novidades
@@ -34,8 +36,10 @@ Este é o seu espaço para acompanhar tudo o que está mudando e melhorando no s
 
 <kbd>#TimeDocZ</kbd>  <kbd>#OrgulhoDeSerSOSDocs</kbd>  <kbd>#TecnologiaProdutos</kbd> <kbd>#GEDs</kbd>
 
-{% content-ref url="repositorio-release-notes/novidades-da-versao-publicada-em-03-08-2026..md" %}
-[novidades-da-versao-publicada-em-03-08-2026..md](repositorio-release-notes/novidades-da-versao-publicada-em-03-08-2026..md)
+
+
+{% content-ref url="novidades-da-versao-publicada-em-22-09-2026..md" %}
+[novidades-da-versao-publicada-em-22-09-2026..md](novidades-da-versao-publicada-em-22-09-2026..md)
 {% endcontent-ref %}
 
 {% content-ref url="retrospectiva-docz-1o-s-2026.md" %}
