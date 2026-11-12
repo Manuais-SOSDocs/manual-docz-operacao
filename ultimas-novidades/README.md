@@ -38,8 +38,8 @@ Este é o seu espaço para acompanhar tudo o que está mudando e melhorando no s
 
 
 
-{% content-ref url="novidades-da-versao-publicada-em-22-09-2026..md" %}
-[novidades-da-versao-publicada-em-22-09-2026..md](novidades-da-versao-publicada-em-22-09-2026..md)
+{% content-ref url="repositorio-release-notes/novidades-da-versao-publicada-em-11-11-2026..md" %}
+[novidades-da-versao-publicada-em-11-11-2026..md](repositorio-release-notes/novidades-da-versao-publicada-em-11-11-2026..md)
 {% endcontent-ref %}
 
 {% content-ref url="retrospectiva-docz-1o-s-2026.md" %}
